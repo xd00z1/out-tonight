@@ -6,8 +6,7 @@ on:
     - cron: "0 10 * * 1,4"
   workflow_dispatch:
   push:
-    branches: [main]
-    paths-ignore: ["public/events.json", "public/calendar.ics", "public/status.json"]
+    branches: [main]  # includes the monthly local run's data push; the bot's own pushes never retrigger
 
 permissions:
   contents: write

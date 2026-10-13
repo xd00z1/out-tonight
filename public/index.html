@@ -288,7 +288,10 @@ document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click"
           .map(b => h("a", { href: b.url, target: "_blank", rel: "noopener", title: b.note || "", text: name(b) }))))));
     document.getElementById("more").hidden = !(ev.browse || []).length;
     const upd = new Date(ev.generated_at).toLocaleDateString("en-US", { timeZone: TZ, weekday: "short", month: "short", day: "numeric" });
-    const failed = st && st.counts.failed ? ` · ${st.counts.failed} sources failed` : "";
+    // A source GitHub can't reach still counts as fine if the monthly local run reached it recently.
+    const cutoff = new Date(Date.now() - 40 * 864e5).toISOString().slice(0, 10);
+    const stale = st ? st.sources.filter(x => x.result === "failed" && !(x.last_success && x.last_success >= cutoff)).length : 0;
+    const failed = stale ? ` · ${stale} sources failing` : "";
     const feed = new URL("calendar.ics", location.href).href;
     document.getElementById("foot").replaceChildren(`Updated ${upd}${failed} · `, h("a", { href: feed, text: "Calendar feed" }));
   } catch {
