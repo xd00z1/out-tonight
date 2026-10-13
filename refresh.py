@@ -32,7 +32,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 TIMEOUT = 20
 DELAY = 1.0
 DEADLINE_S = 9 * 60
-RECUR_DAYS = 30
+RECUR_DAYS = 120
 FETCH_DAYS = 60
 ICS_DAYS = 60
 
@@ -378,8 +378,13 @@ def tidy_title(t):
     return t[:200]
 
 
-def excluded(title, patterns):
-    return any(p and re.search(p, title, re.I) for p in patterns)
+def _clean(s):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", htmllib.unescape(s))).strip() or None if s else None
+
+
+def excluded(title, patterns, location=""):
+    text = f"{title} {location or ''}"
+    return any(p and re.search(p, text, re.I) for p in patterns)
 
 
 def from_raw(raw, src, today):
@@ -399,7 +404,7 @@ def from_raw(raw, src, today):
         "all_day": bool(raw.get("all_day")),
         "multi_day_end": raw.get("multi_day_end"),
         "venue": htmllib.unescape(venue) if venue else None,
-        "address": raw.get("address") or raw.get("location"),
+        "address": src.get("address") or raw.get("address") or _clean(raw.get("location")),
         "neighborhood": ZIP_HOOD.get(str(zipc)) if zipc else src.get("neighborhood"),
         "category": src["category"],
         "cost_tier": cost_tier_for(cost_text, src.get("default_cost_tier")),
@@ -687,7 +692,7 @@ def run(offline=False, today=None, out=PUBLIC):
                     "jsonld": lambda: jsonld_events(r.text),
                     "nextdata": lambda: nextdata_events(r.text, target)}[st["method"]]()
             horizon = today + timedelta(days=FETCH_DAYS)
-            evs = [from_raw(x, src, today) for x in raws if not excluded(x.get("title", ""), pats[src["id"]])]
+            evs = [from_raw(x, src, today) for x in raws if not excluded(x.get("title", ""), pats[src["id"]], x.get("location"))]
             evs = [e for e in evs if last_day(e) >= today and parse_dt(e["start"])[0].date() <= horizon]
             evs.sort(key=lambda e: str(e["start"]))
             evs = evs[: src.get("max_events", 15)]
@@ -709,6 +714,9 @@ def run(offline=False, today=None, out=PUBLIC):
     events = merged + seeded + expand_recurring(recurring, today)
     events = [e for e in events if last_day(e) >= today]
     events = dedupe(events)
+    # A standing option is redundant when the venue's own feed lists the same slot.
+    slots = {(norm_key(e["venue"]), e["start"]) for e in events if not e.get("recurring")}
+    events = [e for e in events if not (e.get("recurring") and (norm_key(e["venue"]), e["start"]) in slots)]
     events.sort(key=lambda e: (str(e["start"])[:10], str(e["start"])))
     if not offline:
         check_urls(events, deadline)
