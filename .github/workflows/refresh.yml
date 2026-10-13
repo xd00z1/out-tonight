@@ -1,0 +1,53 @@
+name: refresh
+
+on:
+  schedule:
+    # 10:00 UTC = 6am Eastern in summer, 5am in winter. Mondays and Thursdays.
+    - cron: "0 10 * * 1,4"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ["public/events.json", "public/calendar.ics", "public/status.json"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests
+      - run: python refresh.py
+      - name: Commit regenerated files
+        run: |
+          git config user.name "refresh-bot"
+          git config user.email "refresh-bot@users.noreply.github.com"
+          git add public/events.json public/calendar.ics public/status.json
+          git diff --cached --quiet || git commit -m "refresh $(TZ=America/New_York date +%F)"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

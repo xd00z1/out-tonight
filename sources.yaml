@@ -1,0 +1,84 @@
+# Curated pages to check. One row per source.
+#
+# method:
+#   ics     - an iCalendar feed (feed_url)
+#   tribe   - WordPress "The Events Calendar" REST API (feed_url)
+#   jsonld  - schema.org Event blocks embedded in the page HTML (url)
+#   nextdata - title + start date objects in a Next.js page's __NEXT_DATA__ (url)
+#   link    - no machine-readable events found; shown on the page as a
+#             "worth checking" link, never parsed
+#
+# probe.py fills in method/feed_url; edit by hand afterwards if needed.
+# Defaults apply when a source doesn't state cost or guest policy.
+
+defaults:
+  max_events: 15
+  default_cost_tier: null   # unknown unless the source states it
+  default_guest_ok: null
+  enabled: true
+  # Titles matching this regex are dropped from every source (a source's own
+  # `exclude` is applied in addition).
+  exclude: '\bsold out\b|\bonline\b|\bvirtual\b|webinar|\bzoom\b|\bcourse\b|\bclass(es)?\b|mixed level'
+
+sources:
+  - {id: tribeca_arts_district, url: "https://tribecaartsdistrict.org/events", category: openings, neighborhood: Tribeca, note: "Dated openings across ~94 Tribeca galleries", method: link, probe: "200 no structured events"}
+  - {id: artwrld_nyc, url: "https://www.artwrld.com/city/new-york/openings-events", category: openings, method: link, probe: "200 no structured events"}
+  - {id: artnet_openings, url: "https://www.artnet.com/events/new-york/gallery-openings/", category: openings, method: link, probe: "403 HTTP 403"}
+  - {id: exhibits_in_ny, url: "https://exhibitsinnewyork.substack.com/archive", category: openings, note: "Substack roundup", method: link, probe: "200 rss posts only"}
+  - {id: two_coats, url: "https://twocoatsofpaint.com/", category: openings, note: "Monthly guide by neighborhood", method: link, probe: "429 HTTP 429"}
+  - {id: artists_space, url: "https://artistsspace.org/programs", category: books_talks, neighborhood: Tribeca, method: link, probe: "200 no structured events"}
+  - {id: participant_inc, url: "https://participantinc.org/", category: performance, neighborhood: Lower East Side, method: link, probe: "200 no structured events"}
+  - {id: swiss_institute, url: "https://www.swissinstitute.net/", category: openings, note: "Offsite until spring 2027", method: link, probe: "200 no structured events"}
+  - {id: drawing_center, url: "https://drawingcenter.org/visit", category: openings, neighborhood: SoHo, method: link, probe: "200 no structured events"}
+  - {id: hill_art, url: "https://hillartfoundation.org/", category: books_talks, neighborhood: Chelsea, method: link, probe: "200 no structured events"}
+  - {id: pioneer_works, url: "https://pioneerworks.org/programs", category: books_talks, neighborhood: Red Hook, method: link, probe: "200 rss posts only"}
+  - {id: iscp, url: "https://iscp-nyc.org/events", category: openings, method: link, probe: "200 no structured events"}
+  - {id: silver_art, url: "https://www.silverart.org/events", category: openings, method: link, probe: "200 no structured events"}
+  - {id: lmcc, url: "https://lmcc.net/", category: openings, method: tribe, feed_url: "https://lmcc.net/wp-json/tribe/events/v1/events", probe: "200 5 VEVENTs; tribe API has venue"}
+  - {id: fit_museum, url: "https://www.fitnyc.edu/museum/events/index.php", category: fashion_design, neighborhood: Chelsea, note: "Free talks", method: link, probe: "200 no structured events"}
+  - {id: nyc_jewelry_week, url: "https://nycjewelryweek.com/", category: watches_jewelry, method: link, probe: "200 rss posts only"}
+  - {id: sothebys_ny, url: "https://www.sothebys.com/en/calendar?locations=new-york&types=event", category: fashion_design, neighborhood: Upper East Side, method: link, probe: "200 rss posts only"}
+  - {id: archleague, url: "https://archleague.org/events/", category: fashion_design, method: link, probe: "200 rss posts only"}
+  - {id: gsapp, url: "https://www.arch.columbia.edu/events", category: books_talks, neighborhood: Morningside Heights, note: "Guests need two business days notice", method: link, probe: "robots disallowed by robots.txt"}
+  - {id: miller_theatre, url: "https://www.millertheatre.com/events", category: opera_classical, neighborhood: Morningside Heights, method: link, probe: "200 no structured events"}
+  - {id: trinity_church, url: "https://trinitychurchnyc.org/music", category: opera_classical, neighborhood: FiDi, method: link, probe: "200 no structured events"}
+  - {id: juilliard, url: "https://www.juilliard.edu/stage-beyond/performance/calendar", category: opera_classical, neighborhood: Lincoln Square, method: link, probe: "200 no structured events"}
+  - {id: frick_concerts, url: "https://www.frick.org/programs/concerts", category: opera_classical, neighborhood: Upper East Side, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: death_of_classical, url: "https://www.deathofclassical.com/", category: opera_classical, default_cost_tier: per_ticket, note: "Sells out; watch on-sale dates", method: link, probe: "200 no structured events"}
+  - {id: dizzys, venue: "Dizzy's Club", url: "https://www.jazz.org/dizzys/", category: jazz_music, max_events: 8, neighborhood: Columbus Circle, default_cost_tier: per_ticket, method: jsonld, probe: "200 44 JSON-LD events"}
+  - {id: smalls, url: "https://www.smallslive.com/tickets/", category: jazz_music, neighborhood: West Village, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: winter_jazzfest, url: "https://www.winterjazzfest.com/", category: jazz_music, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: lpr, url: "https://lpr.com/", category: jazz_music, neighborhood: West Village, default_cost_tier: per_ticket, method: link, probe: "200 rss posts only"}
+  - {id: public_records, url: "https://publicrecords.nyc/", category: nightlife, neighborhood: Gowanus, default_cost_tier: per_ticket, method: link, probe: "200 rss posts only"}
+  - {id: mcnally_jackson, url: "https://www.mcnallyjackson.com/events", category: books_talks, method: link, probe: "403 HTTP 403"}
+  - {id: the_drift, url: "https://www.thedriftmag.com/events", category: books_talks, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: paris_review, url: "https://www.theparisreview.org/events", category: books_talks, method: link, probe: "200 no structured events"}
+  - {id: reading_the_city, url: "https://readingthecity.substack.com/", category: books_talks, note: "Weekly list of NYC book events", method: link, probe: "200 rss posts only"}
+  - {id: cooper_union, url: "https://www.cooper.edu/events-and-exhibitions/events", category: books_talks, neighborhood: East Village, method: link, probe: "200 no structured events"}
+  - {id: secret_science, url: "https://secretscienceclub.blogspot.com/", category: books_talks, method: link, probe: "200 rss posts only"}
+  - {id: italian_institute, url: "https://iicnewyork.esteri.it/en/gli_eventi/calendario/", category: institutes, neighborhood: Upper East Side, method: link, probe: "200 rss posts only"}
+  - {id: goethe_ny, url: "https://www.goethe.de/ins/us/en/sta/ney/ver.cfm", category: institutes, method: link, probe: "403 HTTP 403"}
+  - {id: americas_society, url: "https://www.as-coa.org/events", category: institutes, neighborhood: Upper East Side, method: link, probe: "200 no structured events"}
+  - {id: japan_society, url: "https://japansociety.org/", category: institutes, neighborhood: Midtown East, method: link, probe: "200 no structured events"}
+  - {id: kccny, url: "https://www.koreanculture.org/", category: institutes, neighborhood: Midtown, method: link, probe: "200 rss posts only"}
+  - {id: scandinavia_house, venue: "Scandinavia House", url: "https://www.scandinaviahouse.org/events/", category: institutes, neighborhood: Murray Hill, method: tribe, feed_url: "https://www.scandinaviahouse.org/wp-json/tribe/events/v1/events", probe: "200 30 VEVENTs; tribe API has venue"}
+  - {id: austrian_forum, venue: "Austrian Cultural Forum", url: "https://www.acfny.org/events", category: institutes, neighborhood: Midtown, method: jsonld, probe: "200 10 JSON-LD events"}
+  - {id: villa_albertine, url: "https://villa-albertine.org/va/events/?location=new-york", category: institutes, method: link, probe: "200 rss posts only"}
+  - {id: screen_slate, url: "https://screenslate.com", category: film, max_events: 5, note: "High volume; link out", method: link, probe: "200 no structured events"}
+  - {id: flc, url: "https://www.filmlinc.org/", category: film, neighborhood: Lincoln Square, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: cherry_lane, url: "https://www.cherrylanetheatre.org/", category: film, neighborhood: West Village, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: docnyc, url: "https://www.docnyc.net/", category: film, default_cost_tier: per_ticket, method: link, probe: "200 rss posts only"}
+  - {id: pac_nyc, url: "https://pacnyc.org/", category: performance, neighborhood: FiDi, method: link, probe: "200 no structured events"}
+  - {id: bam, url: "https://www.bam.org/nextwave", category: performance, neighborhood: Fort Greene, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: luma_nyc, url: "https://luma.com/nyc", category: books_talks, max_events: 8, method: jsonld, probe: "200 20 JSON-LD events", note: "City-wide calendar; tech/meetup noise filtered", exclude: 'hackathon|startup|founder|\bAI\b|agent|build day|operator|dating|mixer|networking|investor|\bVC\b|crypto|web3|demo day|pitch|engineering|developer|\bSaaS\b|\bGTM\b|product|claude|gpt|llm|career|coworking|run club|fitness|yoga|wellness|\bwalk\b|miles &|coffee|\bcafe\b|mimosa|coding'}
+  - {id: pi_fyi, url: "https://pi.fyi/events", category: nightlife, max_events: 8, method: link, probe: "200 no structured events"}
+  - {id: nonsense_nyc, url: "https://nonsensenyc.com", category: nightlife, method: link, probe: "200 no structured events"}
+  - {id: the_skint, url: "https://theskint.com", category: nightlife, max_events: 5, method: link, probe: "200 rss posts only"}
+  - {id: nycforfree, url: "https://nycforfree.co/", category: fashion_design, max_events: 8, method: link, probe: "200 no structured events"}
+  - {id: flatiron_wines, url: "https://nyc.flatiron-wines.com/pages/events-in-new-york-city-flatiron-wines-spirits", category: food_wine, neighborhood: Flatiron, default_age_min: 21, method: link, probe: "429 HTTP 429"}
+  - {id: whitney, url: "https://whitney.org/events", category: museums, neighborhood: Meatpacking, method: link, probe: "200 no structured events"}
+  - {id: new_museum, venue: "New Museum", url: "https://www.newmuseum.org/", category: museums, neighborhood: Lower East Side, method: nextdata, probe: "200 8 upcoming in __NEXT_DATA__"}
+  - {id: winter_show, url: "https://thewintershow.org/events", category: fairs, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
+  - {id: salon_art_design, url: "https://www.thesalonny.com/", category: fairs, default_cost_tier: per_ticket, method: link, probe: "200 rss posts only"}
+  - {id: frieze_ny, url: "https://www.frieze.com/fairs/frieze-new-york", category: fairs, default_cost_tier: per_ticket, method: link, probe: "403 HTTP 403"}
+  - {id: nycxdesign, url: "https://nycxdesign.org/festival", category: fashion_design, method: link, probe: "200 no structured events"}

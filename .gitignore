@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+probe_results.json
+probe_log.txt
+docs/research-report.md

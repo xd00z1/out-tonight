@@ -1,0 +1,624 @@
+{
+ "generated_at": "2026-10-13T14:28:22-04:00",
+ "duration_s": 86.4,
+ "counts": {
+  "ok": 6,
+  "empty": 0,
+  "failed": 0,
+  "link": 55,
+  "skipped": 0,
+  "disabled": 0
+ },
+ "sources": [
+  {
+   "id": "tribeca_arts_district",
+   "url": "https://tribecaartsdistrict.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "artwrld_nyc",
+   "url": "https://www.artwrld.com/city/new-york/openings-events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "artnet_openings",
+   "url": "https://www.artnet.com/events/new-york/gallery-openings/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "exhibits_in_ny",
+   "url": "https://exhibitsinnewyork.substack.com/archive",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "two_coats",
+   "url": "https://twocoatsofpaint.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "artists_space",
+   "url": "https://artistsspace.org/programs",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "participant_inc",
+   "url": "https://participantinc.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "swiss_institute",
+   "url": "https://www.swissinstitute.net/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "drawing_center",
+   "url": "https://drawingcenter.org/visit",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "hill_art",
+   "url": "https://hillartfoundation.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "pioneer_works",
+   "url": "https://pioneerworks.org/programs",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "iscp",
+   "url": "https://iscp-nyc.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "silver_art",
+   "url": "https://www.silverart.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "lmcc",
+   "url": "https://lmcc.net/",
+   "method": "tribe",
+   "result": "ok",
+   "http_status": 200,
+   "count": 4,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "fit_museum",
+   "url": "https://www.fitnyc.edu/museum/events/index.php",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nyc_jewelry_week",
+   "url": "https://nycjewelryweek.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "sothebys_ny",
+   "url": "https://www.sothebys.com/en/calendar?locations=new-york&types=event",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "archleague",
+   "url": "https://archleague.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "gsapp",
+   "url": "https://www.arch.columbia.edu/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "miller_theatre",
+   "url": "https://www.millertheatre.com/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "trinity_church",
+   "url": "https://trinitychurchnyc.org/music",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "juilliard",
+   "url": "https://www.juilliard.edu/stage-beyond/performance/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "frick_concerts",
+   "url": "https://www.frick.org/programs/concerts",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "death_of_classical",
+   "url": "https://www.deathofclassical.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "dizzys",
+   "url": "https://www.jazz.org/dizzys/",
+   "method": "jsonld",
+   "result": "ok",
+   "http_status": 200,
+   "count": 8,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "smalls",
+   "url": "https://www.smallslive.com/tickets/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "winter_jazzfest",
+   "url": "https://www.winterjazzfest.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "lpr",
+   "url": "https://lpr.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "public_records",
+   "url": "https://publicrecords.nyc/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "mcnally_jackson",
+   "url": "https://www.mcnallyjackson.com/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "the_drift",
+   "url": "https://www.thedriftmag.com/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "paris_review",
+   "url": "https://www.theparisreview.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "reading_the_city",
+   "url": "https://readingthecity.substack.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "cooper_union",
+   "url": "https://www.cooper.edu/events-and-exhibitions/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "secret_science",
+   "url": "https://secretscienceclub.blogspot.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "italian_institute",
+   "url": "https://iicnewyork.esteri.it/en/gli_eventi/calendario/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "goethe_ny",
+   "url": "https://www.goethe.de/ins/us/en/sta/ney/ver.cfm",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "americas_society",
+   "url": "https://www.as-coa.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "japan_society",
+   "url": "https://japansociety.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "kccny",
+   "url": "https://www.koreanculture.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "scandinavia_house",
+   "url": "https://www.scandinaviahouse.org/events/",
+   "method": "tribe",
+   "result": "ok",
+   "http_status": 200,
+   "count": 15,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "austrian_forum",
+   "url": "https://www.acfny.org/events",
+   "method": "jsonld",
+   "result": "ok",
+   "http_status": 200,
+   "count": 9,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "villa_albertine",
+   "url": "https://villa-albertine.org/va/events/?location=new-york",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "screen_slate",
+   "url": "https://screenslate.com",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "flc",
+   "url": "https://www.filmlinc.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "cherry_lane",
+   "url": "https://www.cherrylanetheatre.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "docnyc",
+   "url": "https://www.docnyc.net/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "pac_nyc",
+   "url": "https://pacnyc.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bam",
+   "url": "https://www.bam.org/nextwave",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "luma_nyc",
+   "url": "https://luma.com/nyc",
+   "method": "jsonld",
+   "result": "ok",
+   "http_status": 200,
+   "count": 8,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "pi_fyi",
+   "url": "https://pi.fyi/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nonsense_nyc",
+   "url": "https://nonsensenyc.com",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "the_skint",
+   "url": "https://theskint.com",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nycforfree",
+   "url": "https://nycforfree.co/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "flatiron_wines",
+   "url": "https://nyc.flatiron-wines.com/pages/events-in-new-york-city-flatiron-wines-spirits",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "whitney",
+   "url": "https://whitney.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "new_museum",
+   "url": "https://www.newmuseum.org/",
+   "method": "nextdata",
+   "result": "ok",
+   "http_status": 200,
+   "count": 14,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "winter_show",
+   "url": "https://thewintershow.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "salon_art_design",
+   "url": "https://www.thesalonny.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "frieze_ny",
+   "url": "https://www.frieze.com/fairs/frieze-new-york",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nycxdesign",
+   "url": "https://nycxdesign.org/festival",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  }
+ ]
+}

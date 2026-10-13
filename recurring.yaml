@@ -1,0 +1,257 @@
+# Standing weekly/monthly options, expanded into dated instances for the next 30 days.
+# All come out as confidence: carried. Confirm hours on the venue page now and then.
+#
+# Rule keys:
+#   days: [mon..sun]        weekdays it happens (default: every day)
+#   nth: [1]                only the nth such weekday of the month (1 = first)
+#   monthday: 1             a fixed day of the month instead of weekdays
+#   except_months: [1, 9]   skip these months
+#   from / until            date bounds (inclusive)
+#   time / end              "HH:MM" 24h; omit time when the source gives none -> all-day
+#   kind: on_sale           ticket release rather than an event
+
+- title: Whitney Free Friday Nights
+  venue: Whitney Museum
+  address: 99 Gansevoort St, New York, NY
+  neighborhood: Meatpacking
+  category: museums
+  days: [fri]
+  time: "17:00"
+  end: "22:00"
+  cost_tier: free
+  cost_text: Free
+  url: https://whitney.org/visit
+  why: Free museum night ten minutes from home
+
+- title: Morgan Library free Friday evening
+  venue: The Morgan Library & Museum
+  address: 225 Madison Ave, New York, NY
+  neighborhood: Murray Hill
+  category: museums
+  days: [fri]
+  time: "17:00"
+  end: "20:00"
+  cost_tier: free
+  cost_text: Free; reserve about a week ahead
+  rsvp_required: true
+  url: https://www.themorgan.org/visit
+  why: Free Friday evening at the Morgan
+
+- title: Frick First Fridays
+  venue: The Frick Collection
+  address: 1 E 70th St, New York, NY
+  neighborhood: Upper East Side
+  category: museums
+  days: [fri]
+  nth: [1]
+  except_months: [1, 9]
+  time: "17:30"
+  end: "21:00"
+  cost_tier: free
+  cost_text: Free
+  url: https://www.frick.org/visit
+  why: Free evening at the Frick, monthly
+
+- title: Neue Galerie First Friday
+  venue: Neue Galerie
+  address: 1048 Fifth Ave, New York, NY
+  neighborhood: Upper East Side
+  category: museums
+  days: [fri]
+  nth: [1]
+  time: "17:00"
+  end: "20:00"
+  cost_tier: free
+  cost_text: Free
+  url: https://www.neuegalerie.org/visit
+  why: Free first-Friday evening at the Neue
+
+- title: New Museum pay-what-you-wish Thursday
+  venue: New Museum
+  address: 235 Bowery, New York, NY
+  neighborhood: Lower East Side
+  category: museums
+  days: [thu]
+  time: "19:00"
+  end: "21:00"
+  cost_tier: free
+  cost_text: Pay what you wish
+  url: https://www.newmuseum.org/visit
+  why: Pay what you wish, Thursday evenings
+
+- title: ICP $5 Thursday
+  venue: International Center of Photography
+  address: 84 Ludlow St, New York, NY
+  neighborhood: Lower East Side
+  category: museums
+  days: [thu]
+  time: "17:00"
+  end: "20:00"
+  cost_tier: per_ticket
+  cost_text: $5
+  url: https://www.icp.org/visit
+  why: $5 photography museum evening
+
+- title: The Met open late
+  venue: The Metropolitan Museum of Art
+  address: 1000 Fifth Ave, New York, NY
+  neighborhood: Upper East Side
+  category: museums
+  days: [fri, sat]
+  cost_tier: per_ticket
+  cost_text: Pay what you wish for NY State residents and students; otherwise general admission
+  url: https://www.metmuseum.org/plan-your-visit
+  why: Open until 9pm Fridays and Saturdays
+
+- title: Studio Museum open late
+  venue: The Studio Museum in Harlem
+  address: 144 W 125th St, New York, NY
+  neighborhood: Harlem
+  category: museums
+  days: [fri]
+  cost_text: Not stated
+  url: https://studiomuseum.org/visit
+  why: Open until 9pm Fridays
+
+- title: Studio Museum free Sunday
+  venue: The Studio Museum in Harlem
+  address: 144 W 125th St, New York, NY
+  neighborhood: Harlem
+  category: museums
+  days: [sun]
+  cost_tier: free
+  cost_text: Free
+  url: https://studiomuseum.org/visit
+  why: Free on Sundays
+
+- title: Guggenheim pay-what-you-wish
+  venue: Solomon R. Guggenheim Museum
+  address: 1071 Fifth Ave, New York, NY
+  neighborhood: Upper East Side
+  category: museums
+  days: [tue, sun]
+  time: "16:00"
+  end: "17:30"
+  cost_tier: free
+  cost_text: Pay what you wish
+  url: https://www.guggenheim.org/plan-your-visit
+  why: Pay what you wish, late afternoon
+
+- title: Pioneer Works Second Sundays
+  venue: Pioneer Works
+  address: 159 Pioneer St, Brooklyn, NY
+  neighborhood: Red Hook
+  category: openings
+  days: [sun]
+  nth: [2]
+  cost_tier: free
+  cost_text: Free
+  url: https://pioneerworks.org/programs
+  why: Monthly open day with studios and programs
+
+- title: Dizzy's Club Late Night Session
+  venue: Dizzy's Club
+  address: 10 Columbus Circle, 5th Floor, New York, NY
+  neighborhood: Columbus Circle
+  category: jazz_music
+  days: [thu, fri, sat]
+  time: "22:45"
+  cost_tier: per_ticket
+  cost_text: $15 at the door
+  url: https://www.jazz.org/dizzys/
+  why: Late jazz set with a skyline view
+
+- title: The Django
+  venue: The Django at the Roxy Hotel
+  address: 2 Sixth Ave, New York, NY
+  neighborhood: Tribeca
+  category: jazz_music
+  cost_tier: per_ticket
+  cost_text: $35 Sun to Thu, $40 Fri and Sat, plus two drinks
+  url: https://www.thedjangonyc.com/
+  why: Live jazz nightly, walking distance
+
+- title: Flatiron Wines tasting
+  venue: Flatiron Wines & Spirits
+  address: 873 Broadway, New York, NY
+  neighborhood: Flatiron
+  category: food_wine
+  days: [thu, fri]
+  cost_text: Not stated
+  age_min: 21
+  url: https://nyc.flatiron-wines.com/pages/events-in-new-york-city-flatiron-wines-spirits
+  why: After-work tastings most Thursdays and Fridays; check the page
+
+- title: Flatiron Wines Saturday tasting
+  venue: Flatiron Wines & Spirits
+  address: 873 Broadway, New York, NY
+  neighborhood: Flatiron
+  category: food_wine
+  days: [sat]
+  time: "12:00"
+  end: "15:00"
+  cost_text: Not stated
+  age_min: 21
+  url: https://nyc.flatiron-wines.com/pages/events-in-new-york-city-flatiron-wines-spirits
+  why: Saturday tasting
+
+- title: Chelsea gallery receptions
+  venue: Chelsea galleries
+  neighborhood: Chelsea
+  category: openings
+  days: [thu]
+  time: "18:00"
+  end: "20:00"
+  cost_tier: free
+  cost_text: Free
+  url: https://www.artwrld.com/city/new-york/openings-events
+  why: Thursday is opening night in Chelsea, roughly 6 to 8pm; check the openings list
+
+- title: Carnegie Hall Notables $20 tickets on sale
+  venue: Carnegie Hall
+  address: 881 Seventh Ave, New York, NY
+  neighborhood: Midtown
+  category: opera_classical
+  monthday: 1
+  time: "11:00"
+  kind: on_sale
+  cost_tier: per_ticket
+  cost_text: $20 tickets
+  url: https://www.carnegiehall.org/
+  why: Monthly release of $20 Notables tickets at 11am
+
+- title: Segue reading series
+  venue: Artists Space
+  address: 11 Cortlandt Alley, New York, NY
+  neighborhood: Tribeca
+  category: books_talks
+  days: [sat]
+  time: "17:00"
+  until: 2026-11-21
+  cost_text: Not stated
+  url: https://artistsspace.org/programs
+  why: Poetry readings around the corner, through Nov 21
+
+- title: Whitney Free Second Sunday
+  venue: Whitney Museum
+  address: 99 Gansevoort St, New York, NY
+  neighborhood: Meatpacking
+  category: museums
+  days: [sun]
+  nth: [2]
+  cost_tier: free
+  cost_text: Free
+  url: https://whitney.org/visit
+  why: Free all day, second Sunday
+
+- title: Morgan Library free College Sunday
+  venue: The Morgan Library & Museum
+  address: 225 Madison Ave, New York, NY
+  neighborhood: Murray Hill
+  category: museums
+  days: [sun]
+  nth: [1]
+  cost_tier: free
+  cost_text: Free with student ID
+  url: https://www.themorgan.org/visit
+  why: First Sunday, free for college students
