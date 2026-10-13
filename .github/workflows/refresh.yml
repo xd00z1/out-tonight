@@ -24,6 +24,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # latest main, not the commit that queued this run
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -37,6 +39,8 @@ jobs:
           git config user.email "refresh-bot@users.noreply.github.com"
           git add public/events.json public/calendar.ics public/status.json
           git diff --cached --quiet || git commit -m "refresh $(TZ=America/New_York date +%F)"
+          # Another run may have pushed meanwhile; this run's data is newer, so keep it.
+          git pull --rebase -X theirs origin main
           git push
       - uses: actions/upload-pages-artifact@v3
         with:
