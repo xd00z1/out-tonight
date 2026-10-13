@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T19:06:53-04:00",
- "duration_s": 226.2,
+ "generated_at": "2026-10-13T19:11:15-04:00",
+ "duration_s": 228.7,
  "counts": {
   "ok": 16,
   "empty": 0,
@@ -224,10 +224,10 @@
    "id": "juilliard",
    "url": "https://www.juilliard.edu/stage-beyond/performance/calendar",
    "method": "cards",
-   "result": "ok",
-   "http_status": 200,
-   "count": 18,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-13"
   },
   {
@@ -254,10 +254,10 @@
    "id": "dizzys",
    "url": "https://www.jazz.org/dizzys/",
    "method": "jsonld",
-   "result": "ok",
-   "http_status": 200,
-   "count": 36,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-13"
   },
   {
@@ -484,10 +484,10 @@
    "id": "scandinavia_house",
    "url": "https://www.scandinaviahouse.org/events/",
    "method": "tribe",
-   "result": "ok",
-   "http_status": 200,
-   "count": 38,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-13"
   },
   {
@@ -1354,10 +1354,10 @@
    "id": "st_anns",
    "url": "https://stannswarehouse.org/",
    "method": "tribe",
-   "result": "ok",
-   "http_status": 200,
-   "count": 40,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-13"
   },
   {
@@ -1824,10 +1824,10 @@
    "id": "little_island",
    "url": "https://littleisland.org/",
    "method": "tribe",
-   "result": "ok",
-   "http_status": 200,
-   "count": 2,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-13"
   },
   {
