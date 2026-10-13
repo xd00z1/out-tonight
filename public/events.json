@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T14:30:35-04:00",
+ "generated_at": "2026-10-13T14:32:35-04:00",
  "events": [
   {
    "title": "Atrium Stair: Klára Hosnedlová—Shelter",
@@ -118,7 +118,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Midtown%20Cultural%20Alliance%20Open%20House&dates=20261008%2F20261019&details=https%3A%2F%2Fjapansociety.org%2F&location=Japan%20Society%20and%20partners&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -147,7 +147,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261013%2F20261014&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -176,7 +176,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261013%2F20261014&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -205,7 +205,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261013T160000%2F20261013T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Faroe Islands Knits | Artist Talk & Wool Tasting with Shisa Brand",
@@ -235,7 +235,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Faroe%20Islands%20Knits%20%7C%20Artist%20Talk%20%26%20Wool%20Tasting%20with%20Shisa%20Brand&dates=20261013T170000%2F20261013T180000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Ffaroe-islands-knits-artist-talk-wool-tasting-with-shisa-brand%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Americas Society panel",
@@ -264,7 +264,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Americas%20Society%20panel&dates=20261013T173000%2F20261013T193000&details=https%3A%2F%2Fwww.as-coa.org%2Fevents&location=680%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "They Have Watches, But We Have Time: A Takeover by WAI Architecture Think Tank",
@@ -324,7 +324,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corcoran%20Holt%20Quintet%3A%20Freedom%20of%20Art%20Album%20Release&dates=20261013T190000%2F20261013T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Rachel Frank opening",
@@ -353,7 +353,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rachel%20Frank%20opening&dates=20261014%2F20261015&details=https%3A%2F%2Ftribecaartsdistrict.org%2F&location=SARAHCROWN&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -382,7 +382,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261014%2F20261015&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Rhone presents: Adult Recess",
@@ -445,6 +445,96 @@
    "url_status": "ok"
   },
   {
+   "title": "Rhone Extra Mile Run Series | led by Steph Strine",
+   "start": "2026-10-14T17:30:00-04:00",
+   "end": "2026-10-14T19:00:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Rhone - Hudson Yards",
+   "address": "Rhone - Hudson Yards, New York",
+   "neighborhood": null,
+   "category": "books_talks",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://luma.com/n0pxsnxo",
+   "source_id": "luma_nyc",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "fa5a9bafbec713ef",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rhone%20Extra%20Mile%20Run%20Series%20%7C%20led%20by%20Steph%20Strine&dates=20261014T173000%2F20261014T190000&details=https%3A%2F%2Fluma.com%2Fn0pxsnxo&location=Rhone%20-%20Hudson%20Yards%2C%20New%20York&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "ok"
+  },
+  {
+   "title": "MLH x DigitalOcean in NYC",
+   "start": "2026-10-14T18:00:00-04:00",
+   "end": "2026-10-14T21:00:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "IBM One Madison Avenue",
+   "address": "IBM One Madison Avenue, New York",
+   "neighborhood": null,
+   "category": "books_talks",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://luma.com/MLHxAIE",
+   "source_id": "luma_nyc",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "0cef4ca370a70fc5",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MLH%20x%20DigitalOcean%20in%20NYC&dates=20261014T180000%2F20261014T210000&details=https%3A%2F%2Fluma.com%2FMLHxAIE&location=IBM%20One%20Madison%20Avenue%2C%20New%20York&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "ok"
+  },
+  {
+   "title": "This That and the Rest",
+   "start": "2026-10-14T18:00:00-04:00",
+   "end": "2026-10-14T21:00:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "We The Cool Studio",
+   "address": "We The Cool Studio, Brooklyn",
+   "neighborhood": null,
+   "category": "books_talks",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://luma.com/lduxs77z",
+   "source_id": "luma_nyc",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "653c7262f7696bfd",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=This%20That%20and%20the%20Rest&dates=20261014T180000%2F20261014T210000&details=https%3A%2F%2Fluma.com%2Flduxs77z&location=We%20The%20Cool%20Studio%2C%20Brooklyn&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "ok"
+  },
+  {
    "title": "Americas Society panel",
    "start": "2026-10-14T18:00:00-04:00",
    "category": "institutes",
@@ -471,7 +561,67 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Americas%20Society%20panel&dates=20261014T180000%2F20261014T200000&details=https%3A%2F%2Fwww.as-coa.org%2Fevents&location=680%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
+  },
+  {
+   "title": "Horror Literary Salon",
+   "start": "2026-10-14T18:30:00-04:00",
+   "end": "2026-10-14T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Von",
+   "address": "Von, New York",
+   "neighborhood": null,
+   "category": "books_talks",
+   "cost_tier": "per_ticket",
+   "cost_text": "$15",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://luma.com/6swqsl02",
+   "source_id": "luma_nyc",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "db07d17253da9ca5",
+   "entry": "ticket",
+   "price_min": 15.0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Horror%20Literary%20Salon&dates=20261014T183000%2F20261014T203000&details=https%3A%2F%2Fluma.com%2F6swqsl02&location=Von%2C%20New%20York&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "ok"
+  },
+  {
+   "title": "In the Realm of the Last Man Book Talk with Francis Fukuyama",
+   "start": "2026-10-14T18:30:00-04:00",
+   "end": "2026-10-14T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "New York Law School",
+   "address": "New York Law School, New York",
+   "neighborhood": null,
+   "category": "books_talks",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://luma.com/cnl-uh92",
+   "source_id": "luma_nyc",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "7e2ec1061872f76a",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=In%20the%20Realm%20of%20the%20Last%20Man%20Book%20Talk%20with%20Francis%20Fukuyama&dates=20261014T183000%2F20261014T203000&details=https%3A%2F%2Fluma.com%2Fcnl-uh92&location=New%20York%20Law%20School%2C%20New%20York&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "ok"
   },
   {
    "title": "Tenor Legacy with Lew Tabackin",
@@ -501,7 +651,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tenor%20Legacy%20with%20Lew%20Tabackin&dates=20261014T190000%2F20261014T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Home Sweet Home | New Nordic Cinema",
@@ -531,7 +681,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Home%20Sweet%20Home%20%7C%20New%20Nordic%20Cinema&dates=20261014T190000%2F20261014T210000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fhome-sweet-home-new-nordic-cinema%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The USA and the (Re)Birth of Austrian Modern Culture After 1945",
@@ -590,7 +740,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Apollo%20Circle%20Benefit&dates=20261015%2F20261016&details=Black%20tie%20https%3A%2F%2Fwww.newyorksocietyballs.com%2Fcalendar&location=The%20Met&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Korean Independent Film Festival opens",
@@ -619,7 +769,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Korean%20Independent%20Film%20Festival%20opens&dates=20261015%2F20261016&details=https%3A%2F%2Fwww.koreanculture.org%2F&location=122%20E%2032nd%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "NYC Wine & Food Festival",
@@ -648,7 +798,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYC%20Wine%20%26%20Food%20Festival&dates=20261015%2F20261019&details=https%3A%2F%2Fnycwff.org%2Fevents%2F&location=Seaport&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -677,7 +827,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261015%2F20261016&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -706,7 +856,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261015%2F20261016&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "ICP $5 Thursday",
@@ -735,7 +885,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ICP%20%245%20Thursday&dates=20261015T170000%2F20261015T200000&details=%245%20photography%20museum%20evening%20https%3A%2F%2Fwww.icp.org%2Fvisit&location=84%20Ludlow%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Future Forward: The Influence of Vintage",
@@ -764,7 +914,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Future%20Forward%3A%20The%20Influence%20of%20Vintage&dates=20261015T173000%2F20261015T193000&details=https%3A%2F%2Fwww.fitnyc.edu%2Fmuseum%2Fevents%2Findex.php&location=227%20W%2027th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Chelsea gallery receptions",
@@ -793,7 +943,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chelsea%20gallery%20receptions&dates=20261015T180000%2F20261015T200000&details=Thursday%20is%20opening%20night%20in%20Chelsea%2C%20roughly%206%20to%208pm%3B%20check%20the%20openings%20list%20https%3A%2F%2Fwww.artwrld.com%2Fcity%2Fnew-york%2Fopenings-events&location=Chelsea%20galleries&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "David Gibson Nonet",
@@ -823,7 +973,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=David%20Gibson%20Nonet&dates=20261015T190000%2F20261015T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Hampus Öhman-Frölund: Motvalsen",
@@ -853,7 +1003,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hampus%20%C3%96hman-Fr%C3%B6lund%3A%20Motvalsen&dates=20261015T190000%2F20261015T203000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fhampus-ohman-frolund-motvalsen%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Theresa Hak Kyung Cha book launch",
@@ -882,7 +1032,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Theresa%20Hak%20Kyung%20Cha%20book%20launch&dates=20261015T190000%2F20261015T210000&details=https%3A%2F%2Fartistsspace.org%2Fprograms&location=11%20Cortlandt%20Alley%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "New Museum pay-what-you-wish Thursday",
@@ -911,7 +1061,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=New%20Museum%20pay-what-you-wish%20Thursday&dates=20261015T190000%2F20261015T210000&details=Pay%20what%20you%20wish%2C%20Thursday%20evenings%20https%3A%2F%2Fwww.newmuseum.org%2Fvisit&location=235%20Bowery%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -940,7 +1090,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261015T224500%2F20261016T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "NYCB Balanchine Ball",
@@ -969,7 +1119,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYCB%20Balanchine%20Ball&dates=20261016%2F20261017&details=https%3A%2F%2Fwww.nycballet.com%2Fsupport%2Fyoung-patrons-circle&location=New%20York%20City%20Ballet&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Windup Watch Fair",
@@ -998,7 +1148,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Windup%20Watch%20Fair&dates=20261016%2F20261019&details=https%3A%2F%2Fwindupwatchfair.com%2F&location=415%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "WatchTime New York",
@@ -1027,7 +1177,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=WatchTime%20New%20York&dates=20261016%2F20261019&details=https%3A%2F%2Fwww.watchtime.com%2Fbrands%2Fwatchtime%2Fwatchtime-new-york-announcement-gotham-hall-october-16-18-2026&location=Gotham%20Hall&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Manhattan Vintage Show",
@@ -1056,7 +1206,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Manhattan%20Vintage%20Show&dates=20261016%2F20261019&details=https%3A%2F%2Fwww.eventbrite.com%2Fe%2F2000993478359%2F&location=125%20W%2018th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "LVMH Tiffany jewelry workshop",
@@ -1085,7 +1235,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=LVMH%20Tiffany%20jewelry%20workshop&dates=20261016%2F20261019&details=https%3A%2F%2Fhoodline.com%2F2026%2F09%2Flvmh-opens-tiffany-jewelry-workshop-doors-for-rare-free-peek%2F&location=The%20Landmark&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Open House New York Weekend",
@@ -1114,7 +1264,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Open%20House%20New%20York%20Weekend&dates=20261016%2F20261019&details=https%3A%2F%2Fohny.org%2Factivity%2F2026-ohny-weekend&location=Citywide&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Met open late",
@@ -1143,7 +1293,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261016%2F20261017&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -1172,7 +1322,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20open%20late&dates=20261016%2F20261017&details=Open%20until%209pm%20Fridays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -1201,7 +1351,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261016%2F20261017&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -1230,7 +1380,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261016%2F20261017&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Whitney Free Friday Nights",
@@ -1259,7 +1409,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whitney%20Free%20Friday%20Nights&dates=20261016T170000%2F20261016T220000&details=Free%20museum%20night%20ten%20minutes%20from%20home%20https%3A%2F%2Fwhitney.org%2Fvisit&location=99%20Gansevoort%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Morgan Library free Friday evening",
@@ -1288,7 +1438,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan%20Library%20free%20Friday%20evening&dates=20261016T170000%2F20261016T200000&details=Free%20Friday%20evening%20at%20the%20Morgan%20https%3A%2F%2Fwww.themorgan.org%2Fvisit&location=225%20Madison%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Ekep Nkwelle",
@@ -1318,7 +1468,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ekep%20Nkwelle&dates=20261016T190000%2F20261016T210000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -1347,7 +1497,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261016T224500%2F20261017T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Homecoming: For the Harbor",
@@ -1406,7 +1556,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ragas%20Live%20Festival&dates=20261017%2F20261019&details=https%3A%2F%2Fpioneerworks.org%2Fprograms&location=Pioneer%20Works&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Met open late",
@@ -1435,7 +1585,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261017%2F20261018&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -1464,7 +1614,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261017%2F20261018&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Community Day: Art and Celebration on the Bowery",
@@ -1553,7 +1703,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20Saturday%20tasting&dates=20261017T120000%2F20261017T150000&details=Saturday%20tasting%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Translating Scandinavia",
@@ -1583,7 +1733,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Translating%20Scandinavia&dates=20261017T140000%2F20261017T150000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Ftranslating-scandinavia%2F&location=Scandinavia%20House&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Segue reading series",
@@ -1612,7 +1762,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Segue%20reading%20series&dates=20261017T170000%2F20261017T190000&details=Poetry%20readings%20around%20the%20corner%2C%20through%20Nov%2021%20https%3A%2F%2Fartistsspace.org%2Fprograms&location=11%20Cortlandt%20Alley%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -1641,7 +1791,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261017T224500%2F20261018T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum free Sunday",
@@ -1670,7 +1820,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20free%20Sunday&dates=20261018%2F20261019&details=Free%20on%20Sundays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -1699,7 +1849,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261018%2F20261019&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -1728,7 +1878,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261018T160000%2F20261018T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -1757,7 +1907,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261019%2F20261020&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Juilliard Jazz Ensembles: Jazz Music of the 1970’s: Don Pullen, Charles Tolliver, John Hicks and Thad Jones",
@@ -1787,7 +1937,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juilliard%20Jazz%20Ensembles%3A%20Jazz%20Music%20of%20the%201970%E2%80%99s%3A%20Don%20Pullen%2C%20Charles%20Tolliver%2C%20John%20Hicks%20and%20Thad%20Jones&dates=20261019T190000%2F20261019T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Juilliard Jazz Ensembles: Jazz Music of the 1970’s: Don Pulley, Charles Tolliver, John Hicks and Thad Jones",
@@ -1817,7 +1967,7 @@
    "last_seen": "2026-10-08",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juilliard%20Jazz%20Ensembles%3A%20Jazz%20Music%20of%20the%201970%E2%80%99s%3A%20Don%20Pulley%2C%20Charles%20Tolliver%2C%20John%20Hicks%20and%20Thad%20Jones&dates=20261019T190000%2F20261019T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 1,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -1846,7 +1996,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261020%2F20261021&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -1875,7 +2025,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261020T160000%2F20261020T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "France’s No(w) Beauty: An Evening of Cinematic Jazz",
@@ -1905,7 +2055,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=France%E2%80%99s%20No%28w%29%20Beauty%3A%20An%20Evening%20of%20Cinematic%20Jazz&dates=20261020T190000%2F20261020T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tyler Henderson Quintet featuring Aanya Sengupta",
@@ -1935,7 +2085,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tyler%20Henderson%20Quintet%20featuring%20Aanya%20Sengupta&dates=20261020T210000%2F20261020T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "“Youth Without God” – A Staged Reading Based on the Novel by Ödön von Horváth",
@@ -1994,7 +2144,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Edward%20Steed%20and%20Liana%20Finck&dates=20261021%2F20261022&details=https%3A%2F%2Fwww.mcnallyjackson.com%2Fevents&location=McNally%20Jackson%20Seaport&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -2023,7 +2173,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261021%2F20261022&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "NEW INC Workshare",
@@ -2083,7 +2233,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%20Gillespie%20Birthday%20with%20Jon%20Faddis&dates=20261021T190000%2F20261021T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tell Everyone | Screening & Film Talk",
@@ -2113,7 +2263,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tell%20Everyone%20%7C%20Screening%20%26%20Film%20Talk&dates=20261021T190000%2F20261021T210000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Ftell-everyone-new-nordic-cinema%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Rabih Mroue and Lina Majdalanie",
@@ -2142,7 +2292,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rabih%20Mroue%20and%20Lina%20Majdalanie&dates=20261022%2F20261025&details=https%3A%2F%2Fwww.goethe.de%2Fins%2Fus%2Fen%2Fsta%2Fney%2Fver.cfm&location=NYU%20Skirball&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -2171,7 +2321,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261022%2F20261023&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -2200,7 +2350,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261022%2F20261023&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Building Less, Transforming More | Architecture & Design Panel",
@@ -2230,7 +2380,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Building%20Less%2C%20Transforming%20More%20%7C%20Architecture%20%26%20Design%20Panel&dates=20261022T140000%2F20261022T163000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fbuilding-less-transforming-more-architecture-design-panel%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "ICP $5 Thursday",
@@ -2259,7 +2409,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ICP%20%245%20Thursday&dates=20261022T170000%2F20261022T200000&details=%245%20photography%20museum%20evening%20https%3A%2F%2Fwww.icp.org%2Fvisit&location=84%20Ludlow%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Chelsea gallery receptions",
@@ -2288,7 +2438,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chelsea%20gallery%20receptions&dates=20261022T180000%2F20261022T200000&details=Thursday%20is%20opening%20night%20in%20Chelsea%2C%20roughly%206%20to%208pm%3B%20check%20the%20openings%20list%20https%3A%2F%2Fwww.artwrld.com%2Fcity%2Fnew-york%2Fopenings-events&location=Chelsea%20galleries&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "A flame latches to a bit of straw",
@@ -2347,7 +2497,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=New%20Museum%20pay-what-you-wish%20Thursday&dates=20261022T190000%2F20261022T210000&details=Pay%20what%20you%20wish%2C%20Thursday%20evenings%20https%3A%2F%2Fwww.newmuseum.org%2Fvisit&location=235%20Bowery%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Keyboard Conversations® | Beethoven & Schubert: Glorious Musical Jewels",
@@ -2377,7 +2527,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Keyboard%20Conversations%C2%AE%20%7C%20Beethoven%20%26%20Schubert%3A%20Glorious%20Musical%20Jewels&dates=20261022T193000%2F20261022T210000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fkeyboard-conversations-beethoven-and-schubert%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -2406,7 +2556,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261022T224500%2F20261023T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "MONUMENT FILMS – Peter Kubelka’s Metric Cinema",
@@ -2465,7 +2615,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Beaux%20Arts%20Ball&dates=20261023%2F20261024&details=https%3A%2F%2Farchleague.org%2Fevents%2F&location=Andrew%20Freedman%20Home&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -2494,7 +2644,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261023%2F20261024&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -2523,7 +2673,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20open%20late&dates=20261023%2F20261024&details=Open%20until%209pm%20Fridays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -2552,7 +2702,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261023%2F20261024&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -2581,7 +2731,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261023%2F20261024&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Nordic International Film Festival | Friday Films",
@@ -2611,7 +2761,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nordic%20International%20Film%20Festival%20%7C%20Friday%20Films&dates=20261023T110000%2F20261023T200000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fnordic-international-film-festival-2%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Bowery Art Space",
@@ -2670,7 +2820,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whitney%20Free%20Friday%20Nights&dates=20261023T170000%2F20261023T220000&details=Free%20museum%20night%20ten%20minutes%20from%20home%20https%3A%2F%2Fwhitney.org%2Fvisit&location=99%20Gansevoort%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Morgan Library free Friday evening",
@@ -2699,7 +2849,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan%20Library%20free%20Friday%20evening&dates=20261023T170000%2F20261023T200000&details=Free%20Friday%20evening%20at%20the%20Morgan%20https%3A%2F%2Fwww.themorgan.org%2Fvisit&location=225%20Madison%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -2728,7 +2878,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261023T224500%2F20261024T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -2757,7 +2907,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261024%2F20261025&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -2786,7 +2936,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261024%2F20261025&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Nordic International Film Festival | Saturday Films",
@@ -2816,7 +2966,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nordic%20International%20Film%20Festival%20%7C%20Saturday%20Films&dates=20261024T110000%2F20261024T163000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fnordic-international-film-festival-saturday-films%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Flatiron Wines Saturday tasting",
@@ -2845,7 +2995,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20Saturday%20tasting&dates=20261024T120000%2F20261024T150000&details=Saturday%20tasting%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Segue reading series",
@@ -2874,7 +3024,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Segue%20reading%20series&dates=20261024T170000%2F20261024T190000&details=Poetry%20readings%20around%20the%20corner%2C%20through%20Nov%2021%20https%3A%2F%2Fartistsspace.org%2Fprograms&location=11%20Cortlandt%20Alley%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -2903,7 +3053,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261024T224500%2F20261025T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum free Sunday",
@@ -2932,7 +3082,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20free%20Sunday&dates=20261025%2F20261026&details=Free%20on%20Sundays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -2961,7 +3111,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261025%2F20261026&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Scandinavian Everyday Cooking | Food Demo & Book Talk",
@@ -2991,7 +3141,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scandinavian%20Everyday%20Cooking%20%7C%20Food%20Demo%20%26%20Book%20Talk&dates=20261025T150000%2F20261025T170000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fscandinavian-everyday-cooking-food-demo-book-talk%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -3020,7 +3170,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261025T160000%2F20261025T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Festival Neue Literatur 2026: “Intimate Thresholds – Identity and Longing”",
@@ -3079,7 +3229,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lydia%20Millet%20and%20Jenny%20Offill&dates=20261026%2F20261027&details=https%3A%2F%2Fwww.mcnallyjackson.com%2Fevents&location=McNally%20Jackson%20Seaport&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -3108,7 +3258,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261026%2F20261027&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Festival Neue Literatur 2026: “Guests and Ghosts”",
@@ -3167,7 +3317,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261027%2F20261028&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -3196,7 +3346,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261027T160000%2F20261027T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Northern Patterns: Learn Traditional Arctic Beading Details",
@@ -3226,7 +3376,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Northern%20Patterns%3A%20Learn%20Traditional%20Arctic%20Beading%20Details&dates=20261027T173000%2F20261027T200000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fnorthern-patterns-learn-traditional-arctic-beading-details-2%2F2026-10-27%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "European Literature Night 2026",
@@ -3285,7 +3435,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261028%2F20261029&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "No Comment | New Nordic Cinema",
@@ -3315,7 +3465,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=No%20Comment%20%7C%20New%20Nordic%20Cinema&dates=20261028T190000%2F20261028T210000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fno-comment-new-nordic-cinema%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Suzanne Farrin opera premiere",
@@ -3344,7 +3494,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Suzanne%20Farrin%20opera%20premiere&dates=20261029%2F20261030&details=https%3A%2F%2Fwww.millertheatre.com%2Fabout%2Fpress%2Fmiller-theatre-announces-the-2026-27-season&location=Miller%20Theatre&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -3373,7 +3523,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261029%2F20261030&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -3402,7 +3552,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261029%2F20261030&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -3431,7 +3581,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261029%2F20261030&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "ICP $5 Thursday",
@@ -3460,7 +3610,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ICP%20%245%20Thursday&dates=20261029T170000%2F20261029T200000&details=%245%20photography%20museum%20evening%20https%3A%2F%2Fwww.icp.org%2Fvisit&location=84%20Ludlow%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Chelsea gallery receptions",
@@ -3489,7 +3639,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chelsea%20gallery%20receptions&dates=20261029T180000%2F20261029T200000&details=Thursday%20is%20opening%20night%20in%20Chelsea%2C%20roughly%206%20to%208pm%3B%20check%20the%20openings%20list%20https%3A%2F%2Fwww.artwrld.com%2Fcity%2Fnew-york%2Fopenings-events&location=Chelsea%20galleries&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "New Museum pay-what-you-wish Thursday",
@@ -3518,7 +3668,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=New%20Museum%20pay-what-you-wish%20Thursday&dates=20261029T190000%2F20261029T210000&details=Pay%20what%20you%20wish%2C%20Thursday%20evenings%20https%3A%2F%2Fwww.newmuseum.org%2Fvisit&location=235%20Bowery%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Grieg’s Piano Concerto with Per Tengstrand",
@@ -3548,7 +3698,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Grieg%E2%80%99s%20Piano%20Concerto%20with%20Per%20Tengstrand&dates=20261029T193000%2F20261029T213000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fgriegs-piano-concerto-with-per-tengstrand%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -3577,7 +3727,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261029T224500%2F20261030T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Met Opera student night: Medea",
@@ -3606,7 +3756,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Medea&dates=20261030%2F20261031&details=Pre-show%20party%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Whiskey Washback",
@@ -3635,7 +3785,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whiskey%20Washback&dates=20261030%2F20261031&details=https%3A%2F%2Fresident.com%2Fnew-york%2F2026%2F10%2F02%2Fthe-best-things-to-do-in-new-york-city-in-october-2026&location=Bowery%20Hotel&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Met open late",
@@ -3664,7 +3814,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261030%2F20261031&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -3693,7 +3843,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20open%20late&dates=20261030%2F20261031&details=Open%20until%209pm%20Fridays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -3722,7 +3872,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261030%2F20261031&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -3751,7 +3901,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261030%2F20261031&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Whitney Free Friday Nights",
@@ -3780,7 +3930,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whitney%20Free%20Friday%20Nights&dates=20261030T170000%2F20261030T220000&details=Free%20museum%20night%20ten%20minutes%20from%20home%20https%3A%2F%2Fwhitney.org%2Fvisit&location=99%20Gansevoort%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Morgan Library free Friday evening",
@@ -3809,7 +3959,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan%20Library%20free%20Friday%20evening&dates=20261030T170000%2F20261030T200000&details=Free%20Friday%20evening%20at%20the%20Morgan%20https%3A%2F%2Fwww.themorgan.org%2Fvisit&location=225%20Madison%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -3838,7 +3988,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261030T224500%2F20261031T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -3867,7 +4017,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261031%2F20261101&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -3896,7 +4046,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261031%2F20261101&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines Saturday tasting",
@@ -3925,7 +4075,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20Saturday%20tasting&dates=20261031T120000%2F20261031T150000&details=Saturday%20tasting%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Segue reading series",
@@ -3954,7 +4104,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Segue%20reading%20series&dates=20261031T170000%2F20261031T190000&details=Poetry%20readings%20around%20the%20corner%2C%20through%20Nov%2021%20https%3A%2F%2Fartistsspace.org%2Fprograms&location=11%20Cortlandt%20Alley%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -3983,7 +4133,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261031T224500%2F20261101T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum free Sunday",
@@ -4012,7 +4162,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20free%20Sunday&dates=20261101%2F20261102&details=Free%20on%20Sundays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -4041,7 +4191,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261101%2F20261102&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Morgan Library free College Sunday",
@@ -4070,7 +4220,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan%20Library%20free%20College%20Sunday&dates=20261101%2F20261102&details=First%20Sunday%2C%20free%20for%20college%20students%20https%3A%2F%2Fwww.themorgan.org%2Fvisit&location=225%20Madison%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Carnegie Hall Notables $20 tickets on sale",
@@ -4099,7 +4249,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Carnegie%20Hall%20Notables%20%2420%20tickets%20on%20sale&dates=20261101T110000%2F20261101T130000&details=Monthly%20release%20of%20%2420%20Notables%20tickets%20at%2011am%20https%3A%2F%2Fwww.carnegiehall.org%2F&location=881%20Seventh%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -4128,7 +4278,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261101T160000%2F20261101T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -4157,7 +4307,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261102%2F20261103&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Suitable: menswear talk",
@@ -4186,7 +4336,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Suitable%3A%20menswear%20talk&dates=20261102T173000%2F20261102T193000&details=https%3A%2F%2Fwww.fitnyc.edu%2Fmuseum%2Fevents%2Findex.php&location=227%20W%2027th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "This Isn’t Working | Work-in-Progress by Sean Donovan",
@@ -4246,7 +4396,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adult%20Supervision%20%7C%20Nordic%20%26%20Baltic%20Oscar%20Contenders&dates=20261102T190000%2F20261102T213000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fadult-supervision-nordic-baltic-oscar-contenders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -4275,7 +4425,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261103%2F20261104&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -4304,7 +4454,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261103T160000%2F20261103T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Northern Patterns: Learn Traditional Arctic Beading Details",
@@ -4334,7 +4484,7 @@
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Northern%20Patterns%3A%20Learn%20Traditional%20Arctic%20Beading%20Details&dates=20261103T173000%2F20261103T200000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fnorthern-patterns-learn-traditional-arctic-beading-details-2%2F2026-11-03%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -4363,7 +4513,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261104%2F20261105&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Salon Art + Design First Look",
@@ -4392,7 +4542,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salon%20Art%20%2B%20Design%20First%20Look&dates=20261104T163000%2F20261104T210000&details=https%3A%2F%2Ftickets.thesalonny.com%2Fga&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "“Resonance Studies between Sonic Structure and Olfactory Composition” – Lecture Performance by Alexander Kasses",
@@ -4451,7 +4601,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Collectible%20New%20York&dates=20261105%2F20261109&details=https%3A%2F%2Fcollectible.design%2F&location=Downtown%2C%20TBA&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -4480,7 +4630,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261105%2F20261106&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -4509,7 +4659,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261105%2F20261106&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "ICP $5 Thursday",
@@ -4538,7 +4688,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ICP%20%245%20Thursday&dates=20261105T170000%2F20261105T200000&details=%245%20photography%20museum%20evening%20https%3A%2F%2Fwww.icp.org%2Fvisit&location=84%20Ludlow%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Chelsea gallery receptions",
@@ -4567,7 +4717,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Chelsea%20gallery%20receptions&dates=20261105T180000%2F20261105T200000&details=Thursday%20is%20opening%20night%20in%20Chelsea%2C%20roughly%206%20to%208pm%3B%20check%20the%20openings%20list%20https%3A%2F%2Fwww.artwrld.com%2Fcity%2Fnew-york%2Fopenings-events&location=Chelsea%20galleries&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "New Museum pay-what-you-wish Thursday",
@@ -4596,7 +4746,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=New%20Museum%20pay-what-you-wish%20Thursday&dates=20261105T190000%2F20261105T210000&details=Pay%20what%20you%20wish%2C%20Thursday%20evenings%20https%3A%2F%2Fwww.newmuseum.org%2Fvisit&location=235%20Bowery%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -4625,7 +4775,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261105T224500%2F20261106T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Salon Art + Design",
@@ -4654,7 +4804,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Salon%20Art%20%2B%20Design&dates=20261106%2F20261109&details=https%3A%2F%2Fwww.thesalonny.com%2Fhours-and-admission-ny&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "WFMU Record Fair",
@@ -4683,7 +4833,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=WFMU%20Record%20Fair&dates=20261106%2F20261109&details=Go%20Friday%20noon%20to%203%20https%3A%2F%2Fwfmu.org%2Frecordfair%2F&location=125%20W%2018th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Met open late",
@@ -4712,7 +4862,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261106%2F20261107&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -4741,7 +4891,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20open%20late&dates=20261106%2F20261107&details=Open%20until%209pm%20Fridays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -4770,7 +4920,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261106%2F20261107&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines tasting",
@@ -4799,7 +4949,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20tasting&dates=20261106%2F20261107&details=After-work%20tastings%20most%20Thursdays%20and%20Fridays%3B%20check%20the%20page%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Whitney Free Friday Nights",
@@ -4828,7 +4978,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whitney%20Free%20Friday%20Nights&dates=20261106T170000%2F20261106T220000&details=Free%20museum%20night%20ten%20minutes%20from%20home%20https%3A%2F%2Fwhitney.org%2Fvisit&location=99%20Gansevoort%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Morgan Library free Friday evening",
@@ -4857,7 +5007,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan%20Library%20free%20Friday%20evening&dates=20261106T170000%2F20261106T200000&details=Free%20Friday%20evening%20at%20the%20Morgan%20https%3A%2F%2Fwww.themorgan.org%2Fvisit&location=225%20Madison%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Neue Galerie First Friday",
@@ -4886,7 +5036,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Neue%20Galerie%20First%20Friday&dates=20261106T170000%2F20261106T200000&details=Free%20first-Friday%20evening%20at%20the%20Neue%20https%3A%2F%2Fwww.neuegalerie.org%2Fvisit&location=1048%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Frick First Fridays",
@@ -4915,7 +5065,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20First%20Fridays&dates=20261106T173000%2F20261106T210000&details=Free%20evening%20at%20the%20Frick%2C%20monthly%20https%3A%2F%2Fwww.frick.org%2Fvisit&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Gabrielle Civil performance",
@@ -4944,7 +5094,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gabrielle%20Civil%20performance&dates=20261106T190000%2F20261106T210000&details=https%3A%2F%2Fparticipantinc.org%2F&location=Participant%20Inc&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -4973,7 +5123,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261106T224500%2F20261107T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Swiss Institute Benefit Gala",
@@ -5002,7 +5152,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swiss%20Institute%20Benefit%20Gala&dates=20261107%2F20261108&details=https%3A%2F%2Fwww.swissinstitute.net%2F&location=Swiss%20Institute&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Kris Davis, Tyshawn Sorey, Ingrid Laubrock",
@@ -5031,7 +5181,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kris%20Davis%2C%20Tyshawn%20Sorey%2C%20Ingrid%20Laubrock&dates=20261107%2F20261108&details=https%3A%2F%2Fwww.millertheatre.com%2Fabout%2Fpress%2Fmiller-theatre-announces-the-2026-27-season&location=Miller%20Theatre&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Sotheby's New York Sales exhibition",
@@ -5060,7 +5210,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sotheby%27s%20New%20York%20Sales%20exhibition&dates=20261107%2F20261118&details=https%3A%2F%2Fwww.sothebys.com%2Fen%2Fcalendar%3Flocations%3Dnew-york%26types%3Devent&location=945%20Madison%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Met open late",
@@ -5089,7 +5239,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261107%2F20261108&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -5118,7 +5268,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261107%2F20261108&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Flatiron Wines Saturday tasting",
@@ -5147,7 +5297,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatiron%20Wines%20Saturday%20tasting&dates=20261107T120000%2F20261107T150000&details=Saturday%20tasting%20https%3A%2F%2Fnyc.flatiron-wines.com%2Fpages%2Fevents-in-new-york-city-flatiron-wines-spirits&location=873%20Broadway%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Segue reading series",
@@ -5176,7 +5326,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Segue%20reading%20series&dates=20261107T170000%2F20261107T190000&details=Poetry%20readings%20around%20the%20corner%2C%20through%20Nov%2021%20https%3A%2F%2Fartistsspace.org%2Fprograms&location=11%20Cortlandt%20Alley%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -5205,7 +5355,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dizzy%27s%20Club%20Late%20Night%20Session&dates=20261107T224500%2F20261108T004500&details=Late%20jazz%20set%20with%20a%20skyline%20view%20https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=10%20Columbus%20Circle%2C%205th%20Floor%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "RAW Wine New York",
@@ -5234,7 +5384,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=RAW%20Wine%20New%20York&dates=20261108%2F20261110&details=https%3A%2F%2Fwww.rawwine.com%2Ffairs%2Fnew-york-2026&location=Industry%20City&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum free Sunday",
@@ -5263,7 +5413,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Studio%20Museum%20free%20Sunday&dates=20261108%2F20261109&details=Free%20on%20Sundays%20https%3A%2F%2Fstudiomuseum.org%2Fvisit&location=144%20W%20125th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Pioneer Works Second Sundays",
@@ -5292,7 +5442,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pioneer%20Works%20Second%20Sundays&dates=20261108%2F20261109&details=Monthly%20open%20day%20with%20studios%20and%20programs%20https%3A%2F%2Fpioneerworks.org%2Fprograms&location=159%20Pioneer%20St%2C%20Brooklyn%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -5321,7 +5471,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261108%2F20261109&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Whitney Free Second Sunday",
@@ -5350,7 +5500,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whitney%20Free%20Second%20Sunday&dates=20261108%2F20261109&details=Free%20all%20day%2C%20second%20Sunday%20https%3A%2F%2Fwhitney.org%2Fvisit&location=99%20Gansevoort%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -5379,7 +5529,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261108T160000%2F20261108T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -5408,7 +5558,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261109%2F20261110&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Django",
@@ -5437,7 +5587,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261110%2F20261111&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -5466,7 +5616,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20pay-what-you-wish&dates=20261110T160000%2F20261110T173000&details=Pay%20what%20you%20wish%2C%20late%20afternoon%20https%3A%2F%2Fwww.guggenheim.org%2Fplan-your-visit&location=1071%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "DOC NYC",
@@ -5495,7 +5645,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DOC%20NYC&dates=20261111%2F20261130&details=https%3A%2F%2Fwww.docnyc.net%2F&location=Various%20theaters&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Le Bal Imperial",
@@ -5524,7 +5674,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Le%20Bal%20Imperial&dates=20261111%2F20261112&details=https%3A%2F%2Ffrenchheritagesociety.org%2Fchapters%2Fyoung-patrons-circle%2F&location=French%20Heritage%20Society&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -5553,7 +5703,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Django&dates=20261111%2F20261112&details=Live%20jazz%20nightly%2C%20walking%20distance%20https%3A%2F%2Fwww.thedjangonyc.com%2F&location=2%20Sixth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -5582,7 +5732,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261113%2F20261114&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Stanya Kahn film",
@@ -5611,7 +5761,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Stanya%20Kahn%20film&dates=20261113T190000%2F20261113T210000&details=https%3A%2F%2Fparticipantinc.org%2F&location=Participant%20Inc&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "A Current Affair vintage show",
@@ -5640,7 +5790,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Current%20Affair%20vintage%20show&dates=20261114%2F20261116&details=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fa-current-affair-pop-up-vintage-marketplace-in-brooklyn-fall-2026-tickets-1987864739949&location=Industry%20City&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Frick Garden Court concert",
@@ -5669,7 +5819,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20Garden%20Court%20concert&dates=20261114%2F20261115&details=https%3A%2F%2Fwww.frick.org%2Fprograms%2Fconcerts&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "failed"
   },
   {
    "title": "Toad Mountain | Work-in-Progress by Jie-Hung Connie Shiau",
@@ -5728,7 +5878,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Terence%20Tao&dates=20261115%2F20261116&details=https%3A%2F%2Fpioneerworks.org%2Fprograms&location=Pioneer%20Works&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "NYC Jewelry Week",
@@ -5757,7 +5907,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYC%20Jewelry%20Week&dates=20261116%2F20261123&details=https%3A%2F%2Fnycjewelryweek.com%2F&location=Citywide&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Lucid Duo: Tradition & Innovation – 15 Years of Marimba Duo Performance",
@@ -5816,7 +5966,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Einstein%20on%20the%20Beach%2C%2050th%20anniversary&dates=20261119%2F20261122&details=https%3A%2F%2Fwww.bam.org%2Fnextwave&location=BAM&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "PoetryFest",
@@ -5845,7 +5995,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PoetryFest&dates=20261120%2F20261123&details=https%3A%2F%2Firishartscenter.org%2F&location=Irish%20Arts%20Center&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Frick Garden Court concert",
@@ -5874,7 +6024,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20Garden%20Court%20concert&dates=20261122%2F20261123&details=https%3A%2F%2Fwww.frick.org%2Fprograms%2Fconcerts&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "failed"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -5903,7 +6053,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261123%2F20261124&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -5932,7 +6082,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261128%2F20261129&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -5961,7 +6111,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261201%2F20261202&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Tallis Scholars",
@@ -5990,7 +6140,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tallis%20Scholars&dates=20261203%2F20261204&details=https%3A%2F%2Fwww.millertheatre.com%2Fabout%2Fpress%2Fmiller-theatre-announces-the-2026-27-season&location=St.%20Mary%20the%20Virgin&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Met Opera student night: Jenufa",
@@ -6019,7 +6169,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Jenufa&dates=20261204%2F20261205&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Anthony Hervey Septet",
@@ -6048,7 +6198,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Anthony%20Hervey%20Septet&dates=20261205%2F20261206&details=https%3A%2F%2Fwww.millertheatre.com%2Fabout%2Fpress%2Fmiller-theatre-announces-the-2026-27-season&location=Miller%20Theatre&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Steinkellner / Novak: A Christmas Journey",
@@ -6107,7 +6257,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261211%2F20261212&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Frick Jan to May concerts on sale",
@@ -6136,7 +6286,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20Jan%20to%20May%20concerts%20on%20sale&dates=20261215T120000%2F20261215T140000&details=https%3A%2F%2Fwww.frick.org%2Fprograms%2Fconcerts&location=The%20Frick%20Collection&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "failed"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -6165,7 +6315,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261216%2F20261217&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "The Janiken Dansen Show",
@@ -6194,7 +6344,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Janiken%20Dansen%20Show&dates=20261219T190000%2F20261219T210000&details=https%3A%2F%2Fparticipantinc.org%2F&location=Participant%20Inc&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Janiken Dansen Show",
@@ -6223,7 +6373,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Janiken%20Dansen%20Show&dates=20261220T190000%2F20261220T210000&details=https%3A%2F%2Fparticipantinc.org%2F&location=Participant%20Inc&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Met Costume Art: last day",
@@ -6252,7 +6402,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Costume%20Art%3A%20last%20day&dates=20270110%2F20270111&details=https%3A%2F%2Fwww.metmuseum.org%2Fen%2Fpress-releases%2Fcostume-institute-spring-2026&location=The%20Met&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Winter Jazzfest",
@@ -6281,7 +6431,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Winter%20Jazzfest&dates=20270112%2F20270120&details=Age%20policy%20conflicts%20between%20sources%20https%3A%2F%2Fwww.winterjazzfest.com%2F&location=Various%20venues&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Winter Show Opening Night Preview",
@@ -6310,7 +6460,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Winter%20Show%20Opening%20Night%20Preview&dates=20270121T170000%2F20270121T210000&details=https%3A%2F%2Fthewintershow.org%2Fevents&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "The Winter Show",
@@ -6339,7 +6489,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Winter%20Show&dates=20270122%2F20270201&details=https%3A%2F%2Fwww.thewintershow.org%2F&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Met Opera student night: Tosca",
@@ -6368,7 +6518,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Tosca&dates=20270122%2F20270123&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Whitney Art Party",
@@ -6397,7 +6547,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Whitney%20Art%20Party&dates=20270126%2F20270127&details=https%3A%2F%2Fwhitney.org%2FArtParty&location=Whitney%20Museum&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Winter Show Young Collectors Night",
@@ -6426,7 +6576,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Winter%20Show%20Young%20Collectors%20Night&dates=20270128T180000%2F20270128T210000&details=https%3A%2F%2Fthewintershow.org%2Fevents&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "NYFW Fall/Winter 2027",
@@ -6455,7 +6605,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYFW%20Fall%2FWinter%202027&dates=20270204%2F20270213&details=Dates%20conflict%3A%20Feb%208%20to%2012%20vs%20Feb%204%20to%209%20https%3A%2F%2Ffashioncalendar.com%2F&location=Citywide&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Craig Taborn trio",
@@ -6484,7 +6634,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Craig%20Taborn%20trio&dates=20270206%2F20270207&details=https%3A%2F%2Fwww.millertheatre.com%2Fabout%2Fpress%2Fmiller-theatre-announces-the-2026-27-season&location=Miller%20Theatre&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Fashioning Desire at Museum at FIT",
@@ -6513,7 +6663,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fashioning%20Desire%20at%20Museum%20at%20FIT&dates=20270217%2F20270419&details=https%3A%2F%2Fwww.fitnyc.edu%2Fmuseum%2Fexhibitions%2Findex.php&location=Museum%20at%20FIT&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Outsider Art Fair",
@@ -6542,7 +6692,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Outsider%20Art%20Fair&dates=20270318%2F20270322&details=https%3A%2F%2Fwww.outsiderartfair.com%2Fvisit%2F&location=125%20W%2018th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Met Opera student night: Manon",
@@ -6571,7 +6721,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Manon&dates=20270326%2F20270327&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Paris Review Spring Revel",
@@ -6600,7 +6750,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paris%20Review%20Spring%20Revel&dates=20270406%2F20270407&details=https%3A%2F%2Fwww.theparisreview.org%2Frevel&location=&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "IFPDA Print Fair",
@@ -6629,7 +6779,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=IFPDA%20Print%20Fair&dates=20270408%2F20270412&details=https%3A%2F%2Ffineartprintfair.org%2Fvisit%2F&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "failed"
   },
   {
    "title": "Met Opera student night: Aida",
@@ -6658,7 +6808,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Aida&dates=20270423%2F20270424&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "Bang on a Can Long Play",
@@ -6687,7 +6837,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bang%20on%20a%20Can%20Long%20Play&dates=20270430%2F20270503&details=https%3A%2F%2Fbangonacan.org%2Flong-play%2F&location=Downtown%20Brooklyn&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "NYCB Spring Gala",
@@ -6716,7 +6866,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYCB%20Spring%20Gala&dates=20270506%2F20270507&details=https%3A%2F%2Fwww.nycballet.com%2Fsupport%2Fyoung-patrons-circle&location=New%20York%20City%20Ballet&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Frieze New York",
@@ -6745,7 +6895,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frieze%20New%20York&dates=20270512%2F20270517&details=https%3A%2F%2Fwww.frieze.com%2Ffairs%2Ffrieze-new-york&location=545%20W%2030th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "blocked"
   },
   {
    "title": "NADA New York",
@@ -6774,7 +6924,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NADA%20New%20York&dates=20270512%2F20270517&details=https%3A%2F%2Fwww.newartdealers.org%2F&location=Starrett-Lehigh&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "NYCxDesign Festival",
@@ -6803,7 +6953,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYCxDesign%20Festival&dates=20270513%2F20270521&details=https%3A%2F%2Fnycxdesign.org%2Ffestival&location=Citywide&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim YCC Party",
@@ -6832,7 +6982,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Guggenheim%20YCC%20Party&dates=20270513%2F20270514&details=https%3A%2F%2Fwww.guggenheim.org%2F&location=Guggenheim&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Tribeca Gallery Night",
@@ -6861,7 +7011,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tribeca%20Gallery%20Night&dates=20270514%2F20270515&details=https%3A%2F%2Ftribecaartsdistrict.org%2F&location=Tribeca%20galleries&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "TEFAF New York",
@@ -6890,7 +7040,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=TEFAF%20New%20York&dates=20270514%2F20270519&details=https%3A%2F%2Fwww.tefaf.com%2Ffairs%2Ftefaf-new-york&location=643%20Park%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "NYCB Spring Party",
@@ -6919,7 +7069,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NYCB%20Spring%20Party&dates=20270521%2F20270522&details=https%3A%2F%2Fwww.nycballet.com%2Fsupport%2Fyoung-patrons-circle&location=New%20York%20City%20Ballet&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "MoMA Party in the Garden after-party",
@@ -6948,7 +7098,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MoMA%20Party%20in%20the%20Garden%20after-party&dates=20270601%2F20270602&details=https%3A%2F%2Fwww.moma.org%2F&location=MoMA&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Tribeca Festival",
@@ -6977,7 +7127,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tribeca%20Festival&dates=20270603%2F20270613&details=https%3A%2F%2Ftribecafilm.com%2F&location=Tribeca&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "Bar Convent Brooklyn",
@@ -7006,7 +7156,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bar%20Convent%20Brooklyn&dates=20270608%2F20270610&details=https%3A%2F%2Fwww.barconventbrooklyn.com%2F&location=Industry%20City&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   },
   {
    "title": "MCNY Museum Party",
@@ -7035,7 +7185,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MCNY%20Museum%20Party&dates=20270924%2F20270925&details=40%20and%20under%20https%3A%2F%2Fwww.mcny.org%2F&location=Museum%20of%20the%20City%20of%20New%20York&ctz=America%2FNew_York",
-   "url_status": "unchecked"
+   "url_status": "ok"
   }
  ],
  "browse": [
