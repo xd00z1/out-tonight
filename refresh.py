@@ -227,6 +227,68 @@ def tribe_events(data):
     return out
 
 
+def localist_events(data):
+    """Localist calendar API (/api/2/events), common on university calendars."""
+    out = []
+    for wrap in data.get("events", []):
+        e = wrap.get("event", wrap)
+        inst = (e.get("event_instances") or [{}])[0].get("event_instance", {})
+        if not inst.get("start") or not e.get("title"):
+            continue
+        start, _ = parse_dt(inst["start"])
+        all_day = bool(inst.get("all_day"))
+        end = parse_dt(inst["end"])[0] if inst.get("end") and not all_day else None
+        cost = "Free" if e.get("free") else (e.get("ticket_cost") or None)
+        out.append({"title": e["title"], "start": start, "all_day": all_day, "end": end,
+                    "url": e.get("localist_url") or e.get("url"), "venue": e.get("location_name"),
+                    "address": e.get("address"), "zip": None, "cost": cost,
+                    "location": e.get("room_number")})
+    return out
+
+
+def _card_time(dt_attr, card_text):
+    """Some CMSs stamp local wall time with a 'Z'. Read the datetime both ways and
+    keep the reading whose clock time is printed on the card."""
+    start, all_day = parse_dt(dt_attr)
+    if all_day or not dt_attr.endswith("Z"):
+        return start, all_day
+    naive = datetime.fromisoformat(dt_attr[:-1]).replace(tzinfo=TZ)
+    shown = lambda d: f"{d.hour % 12 or 12}:{d.minute:02d}"
+    text = re.sub(r"\s+", "", card_text)
+    if shown(naive) in text and shown(start) not in text:
+        return naive, False
+    return start, False
+
+
+def card_events(html, base_url):
+    """Server-rendered event cards: each <article> holding a <time datetime>, a heading
+    link and optionally a venue/price. Dates come from the datetime attribute only."""
+    origin = "{0.scheme}://{0.netloc}".format(urlparse(base_url))
+    out = []
+    for block in re.split(r"(?=<article\b)", html)[1:]:
+        block = block.split("</article>")[0]
+        tm = re.search(r'<time[^>]*datetime="([^"]+)"', block)
+        head = re.search(r"<h[1-4][^>]*>(.*?)</h[1-4]>", block, re.S)
+        if not tm or not head:
+            continue
+        title = _clean(re.sub(r"<[^>]+>", " ", head.group(1)))
+        href = re.search(r'href="([^"]+)"', head.group(1)) or re.search(r'href="([^"]+)"', block)
+        text = htmllib.unescape(re.sub(r"<[^>]+>", " ", block))
+        try:
+            start, all_day = _card_time(tm.group(1), text)
+        except ValueError:
+            continue
+        url = href.group(1) if href else None
+        if url and url.startswith("/"):
+            url = origin + url.split("?")[0]
+        venue = re.search(r'class="[^"]*venue[^"]*"[^>]*>(.*?)</', block, re.S)
+        free = re.search(r">\s*Free\s*<", block)
+        out.append({"title": title or "", "start": start, "all_day": all_day, "end": None,
+                    "url": url if url and url.startswith("http") else None,
+                    "venue": _clean(venue.group(1)) if venue else None, "cost": "Free" if free else None})
+    return [e for e in out if e["title"]]
+
+
 def _walk_ld(node):
     if isinstance(node, list):
         for n in node:
@@ -389,6 +451,8 @@ def excluded(title, patterns, location=""):
 
 def from_raw(raw, src, today):
     venue = raw.get("venue") or src.get("venue")
+    if src.get("room_venues") and raw.get("venue") and src.get("venue")             and norm_key(src["venue"]) not in norm_key(raw["venue"]) and len(raw["venue"]) < 30:
+        venue = f'{src["venue"]}, {raw["venue"]}'  # "Paul Hall" -> "Juilliard, Paul Hall"
     # A timed event spanning several days is a multi-day item. Short runs (a 3-night
     # residency) keep their nightly start time; long runs (exhibitions) become all-day.
     if not raw.get("all_day") and raw.get("end") and raw["end"].date() > raw["start"].date()             and (raw["end"] - raw["start"]).total_seconds() > 24 * 3600:
@@ -651,7 +715,7 @@ def run(offline=False, today=None, out=PUBLIC):
     default_ex = cfg.get("defaults", {}).get("exclude")
     pats = {s["id"]: [default_ex, s.get("exclude")] for s in cfg["sources"]}
     recurring = yaml.safe_load((ROOT / "recurring.yaml").read_text(encoding="utf-8")) or []
-    seed = load_json(ROOT / "seed_events.json", [])
+    seed = [row for f in sorted(ROOT.glob("seed*.json")) for row in load_json(f, [])]  # seed_events + importer output
     previous = load_json(out / "events.json", {}).get("events", [])
     prev_status = {s["id"]: s for s in load_json(out / "status.json", {}).get("sources", [])}
 
@@ -676,6 +740,8 @@ def run(offline=False, today=None, out=PUBLIC):
             if st["method"] == "tribe":
                 end = today + timedelta(days=FETCH_DAYS)
                 target += f"?per_page=50&start_date={today}&end_date={end}"
+            elif st["method"] == "localist":
+                target += f"?days={FETCH_DAYS}&pp=100"
             if not robots_allows(target):
                 st.update(result="failed", error="robots.txt disallows")
                 continue
@@ -690,12 +756,20 @@ def run(offline=False, today=None, out=PUBLIC):
                 continue
             raws = {"ics": lambda: ics_events(r.text), "tribe": lambda: tribe_events(r.json()),
                     "jsonld": lambda: jsonld_events(r.text),
-                    "nextdata": lambda: nextdata_events(r.text, target)}[st["method"]]()
+                    "nextdata": lambda: nextdata_events(r.text, target),
+                    "localist": lambda: localist_events(r.json()),
+                    "cards": lambda: card_events(r.text, target)}[st["method"]]()
             horizon = today + timedelta(days=FETCH_DAYS)
             evs = [from_raw(x, src, today) for x in raws if not excluded(x.get("title", ""), pats[src["id"]], x.get("location"))]
             evs = [e for e in evs if last_day(e) >= today and parse_dt(e["start"])[0].date() <= horizon]
             evs.sort(key=lambda e: str(e["start"]))
-            evs = evs[: src.get("max_events", 15)]
+            per_day, kept = {}, []  # spread a big calendar across days instead of flooding one
+            for e in evs:
+                d = str(e["start"])[:10]
+                if per_day.get(d, 0) < src.get("per_day", 2):
+                    per_day[d] = per_day.get(d, 0) + 1
+                    kept.append(e)
+            evs = kept[: src.get("max_events", 15)]
             fresh += evs
             ok_sources.add(src["id"])
             st.update(result="ok" if evs else "empty", count=len(evs), last_success=today.isoformat())
@@ -725,7 +799,7 @@ def run(offline=False, today=None, out=PUBLIC):
             e.setdefault("url_status", "unchecked")
 
     # 5. write
-    browse = [{"id": s["id"], "url": s["url"], "category": s["category"], "note": s.get("note")}
+    browse = [{"id": s["id"], "name": s.get("name"), "url": s["url"], "category": s["category"], "note": s.get("note")}
               for s in sources if s.get("method", "link") == "link" and s.get("enabled", True)]
     counts = {k: sum(1 for s in status if s["result"] == k)
               for k in ("ok", "empty", "failed", "link", "skipped", "disabled")}

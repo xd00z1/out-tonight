@@ -6,6 +6,7 @@ A personal list of NYC cultural events: a static page fed by `public/events.json
 sources.yaml        pages to check, with the method probe.py found for each
 recurring.yaml      standing weekly/monthly options (museum free nights, late jazz...)
 seed_events.json    hand-entered dated events (fairs, festivals, one-offs)
+seed_*.json         importer output (Carnegie, Met Opera); every seed*.json is loaded
 refresh.py          load -> fetch -> extract -> normalize/dedupe -> write
 probe.py            one-off: detect the best method for each source
 public/index.html   the page: month calendar (tap a day) or All list, with price/entry/type filters
@@ -42,7 +43,25 @@ No LLM or paid API is called. The script reads only structured data:
 | `ics` | an iCalendar feed |
 | `jsonld` | schema.org `Event` blocks in the page |
 | `nextdata` | dated objects in a Next.js page's `__NEXT_DATA__` |
-| `link` | nothing parsed; listed under "More places to check" |
+| `localist` | Localist calendar API (university calendars) |
+| `cards` | server-rendered `<article>` cards with a `<time datetime>` |
+| `link` | nothing parsed; listed under "More calendars" at the bottom of the page |
+
+The probe also finds ICS feeds hidden behind embedded Trumba, Google Calendar and Tockify widgets (that is how the Frick works).
+
+**Importers** (`importers/`) cover big venues whose sites block scripts:
+- `carnegie.py` reads Carnegie Hall's press-kit "Chronology of Events" PDF → `seed_carnegie.json`
+- `met_opera.py` reads the Met's performance list from Operabase → `seed_met.json`
+
+The workflow re-runs both on every refresh and keeps the last files if a site blocks it. Running them locally once a month is plenty:
+
+```bash
+python importers/carnegie.py
+```
+
+```bash
+python importers/met_opera.py
+```
 
 Probe results as of Oct 8, 2026: 6 of 61 sources have structured events (Scandinavia House, LMCC, Dizzy's, Austrian Cultural Forum, New Museum, Luma NYC). The rest are link-only, so the page lists them for you to check by hand. Re-probe now and then, since sites change platforms:
 

@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-13T18:35:59-04:00",
- "duration_s": 109.5,
+ "generated_at": "2026-10-13T19:01:35-04:00",
+ "duration_s": 0.2,
  "counts": {
-  "ok": 6,
+  "ok": 0,
   "empty": 0,
-  "failed": 2,
-  "link": 60,
-  "skipped": 0,
+  "failed": 0,
+  "link": 179,
+  "skipped": 21,
   "disabled": 0
  },
  "sources": [
@@ -144,9 +144,9 @@
    "id": "lmcc",
    "url": "https://lmcc.net/",
    "method": "tribe",
-   "result": "ok",
-   "http_status": 200,
-   "count": 4,
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
    "error": null,
    "last_success": "2026-10-13"
   },
@@ -223,20 +223,20 @@
   {
    "id": "juilliard",
    "url": "https://www.juilliard.edu/stage-beyond/performance/calendar",
-   "method": "link",
-   "result": "link",
+   "method": "cards",
+   "result": "skipped",
    "http_status": null,
    "count": 0,
    "error": null,
-   "last_success": null
+   "last_success": "2026-10-13"
   },
   {
    "id": "frick",
    "url": "https://www.frick.org/calendar",
    "method": "ics",
-   "result": "ok",
-   "http_status": 200,
-   "count": 20,
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
    "error": null,
    "last_success": "2026-10-13"
   },
@@ -254,10 +254,10 @@
    "id": "dizzys",
    "url": "https://www.jazz.org/dizzys/",
    "method": "jsonld",
-   "result": "failed",
-   "http_status": 403,
+   "result": "skipped",
+   "http_status": null,
    "count": 0,
-   "error": "HTTP 403",
+   "error": null,
    "last_success": "2026-10-13"
   },
   {
@@ -294,9 +294,9 @@
    "id": "zinc_bar",
    "url": "https://www.zincbar.com/",
    "method": "tribe",
-   "result": "ok",
-   "http_status": 200,
-   "count": 10,
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
    "error": null,
    "last_success": "2026-10-13"
   },
@@ -343,12 +343,12 @@
   {
    "id": "jazz_gallery",
    "url": "https://jazzgallery.org/calendar/",
-   "method": "link",
-   "result": "link",
+   "method": "cards",
+   "result": "skipped",
    "http_status": null,
    "count": 0,
    "error": null,
-   "last_success": null
+   "last_success": "2026-10-13"
   },
   {
    "id": "nyc_jazz_record",
@@ -484,19 +484,19 @@
    "id": "scandinavia_house",
    "url": "https://www.scandinaviahouse.org/events/",
    "method": "tribe",
-   "result": "failed",
-   "http_status": 403,
+   "result": "skipped",
+   "http_status": null,
    "count": 0,
-   "error": "HTTP 403",
+   "error": null,
    "last_success": "2026-10-13"
   },
   {
    "id": "austrian_forum",
    "url": "https://www.acfny.org/events",
    "method": "jsonld",
-   "result": "ok",
-   "http_status": 200,
-   "count": 9,
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
    "error": null,
    "last_success": "2026-10-13"
   },
@@ -574,9 +574,9 @@
    "id": "luma_nyc",
    "url": "https://luma.com/nyc",
    "method": "jsonld",
-   "result": "ok",
-   "http_status": 200,
-   "count": 8,
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
    "error": null,
    "last_success": "2026-10-13"
   },
@@ -644,9 +644,9 @@
    "id": "new_museum",
    "url": "https://www.newmuseum.org/",
    "method": "nextdata",
-   "result": "ok",
-   "http_status": 200,
-   "count": 14,
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
    "error": null,
    "last_success": "2026-10-13"
   },
@@ -683,6 +683,1326 @@
   {
    "id": "nycxdesign",
    "url": "https://nycxdesign.org/festival",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "moma",
+   "url": "https://www.moma.org/calendar/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "met_events",
+   "url": "https://www.metmuseum.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "guggenheim",
+   "url": "https://www.guggenheim.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "brooklyn_museum",
+   "url": "https://www.brooklynmuseum.org/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "moma_ps1",
+   "url": "https://www.momaps1.org/en/programs",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "noguchi",
+   "url": "https://www.noguchi.org/museum/calendar/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "morgan",
+   "url": "https://www.themorgan.org/programs",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "jewish_museum",
+   "url": "https://thejewishmuseum.org/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "cooper_hewitt",
+   "url": "https://www.cooperhewitt.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "mad",
+   "url": "https://madmuseum.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "mcny",
+   "url": "https://www.mcny.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "ny_historical",
+   "url": "https://www.nyhistory.org/programs",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "asia_society",
+   "url": "https://asiasociety.org/new-york/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "icp",
+   "url": "https://www.icp.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "studio_museum",
+   "url": "https://studiomuseum.org/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "poster_house",
+   "url": "https://posterhouse.org/",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "leslie_lohman",
+   "url": "https://www.leslielohman.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "tenement",
+   "url": "https://www.tenement.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "the_shed",
+   "url": "https://theshed.org/program",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "armory",
+   "url": "https://www.armoryonpark.org/programs_events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "dia",
+   "url": "https://www.diaart.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "sculpturecenter",
+   "url": "https://www.sculpture-center.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "white_columns",
+   "url": "https://whitecolumns.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "amant",
+   "url": "https://www.amant.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "creative_time",
+   "url": "https://creativetime.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "public_art_fund",
+   "url": "https://www.publicartfund.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "aperture",
+   "url": "https://aperture.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "printed_matter",
+   "url": "https://www.printedmatter.org/programs/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "performa",
+   "url": "https://performa-arts.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "storefront",
+   "url": "https://storefrontnews.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "center_for_architecture",
+   "url": "https://www.centerforarchitecture.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "van_alen",
+   "url": "https://www.vanalen.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "amnh",
+   "url": "https://www.amnh.org/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "moving_image",
+   "url": "https://movingimage.org/events/",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "carnegie",
+   "url": "https://www.carnegiehall.org/Calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "ny_phil",
+   "url": "https://www.nyphil.org/concerts-tickets",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "met_opera",
+   "url": "https://www.metopera.org/season/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "lincoln_center",
+   "url": "https://www.lincolncenter.org/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "cmslc",
+   "url": "https://www.chambermusicsociety.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "national_sawdust",
+   "url": "https://www.nationalsawdust.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "roulette",
+   "url": "https://roulette.org/calendar/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "the_stone",
+   "url": "https://thestonenyc.com/calendar.php",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bargemusic",
+   "url": "https://www.bargemusic.org/",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "ny92",
+   "url": "https://www.92ny.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "kaufman",
+   "url": "https://www.kaufmanmusiccenter.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "msm",
+   "url": "https://www.msmnyc.edu/performances/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "st_barts",
+   "url": "https://stbarts.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "greenwich_house_music",
+   "url": "https://www.greenwichhouse.org/music-school/events/",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "blue_note",
+   "url": "https://www.bluenotejazz.com/nyc/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "smoke",
+   "url": "https://www.smokejazz.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "mintons",
+   "url": "https://www.mintonsharlem.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bar_bayeux",
+   "url": "https://www.barbayeux.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nublu",
+   "url": "https://nublu.net/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "joes_pub",
+   "url": "https://publictheater.org/joes-pub/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "mercury_lounge",
+   "url": "https://www.mercuryloungenyc.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bowery_ballroom",
+   "url": "https://www.boweryballroom.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "elsewhere",
+   "url": "https://www.elsewhere.club/",
+   "method": "nextdata",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "nowadays",
+   "url": "https://nowadays.nyc/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "knockdown",
+   "url": "https://knockdown.center/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "union_pool",
+   "url": "https://union-pool.com/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "joyce",
+   "url": "https://www.joyce.org/performances",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nyla",
+   "url": "https://newyorklivearts.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "the_kitchen",
+   "url": "https://thekitchen.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "danspace",
+   "url": "https://danspaceproject.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "la_mama",
+   "url": "https://www.lamama.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "soho_rep",
+   "url": "https://sohorep.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "st_anns",
+   "url": "https://stannswarehouse.org/",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "public_theater",
+   "url": "https://publictheater.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nytw",
+   "url": "https://www.nytw.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "city_center",
+   "url": "https://www.nycitycenter.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bac",
+   "url": "https://bacnyc.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "abrons",
+   "url": "https://www.abronsartscenter.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "ps122",
+   "url": "https://ps122.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "here_arts",
+   "url": "https://here.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "irish_arts",
+   "url": "https://irishartscenter.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "film_forum",
+   "url": "https://filmforum.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "ifc_center",
+   "url": "https://www.ifccenter.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "metrograph",
+   "url": "https://metrograph.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "anthology",
+   "url": "https://anthologyfilmarchives.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "roxy_cinema",
+   "url": "https://www.roxycinemanewyork.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nitehawk",
+   "url": "https://nitehawkcinema.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "light_industry",
+   "url": "https://www.lightindustry.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "paris_theater",
+   "url": "https://www.paristheaternyc.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "quad",
+   "url": "https://quadcinema.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "spectacle",
+   "url": "https://www.spectacletheater.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "low_cinema",
+   "url": "https://lowcinema.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nypl",
+   "url": "https://www.nypl.org/events/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bpl",
+   "url": "https://www.bklynlibrary.org/calendar",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "strand",
+   "url": "https://www.strandbooks.com/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "albertine",
+   "url": "https://www.albertine.com/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "rizzoli",
+   "url": "https://www.rizzolibookstore.com/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "housing_works",
+   "url": "https://www.housingworks.org/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "books_are_magic",
+   "url": "https://www.booksaremagic.net/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "kgb_bar",
+   "url": "https://www.kgbbar.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "poetry_project",
+   "url": "https://www.poetryproject.org/",
+   "method": "cards",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "center_for_fiction",
+   "url": "https://centerforfiction.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "new_school",
+   "url": "https://www.newschool.edu/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "columbia_events",
+   "url": "https://events.columbia.edu/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "cuny_gc",
+   "url": "https://www.gc.cuny.edu/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "brooklyn_institute",
+   "url": "https://thebrooklyninstitute.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "caveat",
+   "url": "https://www.caveat.nyc/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "explorers_club",
+   "url": "https://www.explorers.org/events",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "deutsches_haus",
+   "url": "https://dhnyu.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "maison_francaise",
+   "url": "https://maisonfrancaise.columbia.edu/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "italian_academy",
+   "url": "https://italianacademy.columbia.edu/events",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "casa_italiana",
+   "url": "https://casaitaliana.as.nyu.edu/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "cervantes",
+   "url": "https://nyork.cervantes.es/en/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "china_institute",
+   "url": "https://www.chinainstitute.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "czech_center",
+   "url": "https://new-york.czechcentres.cz/en/program",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "lalliance",
+   "url": "https://lalliancenewyork.org/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nyas",
+   "url": "https://www.nyas.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nerd_nite",
+   "url": "https://nyc.nerdnite.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "hudson_river_park",
+   "url": "https://hudsonriverpark.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "little_island",
+   "url": "https://littleisland.org/",
+   "method": "tribe",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "governors_island",
+   "url": "https://www.govisland.com/things-to-do",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bryant_park",
+   "url": "https://bryantpark.org/activities",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "high_line",
+   "url": "https://www.thehighline.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bk_bridge_park",
+   "url": "https://www.brooklynbridgepark.org/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "seaport",
+   "url": "https://www.theseaport.nyc/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "downtown_alliance",
+   "url": "https://downtownny.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "hudson_square",
+   "url": "https://hudsonsquare.nyc/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "tribeca_citizen",
+   "url": "https://tribecacitizen.com/category/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bpca",
+   "url": "https://bpca.ny.gov/events/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "astor_wines",
+   "url": "https://www.astorwines.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "chambers_street",
+   "url": "https://www.chambersstwines.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "brooklyn_flea",
+   "url": "https://www.brooklynflea.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "smorgasburg",
+   "url": "https://www.smorgasburg.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "bell_house",
+   "url": "https://www.thebellhouseny.com/",
+   "method": "jsonld",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "union_hall",
+   "url": "https://unionhallny.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "littlefield",
+   "url": "https://littlefieldnyc.com/",
+   "method": "cards",
+   "result": "skipped",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "comedy_cellar",
+   "url": "https://www.comedycellar.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "parsons",
+   "url": "https://www.newschool.edu/parsons/",
    "method": "link",
    "result": "link",
    "http_status": null,

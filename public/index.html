@@ -87,7 +87,9 @@ footer a { text-decoration: underline; }
 .more { margin-top: 28px; font-size: 13px; }
 .more summary { cursor: pointer; color: var(--muted); list-style: none; text-align: center; }
 .more summary::-webkit-details-marker { display: none; }
-.more .links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; justify-content: center; }
+.more .links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.more .grp { margin-top: 14px; }
+.more .gl { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .more .links a { background: var(--chip); padding: 6px 10px; border-radius: 999px; }
 </style>
 </head>
@@ -102,7 +104,7 @@ footer a { text-decoration: underline; }
   </div>
   <div class="filters" id="filters"></div>
   <div id="view"></div>
-  <details class="more" id="more" hidden><summary>More calendars</summary><div class="links" id="moreLinks"></div></details>
+  <details class="more" id="more" hidden><summary>More calendars</summary><div id="moreLinks"></div></details>
   <footer id="foot"></footer>
 </div>
 
@@ -272,10 +274,18 @@ document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click"
     DATA = ev;
     today = nyDate(new Date()); selected = today; month = today.slice(0, 7);
     render();
-    const host = u => new URL(u).hostname.replace(/^www\./, "").replace(/\.(com|org|net|nyc|co)$/, "");
-    document.getElementById("moreLinks").replaceChildren(...(ev.browse || [])
-      .sort((a, b) => (a.category === "jazz_music" ? -1 : 0) - (b.category === "jazz_music" ? -1 : 0))
-      .map(b => h("a", { href: b.url, target: "_blank", rel: "noopener", title: b.note || "", text: host(b.url) })));
+    const ACR = new Set("nyc ny icp moma ps1 nypl bpl mad amnh nyas bac nyla nytw cmslc msm lmcc flc bam pac gsapp fit kccny iscp lpr mcny bpca cuny gc ifc hb".split(" "));
+    const FIX = { ny92: "92NY", moma: "MoMA", moma_ps1: "MoMA PS1", joes_pub: "Joe's Pub", mintons: "Minton's",
+      kgb_bar: "KGB Bar", pi_fyi: "PI.FYI", docnyc: "DOC NYC", lalliance: "L'Alliance", sothebys_ny: "Sotheby's",
+      bk_bridge_park: "Brooklyn Bridge Park", met_events: "The Met", ps122: "PS122", here_arts: "HERE",
+      mcnally_jackson: "McNally Jackson", st_barts: "St. Bart's", the_skint: "The Skint", sculpturecenter: "SculptureCenter" };
+    const name = b => b.name || FIX[b.id] || (b.id.split("_").map(w => ACR.has(w) ? w.toUpperCase() : w[0].toUpperCase() + w.slice(1)).join(" "));
+    const byCat = {};
+    for (const b of ev.browse || []) (byCat[b.category] ||= []).push(b);
+    document.getElementById("moreLinks").replaceChildren(...Object.keys(CATS).filter(k => byCat[k]).map(k =>
+      h("div", { class: "grp" }, h("div", { class: "gl", text: CATS[k] }),
+        h("div", { class: "links" }, byCat[k].sort((a, b) => name(a).localeCompare(name(b)))
+          .map(b => h("a", { href: b.url, target: "_blank", rel: "noopener", title: b.note || "", text: name(b) }))))));
     document.getElementById("more").hidden = !(ev.browse || []).length;
     const upd = new Date(ev.generated_at).toLocaleDateString("en-US", { timeZone: TZ, weekday: "short", month: "short", day: "numeric" });
     const failed = st && st.counts.failed ? ` · ${st.counts.failed} sources failed` : "";

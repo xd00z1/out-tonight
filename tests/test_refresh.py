@@ -194,6 +194,21 @@ class EntryAndPrice(unittest.TestCase):
         self.assertIsNone(ev()["entry"])
 
 
+class Cards(unittest.TestCase):
+    CARD = """<article><h3><a href="/event/1/liederabend"><span>Liederabend</span></a></h3>
+      <div class="field--name-field-venue">Paul Hall</div>
+      <time datetime="{dt}">{shown}</time><div>Free</div></article>"""
+
+    def test_local_time_mislabeled_as_utc(self):
+        (e,) = R.card_events(self.CARD.format(dt="2026-10-14T18:00:00Z", shown="6:00PM"), "https://x.edu/cal")
+        self.assertEqual(R.iso(e["start"]), "2026-10-14T18:00:00-04:00")
+        self.assertEqual((e["venue"], e["cost"], e["url"]), ("Paul Hall", "Free", "https://x.edu/event/1/liederabend"))
+
+    def test_real_utc_kept(self):
+        (e,) = R.card_events(self.CARD.format(dt="2026-11-05T00:00:00Z", shown="7:00 PM"), "https://x.edu/cal")
+        self.assertEqual(R.iso(e["start"]), "2026-11-04T19:00:00-05:00")
+
+
 class JsonLd(unittest.TestCase):
     def test_extracts_nested_events_and_free(self):
         html = """<script type="application/ld+json">{"@graph":[{"@type":"MusicEvent",
