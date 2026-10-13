@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T14:30:30-04:00",
+ "generated_at": "2026-10-13T14:30:35-04:00",
  "events": [
   {
    "title": "Atrium Stair: Klára Hosnedlová—Shelter",
@@ -323,36 +323,6 @@
    "first_seen": "2026-10-08",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Corcoran%20Holt%20Quintet%3A%20Freedom%20of%20Art%20Album%20Release&dates=20261013T190000%2F20261013T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "ok"
-  },
-  {
-   "title": "Markets, Models, & Martinis with SF Compute & Jump Trading",
-   "start": "2026-10-13T19:00:00-04:00",
-   "end": "2026-10-13T21:00:00-04:00",
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": "Bar Bas",
-   "address": "Bar Bas, New York",
-   "neighborhood": null,
-   "category": "books_talks",
-   "cost_tier": "free",
-   "cost_text": "Free",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://luma.com/w08n0yov",
-   "source_id": "luma_nyc",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "2f83c50c881ca401",
-   "entry": "walk_in",
-   "price_min": 0,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Markets%2C%20Models%2C%20%26%20Martinis%20with%20SF%20Compute%20%26%20Jump%20Trading&dates=20261013T190000%2F20261013T210000&details=https%3A%2F%2Fluma.com%2Fw08n0yov&location=Bar%20Bas%2C%20New%20York&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
   },
