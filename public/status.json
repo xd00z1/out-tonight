@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-13T14:32:35-04:00",
- "duration_s": 87.4,
+ "generated_at": "2026-10-13T14:36:19-04:00",
+ "duration_s": 78.1,
  "counts": {
-  "ok": 4,
+  "ok": 7,
   "empty": 0,
-  "failed": 2,
-  "link": 55,
+  "failed": 0,
+  "link": 61,
   "skipped": 0,
   "disabled": 0
  },
@@ -254,10 +254,10 @@
    "id": "dizzys",
    "url": "https://www.jazz.org/dizzys/",
    "method": "jsonld",
-   "result": "failed",
-   "http_status": 403,
-   "count": 0,
-   "error": "HTTP 403",
+   "result": "ok",
+   "http_status": 200,
+   "count": 8,
+   "error": null,
    "last_success": "2026-10-13"
   },
   {
@@ -283,6 +283,76 @@
   {
    "id": "lpr",
    "url": "https://lpr.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "zinc_bar",
+   "url": "https://www.zincbar.com/",
+   "method": "tribe",
+   "result": "ok",
+   "http_status": 200,
+   "count": 10,
+   "error": null,
+   "last_success": "2026-10-13"
+  },
+  {
+   "id": "birdland",
+   "url": "https://www.birdlandjazz.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "jazz_cultural",
+   "url": "https://www.jazzcultural.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "village_vanguard",
+   "url": "https://villagevanguard.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "the_pocket",
+   "url": "https://thepocketnyc.com/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "jazz_gallery",
+   "url": "https://jazzgallery.org/calendar/",
+   "method": "link",
+   "result": "link",
+   "http_status": null,
+   "count": 0,
+   "error": null,
+   "last_success": null
+  },
+  {
+   "id": "nyc_jazz_record",
+   "url": "https://nycjazzrecord.com/",
    "method": "link",
    "result": "link",
    "http_status": null,
@@ -414,10 +484,10 @@
    "id": "scandinavia_house",
    "url": "https://www.scandinaviahouse.org/events/",
    "method": "tribe",
-   "result": "failed",
-   "http_status": 403,
-   "count": 0,
-   "error": "HTTP 403",
+   "result": "ok",
+   "http_status": 200,
+   "count": 15,
+   "error": null,
    "last_success": "2026-10-13"
   },
   {

@@ -84,6 +84,11 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 22px;
 .empty { color: var(--muted); font-size: 14px; padding: 10px 0; }
 footer { margin-top: 32px; font-size: 12px; color: var(--muted); text-align: center; }
 footer a { text-decoration: underline; }
+.more { margin-top: 28px; font-size: 13px; }
+.more summary { cursor: pointer; color: var(--muted); list-style: none; text-align: center; }
+.more summary::-webkit-details-marker { display: none; }
+.more .links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; justify-content: center; }
+.more .links a { background: var(--chip); padding: 6px 10px; border-radius: 999px; }
 </style>
 </head>
 <body>
@@ -97,6 +102,7 @@ footer a { text-decoration: underline; }
   </div>
   <div class="filters" id="filters"></div>
   <div id="view"></div>
+  <details class="more" id="more" hidden><summary>More calendars</summary><div class="links" id="moreLinks"></div></details>
   <footer id="foot"></footer>
 </div>
 
@@ -266,6 +272,11 @@ document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click"
     DATA = ev;
     today = nyDate(new Date()); selected = today; month = today.slice(0, 7);
     render();
+    const host = u => new URL(u).hostname.replace(/^www\./, "").replace(/\.(com|org|net|nyc|co)$/, "");
+    document.getElementById("moreLinks").replaceChildren(...(ev.browse || [])
+      .sort((a, b) => (a.category === "jazz_music" ? -1 : 0) - (b.category === "jazz_music" ? -1 : 0))
+      .map(b => h("a", { href: b.url, target: "_blank", rel: "noopener", title: b.note || "", text: host(b.url) })));
+    document.getElementById("more").hidden = !(ev.browse || []).length;
     const upd = new Date(ev.generated_at).toLocaleDateString("en-US", { timeZone: TZ, weekday: "short", month: "short", day: "numeric" });
     const failed = st && st.counts.failed ? ` · ${st.counts.failed} sources failed` : "";
     const feed = new URL("calendar.ics", location.href).href;

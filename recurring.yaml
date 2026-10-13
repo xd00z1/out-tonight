@@ -255,3 +255,23 @@
   cost_text: Free with student ID
   url: https://www.themorgan.org/visit
   why: First Sunday, free for college students
+
+- title: Vanguard Jazz Orchestra
+  venue: Village Vanguard
+  address: 178 Seventh Ave S, New York, NY
+  neighborhood: West Village
+  category: jazz_music
+  days: [mon]
+  cost_tier: per_ticket
+  cost_text: Not stated
+  url: https://vv.squadup.com/artists/vanguard-jazz-orchestra
+  why: Every Monday night
+
+- title: Arturo O'Farrill Afro Latin Jazz Orchestra
+  venue: The Pocket
+  category: jazz_music
+  days: [tue]
+  cost_tier: per_ticket
+  cost_text: Not stated
+  url: https://thepocketnyc.com/
+  why: Every Tuesday

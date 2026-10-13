@@ -49,6 +49,13 @@ sources:
   - {id: smalls, url: "https://www.smallslive.com/tickets/", category: jazz_music, neighborhood: West Village, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
   - {id: winter_jazzfest, url: "https://www.winterjazzfest.com/", category: jazz_music, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
   - {id: lpr, url: "https://lpr.com/", category: jazz_music, neighborhood: West Village, default_cost_tier: per_ticket, method: link, probe: "200 rss posts only"}
+  - {id: zinc_bar, url: "https://www.zincbar.com/", venue: "Zinc Bar", category: jazz_music, neighborhood: Greenwich Village, method: tribe, feed_url: "https://www.zincbar.com/wp-json/tribe/events/v1/events", max_events: 10, exclude: 'open for cocktails', probe: "200 tribe API"}
+  - {id: birdland, url: "https://www.birdlandjazz.com/", category: jazz_music, neighborhood: Midtown, method: link, probe: "200 no structured events", note: "Favorite"}
+  - {id: jazz_cultural, url: "https://www.jazzcultural.com/", category: jazz_music, neighborhood: Hell's Kitchen, method: link, probe: "200 no structured events", note: "Low cover, cheap drinks, big names"}
+  - {id: village_vanguard, url: "https://villagevanguard.com/", category: jazz_music, neighborhood: West Village, method: link, probe: "200 no structured events"}
+  - {id: the_pocket, url: "https://thepocketnyc.com/", category: jazz_music, method: link, probe: "429 rate limited"}
+  - {id: jazz_gallery, url: "https://jazzgallery.org/calendar/", category: jazz_music, method: link, probe: "200 no structured events", note: "Roy Hargrove Big Band about monthly"}
+  - {id: nyc_jazz_record, url: "https://nycjazzrecord.com/", category: jazz_music, method: link, probe: "200 rss posts only", note: "Best citywide jazz listings, in the back pages of each PDF issue"}
   - {id: public_records, url: "https://publicrecords.nyc/", category: nightlife, neighborhood: Gowanus, default_cost_tier: per_ticket, method: link, probe: "200 rss posts only"}
   - {id: mcnally_jackson, url: "https://www.mcnallyjackson.com/events", category: books_talks, method: link, probe: "403 HTTP 403"}
   - {id: the_drift, url: "https://www.thedriftmag.com/events", category: books_talks, default_cost_tier: per_ticket, method: link, probe: "200 no structured events"}
