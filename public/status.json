@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-13T19:06:43-04:00",
- "duration_s": 216.1,
+ "generated_at": "2026-10-13T19:06:53-04:00",
+ "duration_s": 226.2,
  "counts": {
-  "ok": 21,
+  "ok": 16,
   "empty": 0,
-  "failed": 0,
+  "failed": 5,
   "link": 179,
   "skipped": 0,
   "disabled": 0
