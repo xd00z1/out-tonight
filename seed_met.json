@@ -1,17 +1,6 @@
 [
  {
   "title": "Macbeth",
-  "start": "2026-09-22T18:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
-  "title": "Macbeth",
   "start": "2026-09-23T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -22,19 +11,8 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-09-25T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-09-26T13:00:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -55,19 +33,8 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-09-27T15:00:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-09-29T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -88,19 +55,8 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-01T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-10-02T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -121,19 +77,8 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-03T20:00:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-10-05T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -154,7 +99,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-07T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -165,18 +110,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
-  "start": "2026-10-08T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-09T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -187,7 +121,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-10T13:00:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -209,17 +143,6 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
-  "start": "2026-10-11T15:00:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed"
- },
- {
   "title": "Macbeth",
   "start": "2026-10-13T19:30:00-04:00",
   "category": "opera_classical",
@@ -231,7 +154,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Macbeth",
   "start": "2026-10-14T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -242,7 +165,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-15T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -253,7 +176,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Così fan tutte",
   "start": "2026-10-16T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -297,7 +220,7 @@
   "source_id": "seed"
  },
  {
-  "title": "La Bohème",
+  "title": "Lincoln in the Bardo (world premiere)",
   "start": "2026-10-20T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -308,7 +231,7 @@
   "source_id": "seed"
  },
  {
-  "title": "Lincoln in the Bardo (world premiere)",
+  "title": "Così fan tutte",
   "start": "2026-10-22T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -341,7 +264,7 @@
   "source_id": "seed"
  },
  {
-  "title": "Lincoln in the Bardo (world premiere)",
+  "title": "La Bohème",
   "start": "2026-10-24T20:00:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -363,7 +286,7 @@
   "source_id": "seed"
  },
  {
-  "title": "Lincoln in the Bardo (world premiere)",
+  "title": "La Bohème",
   "start": "2026-10-28T20:00:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -396,7 +319,7 @@
   "source_id": "seed"
  },
  {
-  "title": "Lincoln in the Bardo (world premiere)",
+  "title": "La Bohème",
   "start": "2026-10-31T13:00:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -572,7 +495,7 @@
   "source_id": "seed"
  },
  {
-  "title": "Tosca",
+  "title": "Jenůfa",
   "start": "2026-11-17T19:30:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",

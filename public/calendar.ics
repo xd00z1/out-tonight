@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:08c1f446c2969fcf@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261019
 SUMMARY:Midtown Cultural Alliance Open House
@@ -17,416 +17,8 @@ LOCATION:Japan Society and partners
 URL:https://japansociety.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:983bc6a17b4ad398@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Dion Berardo Trio
-DESCRIPTION:Cost: Not stated\nhttps://www.zincbar.com/event/dion-berardo-tr
- io-4/
-LOCATION:Zinc Bar
-URL:https://www.zincbar.com/event/dion-berardo-trio-4/
-END:VEVENT
-BEGIN:VEVENT
-UID:2cc3e37d1702bae4@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Met Opera Under 40 night
-DESCRIPTION:Wine and food before the opera\nCost: $50 to $110\nhttps://www.
- metopera.org/
-LOCATION:Metropolitan Opera
-URL:https://www.metopera.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:a14882cbb2b150ea@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T210000Z
-DTEND:20261013T220000Z
-SUMMARY:Faroe Islands Knits | Artist Talk & Wool Tasting with Shisa Brand
-DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/faroe-
- islands-knits-artist-talk-wool-tasting-with-shisa-brand/
-LOCATION:58 Park Avenue\, New York\, NY
-URL:https://www.scandinaviahouse.org/event/faroe-islands-knits-artist-talk-
- wool-tasting-with-shisa-brand/
-END:VEVENT
-BEGIN:VEVENT
-UID:f8f897306431d04d@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T213000Z
-DTEND:20261013T233000Z
-SUMMARY:Americas Society panel
-DESCRIPTION:Cost: Free\nhttps://www.as-coa.org/events
-LOCATION:680 Park Ave\, New York\, NY
-URL:https://www.as-coa.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:70d88ba4bed5869f@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T213000Z
-DTEND:20261013T233000Z
-SUMMARY:Vince Giordano & The Nighthawks
-DESCRIPTION:Sets 5:30 and 8:30\nCost: $24.91 to $45.76\nhttps://www.birdlan
- djazz.com/tm-event/vince-giordano-and-the-nighthawks-7/
-LOCATION:315 W 44th St\, New York\, NY
-URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
- -7/
-END:VEVENT
-BEGIN:VEVENT
-UID:39b192e72dccda7b@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T220000Z
-DTEND:20261014T000000Z
-SUMMARY:They Have Watches\, But We Have Time: A Takeover by WAI Architectur
- e Think Tank
-DESCRIPTION:Cost: Free\nhttps://luma.com/ardh9b1w
-LOCATION:Van Alen Institute\, Brooklyn
-URL:https://luma.com/ardh9b1w
-END:VEVENT
-BEGIN:VEVENT
-UID:558f7a7f4cde4849@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T220000Z
-DTEND:20261014T003000Z
-SUMMARY:Bloodlines – An Evening with Joe Manganiello
-DESCRIPTION:Cost: Not stated\nhttps://www.explorers.org/calendar-of-events/
- bloodlines-an-evening-with-joe-manganiello/
-LOCATION:
-URL:https://www.explorers.org/calendar-of-events/bloodlines-an-evening-with
- -joe-manganiello/
-END:VEVENT
-BEGIN:VEVENT
-UID:16b84433efc23132@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T223000Z
-DTEND:20261014T000000Z
-SUMMARY:Opening Reception of "Siena: The Art of Bronze\, 1450-1500"
-DESCRIPTION:Cost: Not stated\nhttps://www.frick.org/calendar
-LOCATION:1 E 70th St\, New York\, NY
-URL:https://www.frick.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:5ed7ae02b942f822@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T230000Z
-DTEND:20261014T021000Z
-SUMMARY:Corcoran Holt Quintet: Freedom of Art Album Release
-DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
-LOCATION:Broadway at 60th Street\, New York
-URL:https://www.jazz.org/dizzys/
-END:VEVENT
-BEGIN:VEVENT
-UID:b7d442b7edbdb3e0@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T230000Z
-DTEND:20261014T010000Z
-SUMMARY:Luigi Carroccia with the Argus Quartet
-DESCRIPTION:Schubert "Quartettsatz" in C Minor\, D. 703 + 2 more\nCost: Not
-  stated\nhttps://www.carnegiehall.org/events
-LOCATION:881 Seventh Ave\, New York\, NY
-URL:https://www.carnegiehall.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:d23c8be288030f23@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T233000Z
-DTEND:20261014T003000Z
-SUMMARY:Kramer/Fauci
-DESCRIPTION:Cost: Not stated\nhttps://stannswarehouse.org/show/kramer-fauci
- -18/
-LOCATION:
-URL:https://stannswarehouse.org/show/kramer-fauci-18/
-END:VEVENT
-BEGIN:VEVENT
-UID:2d76aff5cdf4ec60@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T233000Z
-DTEND:20261014T013000Z
-SUMMARY:The Philadelphia Orchestra
-DESCRIPTION:Webern Im Sommerwind + 1 more\nCost: Not stated\nhttps://www.ca
- rnegiehall.org/events
-LOCATION:881 Seventh Ave\, New York\, NY
-URL:https://www.carnegiehall.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:5569dad4ed0a5604@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261013T233000Z
-DTEND:20261014T013000Z
-SUMMARY:Macbeth
-DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
-LOCATION:30 Lincoln Center Plaza\, New York\, NY
-URL:https://www.metopera.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:bd00cb6e3f62ef26@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T000000Z
-DTEND:20261014T020000Z
-SUMMARY:The Moth StorySLAM x MUBI
-DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/the-moth-storysl
- am-x-mubi-brooklyn-new-york-10-13-2026/event/300064BB09EFDD14
-LOCATION:149 7th Street\, Brooklyn
-URL:https://www.ticketmaster.com/the-moth-storyslam-x-mubi-brooklyn-new-yor
- k-10-13-2026/event/300064BB09EFDD14
-END:VEVENT
-BEGIN:VEVENT
-UID:d98e0723abe15da9@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T000000Z
-DTEND:20261014T020000Z
-SUMMARY:Words and Guitar
-DESCRIPTION:Cost: Not stated\nhttps://littlefieldnyc.com/event/
-LOCATION:
-URL:https://littlefieldnyc.com/event/
-END:VEVENT
-BEGIN:VEVENT
-UID:0c51a1697aa0f382@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Sarah King
-DESCRIPTION:Cost: Not stated\nhttps://www.zincbar.com/event/sarah-king-5/
-LOCATION:Zinc Bar
-URL:https://www.zincbar.com/event/sarah-king-5/
-END:VEVENT
-BEGIN:VEVENT
-UID:10af350a6139198d@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Joey Curreri Quintet
-DESCRIPTION:Cost: Not stated\nhttps://jazzgallery.org/calendar/joey-curreri
- -oct-14
-LOCATION:
-URL:https://jazzgallery.org/calendar/joey-curreri-oct-14
-END:VEVENT
-BEGIN:VEVENT
-UID:f836dba2dc29f27a@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Rachel Frank opening
-DESCRIPTION:Cost: Free\nhttps://tribecaartsdistrict.org/
-LOCATION:SARAHCROWN
-URL:https://tribecaartsdistrict.org/
-END:VEVENT
-BEGIN:VEVENT
-UID:0df835756ed84785@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T140000Z
-DTEND:20261014T220000Z
-SUMMARY:Rhone presents: Adult Recess
-DESCRIPTION:Cost: Free\nhttps://luma.com/4mcmtbvf
-LOCATION:Hudson Yards Public Square and Gardens\, New York
-URL:https://luma.com/4mcmtbvf
-END:VEVENT
-BEGIN:VEVENT
-UID:a28fab6c89eac8c7@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T200000Z
-DTEND:20261014T220000Z
-SUMMARY:Piano Performance Forum Recital
-DESCRIPTION:Cost: Free\nhttps://www.juilliard.edu/event/188316/piano-perfor
- mance-forum-recital
-LOCATION:Juilliard\, Paul Hall
-URL:https://www.juilliard.edu/event/188316/piano-performance-forum-recital
-END:VEVENT
-BEGIN:VEVENT
-UID:0f5117a07cab04e3@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T210000Z
-DTEND:20261015T000000Z
-SUMMARY:Rough Draft
-DESCRIPTION:Cost: Free\nhttps://luma.com/7vf98dh4
-LOCATION:154 Scott Ave\, Brooklyn
-URL:https://luma.com/7vf98dh4
-END:VEVENT
-BEGIN:VEVENT
-UID:5f634a36f67b754a@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T213000Z
-DTEND:20261014T233000Z
-SUMMARY:Rush Hour Performance | Artist Diploma Series: Mateusz Mikolajczak
-DESCRIPTION:Cost: Free\nhttps://www.juilliard.edu/event/187721/rush-hour-pe
- rformance-artist-diploma-series-mateusz-mikolajczak
-LOCATION:Juilliard Station
-URL:https://www.juilliard.edu/event/187721/rush-hour-performance-artist-dip
- loma-series-mateusz-mikolajczak
-END:VEVENT
-BEGIN:VEVENT
-UID:fa5a9bafbec713ef@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T213000Z
-DTEND:20261014T230000Z
-SUMMARY:Rhone Extra Mile Run Series | led by Steph Strine
-DESCRIPTION:Cost: Free\nhttps://luma.com/n0pxsnxo
-LOCATION:Rhone - Hudson Yards\, New York
-URL:https://luma.com/n0pxsnxo
-END:VEVENT
-BEGIN:VEVENT
-UID:1643d4fefc02b575@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T220000Z
-DTEND:20261014T230000Z
-SUMMARY:Siena’s Bronze Renaissance
-DESCRIPTION:Cost: Not stated\nhttps://www.frick.org/calendar
-LOCATION:1 E 70th St\, New York\, NY
-URL:https://www.frick.org/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:0cef4ca370a70fc5@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T220000Z
-DTEND:20261015T010000Z
-SUMMARY:MLH x DigitalOcean in NYC
-DESCRIPTION:Cost: Free\nhttps://luma.com/MLHxAIE
-LOCATION:IBM One Madison Avenue\, New York
-URL:https://luma.com/MLHxAIE
-END:VEVENT
-BEGIN:VEVENT
-UID:653c7262f7696bfd@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T220000Z
-DTEND:20261015T010000Z
-SUMMARY:This That and the Rest
-DESCRIPTION:Cost: Free\nhttps://luma.com/lduxs77z
-LOCATION:We The Cool Studio\, Brooklyn
-URL:https://luma.com/lduxs77z
-END:VEVENT
-BEGIN:VEVENT
-UID:d225cf9fd63b233e@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T220000Z
-DTEND:20261015T000000Z
-SUMMARY:Americas Society panel
-DESCRIPTION:Cost: Free\nhttps://www.as-coa.org/events
-LOCATION:680 Park Ave\, New York\, NY
-URL:https://www.as-coa.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:db07d17253da9ca5@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T223000Z
-DTEND:20261015T003000Z
-SUMMARY:Horror Literary Salon
-DESCRIPTION:Cost: $15\nhttps://luma.com/6swqsl02
-LOCATION:Von\, New York
-URL:https://luma.com/6swqsl02
-END:VEVENT
-BEGIN:VEVENT
-UID:7e2ec1061872f76a@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T223000Z
-DTEND:20261015T003000Z
-SUMMARY:In the Realm of the Last Man Book Talk with Francis Fukuyama
-DESCRIPTION:Cost: Free\nhttps://luma.com/cnl-uh92
-LOCATION:New York Law School\, New York
-URL:https://luma.com/cnl-uh92
-END:VEVENT
-BEGIN:VEVENT
-UID:8c0feda48d196dee@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T230000Z
-DTEND:20261015T021000Z
-SUMMARY:Tenor Legacy with Lew Tabackin
-DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
-LOCATION:Broadway at 60th Street\, New York
-URL:https://www.jazz.org/dizzys/
-END:VEVENT
-BEGIN:VEVENT
-UID:9fae808536355c83@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T230000Z
-DTEND:20261015T010000Z
-SUMMARY:Home Sweet Home | New Nordic Cinema
-DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/home-s
- weet-home-new-nordic-cinema/
-LOCATION:58 Park Avenue\, New York\, NY
-URL:https://www.scandinaviahouse.org/event/home-sweet-home-new-nordic-cinem
- a/
-END:VEVENT
-BEGIN:VEVENT
-UID:d935efaeb0d75669@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T233000Z
-DTEND:20261015T013000Z
-SUMMARY:Josh & Aaron Do Improv (Feat. Hayden Johnson)
-DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/josh-aaron-do-im
- prov-feat-hayden-brooklyn-new-york-10-14-2026/event/30006518E7CD7F22
-LOCATION:149 7th Street\, Brooklyn
-URL:https://www.ticketmaster.com/josh-aaron-do-improv-feat-hayden-brooklyn-
- new-york-10-14-2026/event/30006518E7CD7F22
-END:VEVENT
-BEGIN:VEVENT
-UID:1058ed7bb8f708c7@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T233000Z
-DTEND:20261015T003000Z
-SUMMARY:Kramer/Fauci
-DESCRIPTION:Cost: Not stated\nhttps://stannswarehouse.org/show/kramer-fauci
- -19/
-LOCATION:
-URL:https://stannswarehouse.org/show/kramer-fauci-19/
-END:VEVENT
-BEGIN:VEVENT
-UID:5bfcd847ddb3d09a@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T233000Z
-DTEND:20261015T013000Z
-SUMMARY:Trio Azura
-DESCRIPTION:Ravel Piano Trio + 2 more\nCost: Not stated\nhttps://www.carneg
- iehall.org/events
-LOCATION:881 Seventh Ave\, New York\, NY
-URL:https://www.carnegiehall.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:79b5ad6e6c8b3481@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261014T233000Z
-DTEND:20261015T013000Z
-SUMMARY:La Bohème
-DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
-LOCATION:30 Lincoln Center Plaza\, New York\, NY
-URL:https://www.metopera.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:0f498200d15ba86c@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261015T000000Z
-DTEND:20261015T020000Z
-SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit
-DESCRIPTION:Cost: Not stated\nhttps://www.poetryproject.org/events/litmus-p
- ress-celebration
-LOCATION:
-URL:https://www.poetryproject.org/events/litmus-press-celebration
-END:VEVENT
-BEGIN:VEVENT
-UID:72892a617d073a63@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261015T000000Z
-DTEND:20261015T020000Z
-SUMMARY:Health\, Mostly Mental: Via Abolencia & Kendall Allison’s Half Ho
- urs
-DESCRIPTION:Cost: Not stated\nhttps://littlefieldnyc.com/event/
-LOCATION:
-URL:https://littlefieldnyc.com/event/
-END:VEVENT
-BEGIN:VEVENT
-UID:834e505a5c1f8927@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261015T013000Z
-DTEND:20261015T033000Z
-SUMMARY:Josh & Aaron Do Improv (Feat. Mary Beth Barone)
-DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/josh-aaron-do-im
- prov-feat-mary-brooklyn-new-york-10-14-2026/event/30006518E9388056
-LOCATION:149 7th Street\, Brooklyn
-URL:https://www.ticketmaster.com/josh-aaron-do-improv-feat-mary-brooklyn-ne
- w-york-10-14-2026/event/30006518E9388056
-END:VEVENT
-BEGIN:VEVENT
 UID:c8ae495f08b6a2d9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -437,7 +29,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-43/
 END:VEVENT
 BEGIN:VEVENT
 UID:3cabec6d140b19fe@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:The Angelica Sanchez Nonet
@@ -448,7 +40,7 @@ URL:https://jazzgallery.org/calendar/angelica-sanchez-oct-15
 END:VEVENT
 BEGIN:VEVENT
 UID:00ae9be12267685f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:The USA and the (Re)Birth of Austrian Modern Culture After 1945
@@ -459,7 +51,7 @@ URL:https://acfny.org/event/rebirth-of-austrian-modern-culture/
 END:VEVENT
 BEGIN:VEVENT
 UID:7ad4c758a469fb5a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
 SUMMARY:Arcade Science: MASSIVE and HOVERBURGER
@@ -469,7 +61,7 @@ URL:https://movingimage.org/event/arcade-science/
 END:VEVENT
 BEGIN:VEVENT
 UID:d048f9c19679a9bd@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Met Apollo Circle Benefit
@@ -480,7 +72,7 @@ URL:https://www.newyorksocietyballs.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb891ef61d9da67@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Korean Independent Film Festival opens
@@ -490,7 +82,7 @@ URL:https://www.koreanculture.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:04afeb9574d1e86f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
 SUMMARY:NYC Wine & Food Festival
@@ -500,7 +92,7 @@ URL:https://nycwff.org/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:8839412fe6965e77@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T180000Z
 DTEND:20261015T210000Z
 SUMMARY:Frick Art Research Library Open House
@@ -510,7 +102,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:35eabf57446c73fc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T200000Z
 DTEND:20261015T200000Z
 SUMMARY:Jim Henson Exhibition Guided Tours
@@ -520,8 +112,28 @@ LOCATION:
 URL:https://movingimage.org/event/30518/2026-10-15/
 END:VEVENT
 BEGIN:VEVENT
+UID:9ede72bc823912c5@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261015T210000Z
+DTEND:20261015T230000Z
+SUMMARY:Drink & Draw
+DESCRIPTION:Cost: Free\nhttps://luma.com/pi1ww9st
+LOCATION:Newlab\, Brooklyn
+URL:https://luma.com/pi1ww9st
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7aeb9b27869476@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261015T210000Z
+DTEND:20261016T010000Z
+SUMMARY:Making Art in the Era of Neurotechnology
+DESCRIPTION:Cost: Free\nhttps://luma.com/qemr728f
+LOCATION:Museum of the Moving Image\, Queens
+URL:https://luma.com/qemr728f
+END:VEVENT
+BEGIN:VEVENT
 UID:7dc227c9acd2c1c5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T210000Z
 DTEND:20261015T220000Z
 SUMMARY:Docent Tour: Reading Under Fire
@@ -532,7 +144,7 @@ URL:https://posterhouse.org/event/docent-tour-reading-under-fire-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:a325cace239d6d5c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T213000Z
 DTEND:20261015T233000Z
 SUMMARY:Rush Hour Performance | Cross-Generational With Jazz Faculty Mark S
@@ -545,7 +157,7 @@ URL:https://www.juilliard.edu/event/187726/rush-hour-performance-cross-gene
 END:VEVENT
 BEGIN:VEVENT
 UID:6cbfdd363e979a89@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T213000Z
 DTEND:20261015T233000Z
 SUMMARY:Future Forward: The Influence of Vintage
@@ -555,7 +167,7 @@ URL:https://www.fitnyc.edu/museum/events/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:d51eb6834aa5f470@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T230000Z
 DTEND:20261016T021000Z
 SUMMARY:David Gibson Nonet
@@ -565,7 +177,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d402aa030838052@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T230000Z
 DTEND:20261016T003000Z
 SUMMARY:Hampus Öhman-Frölund: Motvalsen
@@ -576,7 +188,7 @@ URL:https://www.scandinaviahouse.org/event/hampus-ohman-frolund-motvalsen/
 END:VEVENT
 BEGIN:VEVENT
 UID:6a7208e7890fbdf4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T230000Z
 DTEND:20261016T010000Z
 SUMMARY:Theresa Hak Kyung Cha book launch
@@ -586,7 +198,7 @@ URL:https://artistsspace.org/programs
 END:VEVENT
 BEGIN:VEVENT
 UID:7b9b54842e7e0d11@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T233000Z
 DTEND:20261016T013000Z
 SUMMARY:Francesca Fiorentini and Matt Lieb
@@ -598,7 +210,7 @@ URL:https://www.ticketmaster.com/francesca-fiorentini-and-matt-lieb-brookly
 END:VEVENT
 BEGIN:VEVENT
 UID:b56076f23cd2c0d1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T233000Z
 DTEND:20261016T003000Z
 SUMMARY:Kramer/Fauci
@@ -608,18 +220,18 @@ LOCATION:
 URL:https://stannswarehouse.org/show/kramer-fauci-20/
 END:VEVENT
 BEGIN:VEVENT
-UID:8047f08d758dac12@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:f47a9a9c597c153c@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261015T233000Z
 DTEND:20261016T013000Z
-SUMMARY:La Bohème
+SUMMARY:Così fan tutte
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:dc38c51947ae96ca@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T000000Z
 DTEND:20261016T020000Z
 SUMMARY:It Entirely From Memory
@@ -629,7 +241,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:58b71195adb13af7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:The Mingus Dynasty
@@ -640,7 +252,7 @@ URL:https://www.zincbar.com/event/the-mingus-dynasty-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:5dc495233e83ddb1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Ole Mathisen Trio
@@ -651,7 +263,7 @@ URL:https://jazzgallery.org/calendar/ole-mathisen-oct-16-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:947268dc7161eab6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:NYCB Balanchine Ball
@@ -662,7 +274,7 @@ URL:https://www.nycballet.com/support/young-patrons-circle
 END:VEVENT
 BEGIN:VEVENT
 UID:2d1678cb82a22a92@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:Windup Watch Fair
@@ -672,7 +284,7 @@ URL:https://windupwatchfair.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d22aaa0e391a16d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:WatchTime New York
@@ -684,7 +296,7 @@ URL:https://www.watchtime.com/brands/watchtime/watchtime-new-york-announcem
 END:VEVENT
 BEGIN:VEVENT
 UID:021e8cf40f82ed3b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:Manhattan Vintage Show
@@ -695,7 +307,7 @@ URL:https://www.eventbrite.com/e/2000993478359/
 END:VEVENT
 BEGIN:VEVENT
 UID:bf115327862d8620@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:LVMH Tiffany jewelry workshop
@@ -707,7 +319,7 @@ URL:https://hoodline.com/2026/09/lvmh-opens-tiffany-jewelry-workshop-doors-
 END:VEVENT
 BEGIN:VEVENT
 UID:0f78af5cfbfa95ae@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:Open House New York Weekend
@@ -717,7 +329,7 @@ URL:https://ohny.org/activity/2026-ohny-weekend
 END:VEVENT
 BEGIN:VEVENT
 UID:b55620ae442e8c15@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T133000Z
 DTEND:20261016T163000Z
 SUMMARY:Open House New York (OHNY) at The Frick Collection | 9:30 a.m. to 1
@@ -728,7 +340,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:dc68afdaa71b4984@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T150000Z
 DTEND:20261016T170000Z
 SUMMARY:Historical Performance Chamber Music at the Metropolitan Museum of 
@@ -742,7 +354,7 @@ URL:https://www.juilliard.edu/event/189746/historical-performance-chamber-m
 END:VEVENT
 BEGIN:VEVENT
 UID:2fd9eb5f4992e62f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T180000Z
 DTEND:20261016T180000Z
 SUMMARY:Phone-Free Friday
@@ -753,7 +365,7 @@ URL:https://movingimage.org/event/phone-free-friday/2026-10-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:206cd14b2a37da74@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T200000Z
 DTEND:20261016T220000Z
 SUMMARY:Concerto Competition Finals
@@ -764,7 +376,7 @@ URL:https://www.juilliard.edu/event/187136/concerto-competition-finals
 END:VEVENT
 BEGIN:VEVENT
 UID:54f8436e862f4e1f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T214500Z
 DTEND:20261016T230000Z
 SUMMARY:OH NY: Little Island After Dark
@@ -776,7 +388,7 @@ URL:https://littleisland.org/event/oh-ny-little-island-after-dark/2026-10-1
 END:VEVENT
 BEGIN:VEVENT
 UID:fe432a758c956613@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T220000Z
 DTEND:20261016T233000Z
 SUMMARY:JAJAJA: The Joy of Creating from Within
@@ -787,7 +399,7 @@ URL:https://posterhouse.org/event/jajaja-the-joy-of-creating-from-within/
 END:VEVENT
 BEGIN:VEVENT
 UID:d24bc1d7eb016c57@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T220000Z
 DTEND:20261017T003000Z
 SUMMARY:Screening – Trade Secret
@@ -798,7 +410,7 @@ URL:https://www.explorers.org/calendar-of-events/screening-trade-secret/
 END:VEVENT
 BEGIN:VEVENT
 UID:0eebb69896fb012e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T220000Z
 DTEND:20261017T000000Z
 SUMMARY:Rush Hour Performance | Beethoven: "Appassionata" Sonata
@@ -809,8 +421,38 @@ URL:https://www.juilliard.edu/event/187731/rush-hour-performance-beethoven-
  appassionata-sonata
 END:VEVENT
 BEGIN:VEVENT
+UID:639460cf2c79ca83@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261016T223000Z
+DTEND:20261017T003000Z
+SUMMARY:cutie collage keychains w/ @howdy.molly
+DESCRIPTION:Cost: $18\nhttps://luma.com/akwnj7rk
+LOCATION:haricot vert's dreamworld\, Kings County
+URL:https://luma.com/akwnj7rk
+END:VEVENT
+BEGIN:VEVENT
+UID:c3457d73f0656d7f@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261016T223000Z
+DTEND:20261017T000000Z
+SUMMARY:Jazz & Journaling Workshop: an intimate Friday night w/ LIVE music
+DESCRIPTION:Cost: $35\nhttps://luma.com/october2026jazzandjournal
+LOCATION:McCarren Parkhouse\, Kings County
+URL:https://luma.com/october2026jazzandjournal
+END:VEVENT
+BEGIN:VEVENT
+UID:f3f1ef1fa98104e4@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261016T230000Z
+DTEND:20261017T010000Z
+SUMMARY:Ekep Nkwelle
+DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
+LOCATION:Broadway at 60th Street\, New York
+URL:https://www.jazz.org/dizzys/
+END:VEVENT
+BEGIN:VEVENT
 UID:dee2db464ec40f3c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T230000Z
 DTEND:20261016T230000Z
 SUMMARY:A Girl in Black
@@ -821,7 +463,7 @@ URL:https://movingimage.org/event/a-girl-in-black/
 END:VEVENT
 BEGIN:VEVENT
 UID:ff38cd195147bec0@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T230000Z
 DTEND:20261016T230000Z
 SUMMARY:Theresa Rosas: Solo Piano Pieces of Bach\, Brahms\, Chopin\, Debuss
@@ -834,7 +476,7 @@ URL:https://greenwichhouse.org/event/theresa-rosas-solo-piano-pieces-of-bac
 END:VEVENT
 BEGIN:VEVENT
 UID:a253566ea8074250@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T230000Z
 DTEND:20261017T010000Z
 SUMMARY:Jeremy Denk\, Piano
@@ -845,7 +487,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:8878a21c2eadbacc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T233000Z
 DTEND:20261017T013000Z
 SUMMARY:Blank Check Live
@@ -857,7 +499,7 @@ URL:https://www.ticketmaster.com/blank-check-live-brooklyn-new-york-10-16-2
 END:VEVENT
 BEGIN:VEVENT
 UID:aae4287a90b3656b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T233000Z
 DTEND:20261017T003000Z
 SUMMARY:Kramer/Fauci
@@ -868,7 +510,7 @@ URL:https://stannswarehouse.org/show/kramer-fauci-21/
 END:VEVENT
 BEGIN:VEVENT
 UID:f04c1d9ed31fa145@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T233000Z
 DTEND:20261017T013000Z
 SUMMARY:Sphinx Virtuosi
@@ -878,18 +520,18 @@ LOCATION:881 Seventh Ave\, New York\, NY
 URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
-UID:78db76d36d1197a6@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:72bd605b494f041f@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261016T233000Z
 DTEND:20261017T013000Z
-SUMMARY:La Bohème
+SUMMARY:Così fan tutte
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:859a81a0ba4c87f8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T000000Z
 DTEND:20261017T020000Z
 SUMMARY:“And in this heart\, which has neither had a cause nor the lack o
@@ -901,7 +543,7 @@ URL:https://www.poetryproject.org/events/on-translation-craft-and-necessity
 END:VEVENT
 BEGIN:VEVENT
 UID:458d1b76bf16cd2a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T000000Z
 DTEND:20261017T020000Z
 SUMMARY:Buffering the Vampire Slayer presents HOMECOMING WEEKEND 2026
@@ -911,7 +553,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef05bff924ee1743@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T030000Z
 DTEND:20261017T050000Z
 SUMMARY:BASHMENT IN BK – Late Night Dancehall & Soca Party
@@ -921,7 +563,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:194bfe953d76261a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Homecoming: For the Harbor
@@ -932,7 +574,7 @@ URL:https://lmcc.net/events/homecoming-for-the-harbor/
 END:VEVENT
 BEGIN:VEVENT
 UID:869f6871e7930687@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Miguel Zenón & Luis Perdomo: El Arte del Bolero
@@ -943,7 +585,7 @@ URL:https://jazzgallery.org/calendar/miguel-zenon-oct-17
 END:VEVENT
 BEGIN:VEVENT
 UID:bf27b617e177c74c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Ragas Live Festival
@@ -953,7 +595,7 @@ URL:https://pioneerworks.org/programs
 END:VEVENT
 BEGIN:VEVENT
 UID:1a49ff6c703ee70b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T123000Z
 DTEND:20261017T230000Z
 SUMMARY:Hudson Valley Pottery Tour
@@ -964,7 +606,7 @@ URL:https://greenwichhouse.org/event/hudson-valley-pottery-tour/2026-10-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:a27763887bcb54b2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:Saturday Science for Students
@@ -976,7 +618,7 @@ URL:https://www.explorers.org/calendar-of-events/saturday-science-for-stude
 END:VEVENT
 BEGIN:VEVENT
 UID:84fad03519889dad@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T143000Z
 DTEND:20261017T160000Z
 SUMMARY:Poster Tots: Paper Puppets
@@ -987,7 +629,7 @@ URL:https://posterhouse.org/event/poster-tots-paper-puppets/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb573021c1e2620b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T150000Z
 DTEND:20261017T220000Z
 SUMMARY:Community Day: Art and Celebration on the Bowery
@@ -997,7 +639,7 @@ URL:https://www.newmuseum.org/event/10-17-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:1bc743a88f2f01e7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T153000Z
 DTEND:20261017T153000Z
 SUMMARY:Arcade Science Day of Play
@@ -1008,7 +650,7 @@ URL:https://movingimage.org/event/arcade-science-day-of-play/
 END:VEVENT
 BEGIN:VEVENT
 UID:ee6bb19e779a07b3@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T160000Z
 DTEND:20261017T210000Z
 SUMMARY:New Date: Open Studios on October 17
@@ -1019,7 +661,7 @@ URL:https://lmcc.net/events/climate-week-open-studios/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7001081f5639dd1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T160000Z
 DTEND:20261017T180000Z
 SUMMARY:The Distance from Here – Michael James Freedman – Arts Gowanus 
@@ -1030,7 +672,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e968539da2f8883@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T170000Z
 DTEND:20261017T170000Z
 SUMMARY:Fantasia
@@ -1041,7 +683,7 @@ URL:https://movingimage.org/event/fantasia-2026/2026-10-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:07cbbb42c52c8570@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T170000Z
 DTEND:20261017T190000Z
 SUMMARY:Pre-College Piano Performance Forum
@@ -1053,7 +695,7 @@ URL:https://www.juilliard.edu/event/187571/pre-college-piano-performance-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:1c1df68d787e5083@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T170000Z
 DTEND:20261017T190000Z
 SUMMARY:Macbeth
@@ -1062,8 +704,19 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:d311e0c7aee68c02@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261017T180000Z
+DTEND:20261017T190000Z
+SUMMARY:Translating Scandinavia
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/transl
+ ating-scandinavia/
+LOCATION:Scandinavia House
+URL:https://www.scandinaviahouse.org/event/translating-scandinavia/
+END:VEVENT
+BEGIN:VEVENT
 UID:20c79f8586003c26@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T180000Z
 DTEND:20261017T180000Z
 SUMMARY:Harlem Chamber Players: Turina\, Dvořak\, D’Rivera
@@ -1074,19 +727,8 @@ URL:https://www.bargemusic.org/concert/harlem-chamber-players-montgomery-ma
  rsalis-and-more/
 END:VEVENT
 BEGIN:VEVENT
-UID:d311e0c7aee68c02@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261017T180000Z
-DTEND:20261017T190000Z
-SUMMARY:Translating Scandinavia
-DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/transl
- ating-scandinavia/
-LOCATION:Scandinavia House
-URL:https://www.scandinaviahouse.org/event/translating-scandinavia/
-END:VEVENT
-BEGIN:VEVENT
 UID:2ee949f37a33fb61@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T220000Z
 DTEND:20261018T000000Z
 SUMMARY:Preparatory Division Faculty Recital Series | Philip Payton\, Violi
@@ -1099,7 +741,7 @@ URL:https://www.juilliard.edu/event/186956/preparatory-division-faculty-rec
 END:VEVENT
 BEGIN:VEVENT
 UID:8bf8e4f6b02105db@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T233000Z
 DTEND:20261018T013000Z
 SUMMARY:Asif Ali & Friends
@@ -1111,7 +753,7 @@ URL:https://www.ticketmaster.com/asif-ali-friends-brooklyn-new-york-10-17-2
 END:VEVENT
 BEGIN:VEVENT
 UID:0a3cad70cfd911ae@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261017T233000Z
 DTEND:20261018T003000Z
 SUMMARY:Kramer/Fauci
@@ -1122,7 +764,7 @@ URL:https://stannswarehouse.org/show/kramer-fauci-23/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f3ec94716417d1d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T030000Z
 DTEND:20261018T050000Z
 SUMMARY:Reggae Rewind — Fall Edition
@@ -1132,7 +774,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:fb6a6b226b5cf239@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Valtinho Anastácio
@@ -1143,7 +785,7 @@ URL:https://www.zincbar.com/event/valtinho-anastacio-76/
 END:VEVENT
 BEGIN:VEVENT
 UID:a2c2fe47630c9743@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T130000Z
 DTEND:20261018T210000Z
 SUMMARY:Hudson Valley Pottery Tour
@@ -1154,7 +796,7 @@ URL:https://greenwichhouse.org/event/hudson-valley-pottery-tour/2026-10-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:93ee4bf199da3399@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T140000Z
 DTEND:20261018T220000Z
 SUMMARY:Third Sunday Always Free
@@ -1165,7 +807,7 @@ URL:https://posterhouse.org/event/third-sunday-always-free-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:943ded877b2a78fe@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T143000Z
 DTEND:20261018T160000Z
 SUMMARY:Poster Kids: Dames en Papier
@@ -1176,7 +818,7 @@ URL:https://posterhouse.org/event/poster-kids-dames-en-papier/
 END:VEVENT
 BEGIN:VEVENT
 UID:32b13462d2cb0c3e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T150000Z
 DTEND:20261018T210000Z
 SUMMARY:Discover Pottery Open House
@@ -1187,7 +829,7 @@ URL:https://greenwichhouse.org/event/discover-pottery-open-house-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:6f18b45940d69256@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T151500Z
 DTEND:20261018T151500Z
 SUMMARY:Fall Yoga with The Yoga Room
@@ -1198,7 +840,7 @@ URL:https://movingimage.org/event/fall-yoga-with-the-yoga-room/2026-10-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:8043ed6f3a5c207a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T160000Z
 DTEND:20261018T180000Z
 SUMMARY:The Distance from Here – Michael James Freedman – Arts Gowanus 
@@ -1209,7 +851,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd1ea55bdfb27d17@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T163000Z
 DTEND:20261018T163000Z
 SUMMARY:Fantasia
@@ -1220,7 +862,7 @@ URL:https://movingimage.org/event/fantasia-2026/2026-10-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:cd83e4e4663e3601@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T180000Z
 DTEND:20261018T180000Z
 SUMMARY:“From Paris to Vermont: A Musical Lineage 75 Years in the Making
@@ -1234,7 +876,7 @@ URL:https://www.bargemusic.org/concert/from-paris-to-vermont-a-musical-line
 END:VEVENT
 BEGIN:VEVENT
 UID:871dba47d025290b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T210000Z
 DTEND:20261018T230000Z
 SUMMARY:Goya's Musical World: Francisco Fullana\, Violin\; Dolphins String 
@@ -1246,7 +888,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2ebbae47342fd3@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T214500Z
 DTEND:20261018T230000Z
 SUMMARY:OH NY: Little Island After Dark
@@ -1258,7 +900,7 @@ URL:https://littleisland.org/event/oh-ny-little-island-after-dark/2026-10-1
 END:VEVENT
 BEGIN:VEVENT
 UID:0598691cb1b22fa8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T230000Z
 DTEND:20261019T010000Z
 SUMMARY:Kendall Farrell: Standup Comedy Special Taping
@@ -1268,7 +910,7 @@ URL:https://littlefieldnyc.com/event/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a01313bb6223a9f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T233000Z
 DTEND:20261019T013000Z
 SUMMARY:Johnny Pemberton
@@ -1280,7 +922,7 @@ URL:https://www.ticketmaster.com/johnny-pemberton-brooklyn-new-york-10-18-2
 END:VEVENT
 BEGIN:VEVENT
 UID:08d52a783ce72db5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261018T233000Z
 DTEND:20261019T003000Z
 SUMMARY:Kramer/Fauci
@@ -1291,7 +933,7 @@ URL:https://stannswarehouse.org/show/kramer-fauci-31/
 END:VEVENT
 BEGIN:VEVENT
 UID:acf006ed6d495dec@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Adam Lamoureux Quartet
@@ -1301,7 +943,7 @@ URL:https://www.zincbar.com/event/11636/
 END:VEVENT
 BEGIN:VEVENT
 UID:7360bea7bbfe4968@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T213000Z
 DTEND:20261019T233000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -1313,7 +955,7 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
 END:VEVENT
 BEGIN:VEVENT
 UID:367b6b4a26414ec4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T214500Z
 DTEND:20261019T224500Z
 SUMMARY:Siena: Behind the Scenes with Giulio Dalvit
@@ -1323,7 +965,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:dbd9f1fbe160c5ad@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T220000Z
 DTEND:20261020T003000Z
 SUMMARY:The Secret Lives of Dinosaurs
@@ -1335,7 +977,7 @@ URL:https://www.explorers.org/calendar-of-events/the-secret-lives-of-dinosa
 END:VEVENT
 BEGIN:VEVENT
 UID:b4896bd4a00dee82@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T230000Z
 DTEND:20261020T021000Z
 SUMMARY:Juilliard Jazz Ensembles: Jazz Music of the 1970’s: Don Pullen\, 
@@ -1346,7 +988,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:1411677bdd585d95@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T230000Z
 DTEND:20261020T021000Z
 SUMMARY:Juilliard Jazz Ensembles: Jazz Music of the 1970’s: Don Pulley\, 
@@ -1357,7 +999,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:1af644e1ff8b1f71@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T233000Z
 DTEND:20261019T233000Z
 SUMMARY:Criterion Presents Adventures in Moviegoing with Isaac Mizrahi
@@ -1368,7 +1010,7 @@ URL:https://movingimage.org/event/adventures-in-moviegoing-mizrahi/
 END:VEVENT
 BEGIN:VEVENT
 UID:98fe7f6b26ce90f2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T233000Z
 DTEND:20261020T013000Z
 SUMMARY:Michelle Buteau
@@ -1380,7 +1022,7 @@ URL:https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-10-19-20
 END:VEVENT
 BEGIN:VEVENT
 UID:e333b11a6e7fed13@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261019T233000Z
 DTEND:20261020T013000Z
 SUMMARY:Juilliard Orchestra Conducted by Jeffrey Milarsky
@@ -1392,7 +1034,7 @@ URL:https://www.juilliard.edu/event/185751/juilliard-orchestra-conducted-je
 END:VEVENT
 BEGIN:VEVENT
 UID:70be75be01a8b6b7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T000000Z
 DTEND:20261020T020000Z
 SUMMARY:Rena Anakwe + Muyassar Kurdi
@@ -1403,7 +1045,7 @@ URL:https://www.poetryproject.org/events/rena-anakwe-muyassar-kurdi
 END:VEVENT
 BEGIN:VEVENT
 UID:ec6b449486ab33c6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T000000Z
 DTEND:20261020T020000Z
 SUMMARY:Lincoln in the Bardo (world premiere)
@@ -1413,7 +1055,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:96d7fac7e56acbdf@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T010000Z
 DTEND:20261020T030000Z
 SUMMARY:Juilliard Jazz Ensembles | Jazz Music of the 1970s: Don Pullen\, Ch
@@ -1427,7 +1069,7 @@ URL:https://www.juilliard.edu/event/185756/juilliard-jazz-ensembles-jazz-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:8a5a18d10c118e7c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:The Max Light Quartet
@@ -1438,7 +1080,7 @@ URL:https://www.zincbar.com/event/the-max-light-quartet/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab5720f2095dc997@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T213000Z
 DTEND:20261020T233000Z
 SUMMARY:Rush Hour Performance | Artist Diploma Series: Laura Liu
@@ -1450,7 +1092,7 @@ URL:https://www.juilliard.edu/event/187741/rush-hour-performance-artist-dip
 END:VEVENT
 BEGIN:VEVENT
 UID:b46fad4f5295910d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T213000Z
 DTEND:20261020T233000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -1462,7 +1104,7 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
 END:VEVENT
 BEGIN:VEVENT
 UID:e5030dd2b4665ddc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T230000Z
 DTEND:20261021T021000Z
 SUMMARY:France’s No(w) Beauty: An Evening of Cinematic Jazz
@@ -1472,7 +1114,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:69967e5e9eb6a91d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T233000Z
 DTEND:20261021T013000Z
 SUMMARY:A Benefit for Little Essentials with David Cross & Friends
@@ -1484,7 +1126,7 @@ URL:https://www.ticketmaster.com/a-benefit-for-little-essentials-with-brook
 END:VEVENT
 BEGIN:VEVENT
 UID:6d4d4516f9bdd1e6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T233000Z
 DTEND:20261021T003000Z
 SUMMARY:Kramer/Fauci
@@ -1495,7 +1137,7 @@ URL:https://stannswarehouse.org/show/kramer-fauci-25/
 END:VEVENT
 BEGIN:VEVENT
 UID:e7a88f571371fb1c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T233000Z
 DTEND:20261021T013000Z
 SUMMARY:The Knights
@@ -1505,18 +1147,18 @@ LOCATION:881 Seventh Ave\, New York\, NY
 URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
-UID:43ec39934f362bd8@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:95c7c0f35835eb47@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261020T233000Z
 DTEND:20261021T013000Z
-SUMMARY:La Bohème
+SUMMARY:Lincoln in the Bardo (world premiere)
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:cedadbc431d5b9f9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T010000Z
 DTEND:20261021T021000Z
 SUMMARY:Tyler Henderson Quintet featuring Aanya Sengupta
@@ -1526,7 +1168,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:c1b207b8847d1333@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Albert Rivera Quartet
@@ -1537,7 +1179,7 @@ URL:https://www.zincbar.com/event/albert-rivera-quartet-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:3f99cf2517ac1567@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:TJG Signature Series // Jason Lindner Broadband
@@ -1548,7 +1190,7 @@ URL:https://jazzgallery.org/calendar/jason-lindner-big-band-oct-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:24e0a5860994f6a5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:“Youth Without God” – A Staged Reading Based on the Novel by 
@@ -1559,7 +1201,7 @@ URL:https://acfny.org/event/youth-without-god/
 END:VEVENT
 BEGIN:VEVENT
 UID:72c554aaeff652cf@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Edward Steed and Liana Finck
@@ -1569,7 +1211,7 @@ URL:https://www.mcnallyjackson.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:60443cb4eaf25bee@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T160000Z
 DTEND:20261021T170000Z
 SUMMARY:Dispatches from the Field: Ricardo Araújo
@@ -1581,7 +1223,7 @@ URL:https://www.explorers.org/calendar-of-events/dispatches-from-the-field-
 END:VEVENT
 BEGIN:VEVENT
 UID:1f8e9c5335b67d6f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 SUMMARY:Center for Healing Ribbon Cutting and Open House
@@ -1593,7 +1235,7 @@ URL:https://greenwichhouse.org/event/center-for-healing-ribbon-cutting-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:22fd590788c2ee1b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T213000Z
 DTEND:20261021T233000Z
 SUMMARY:Rush Hour Performance | Sonata Forms: Beethoven\, Schubert\, Scriab
@@ -1606,7 +1248,7 @@ URL:https://www.juilliard.edu/event/187751/rush-hour-performance-sonata-for
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe7c8820d9fbeb1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T214500Z
 DTEND:20261021T224500Z
 SUMMARY:Siena: Behind the Scenes with Giulio Dalvit
@@ -1616,7 +1258,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:50e14320b35edb14@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T220000Z
 DTEND:20261022T000000Z
 SUMMARY:NEW INC Workshare
@@ -1626,7 +1268,7 @@ URL:https://www.newmuseum.org/event/10-21-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cc995ad713ad4919@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T220000Z
 DTEND:20261022T000000Z
 SUMMARY:Sonatenabend
@@ -1636,7 +1278,7 @@ URL:https://www.juilliard.edu/event/186426/sonatenabend
 END:VEVENT
 BEGIN:VEVENT
 UID:bf9cff1d1a5ba660@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T230000Z
 DTEND:20261022T021000Z
 SUMMARY:Dizzy Gillespie Birthday with Jon Faddis
@@ -1646,7 +1288,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:ae8ceca679e5496b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T230000Z
 DTEND:20261022T010000Z
 SUMMARY:Tell Everyone | Screening & Film Talk
@@ -1657,7 +1299,7 @@ URL:https://www.scandinaviahouse.org/event/tell-everyone-new-nordic-cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:87b63c6dde60b700@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T233000Z
 DTEND:20261022T013000Z
 SUMMARY:Brett Goldstein Runs His Hour Before His Tour
@@ -1669,7 +1311,7 @@ URL:https://www.ticketmaster.com/brett-goldstein-runs-his-hour-before-brook
 END:VEVENT
 BEGIN:VEVENT
 UID:040e0d7de13d18c1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261021T233000Z
 DTEND:20261022T003000Z
 SUMMARY:Kramer/Fauci
@@ -1680,7 +1322,7 @@ URL:https://stannswarehouse.org/show/kramer-fauci-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d0cbf0457f6aebe@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
 SUMMARY:Tongo Eisen-Martin + Margaret Randall
@@ -1691,8 +1333,18 @@ URL:https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randal
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:30a6e7afe73b314c@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261022T000000Z
+DTEND:20261022T020000Z
+SUMMARY:PTP Live!
+DESCRIPTION:Cost: Not stated\nhttps://littlefieldnyc.com/event/
+LOCATION:
+URL:https://littlefieldnyc.com/event/
+END:VEVENT
+BEGIN:VEVENT
 UID:203c5b07804d9191@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
 SUMMARY:Yunchan Lim
@@ -1703,7 +1355,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c65cd2cd36f5ccbe@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -1714,7 +1366,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-44/
 END:VEVENT
 BEGIN:VEVENT
 UID:2bd8c4bb28e1c88e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
 SUMMARY:Rabih Mroue and Lina Majdalanie
@@ -1725,7 +1377,7 @@ URL:https://www.goethe.de/ins/us/en/sta/ney/ver.cfm
 END:VEVENT
 BEGIN:VEVENT
 UID:47bfcfb0976f7a08@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T130000Z
 DTEND:20261022T140000Z
 SUMMARY:Dispatches from the Field: The Menorca Shipwreck Project
@@ -1737,7 +1389,7 @@ URL:https://www.explorers.org/calendar-of-events/dispatches-from-the-field-
 END:VEVENT
 BEGIN:VEVENT
 UID:4dc6146977a6b645@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T170000Z
 DTEND:20261022T180000Z
 SUMMARY:Juilliard415
@@ -1747,7 +1399,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:23920aba57d83da1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T180000Z
 DTEND:20261022T203000Z
 SUMMARY:Building Less\, Transforming More | Architecture & Design Panel
@@ -1758,8 +1410,19 @@ URL:https://www.scandinaviahouse.org/event/building-less-transforming-more-
  architecture-design-panel/
 END:VEVENT
 BEGIN:VEVENT
+UID:0dfb7b7ad05e44c0@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261022T200000Z
+DTEND:20261022T200000Z
+SUMMARY:Jim Henson Exhibition Guided Tours
+DESCRIPTION:Cost: Not stated\nhttps://movingimage.org/event/30518/2026-10-2
+ 2/
+LOCATION:
+URL:https://movingimage.org/event/30518/2026-10-22/
+END:VEVENT
+BEGIN:VEVENT
 UID:fd9497decae28ef6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T200000Z
 DTEND:20261022T220000Z
 SUMMARY:String Quartet Haydn-a-Thon
@@ -1770,7 +1433,7 @@ URL:https://www.juilliard.edu/event/188251/string-quartet-haydn-thon
 END:VEVENT
 BEGIN:VEVENT
 UID:41957f60da330686@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T210000Z
 DTEND:20261022T220000Z
 SUMMARY:Docent Tour: Designed to Be Red
@@ -1781,7 +1444,7 @@ URL:https://posterhouse.org/event/docent-tour-designed-to-be-red/
 END:VEVENT
 BEGIN:VEVENT
 UID:a3e038140f0b77f0@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T210000Z
 DTEND:20261022T210000Z
 SUMMARY:MoMI LAB Public Tours
@@ -1792,7 +1455,7 @@ URL:https://movingimage.org/event/momi-lab-public-tours/2026-10-22/
 END:VEVENT
 BEGIN:VEVENT
 UID:95b98aa83cb5ad74@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T213000Z
 DTEND:20261022T233000Z
 SUMMARY:Rush Hour Performance | Artist Diploma Series: Jialin Yao
@@ -1804,7 +1467,7 @@ URL:https://www.juilliard.edu/event/187756/rush-hour-performance-artist-dip
 END:VEVENT
 BEGIN:VEVENT
 UID:29b6ec6f0f21fe06@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T213000Z
 DTEND:20261022T233000Z
 SUMMARY:Ruth Christopher\, Double Bass
@@ -1815,7 +1478,7 @@ URL:https://www.juilliard.edu/event/188901/ruth-christopher-double-bass
 END:VEVENT
 BEGIN:VEVENT
 UID:96e6d6ccb9dc525f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T223000Z
 DTEND:20261022T233000Z
 SUMMARY:A flame latches to a bit of straw
@@ -1825,7 +1488,7 @@ URL:https://www.newmuseum.org/event/10-22-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:103713ed1ed593f7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T223000Z
 DTEND:20261022T233000Z
 SUMMARY:The Picture Book Book: Seymour Chwast & Steven Heller in Conversati
@@ -1837,8 +1500,19 @@ URL:https://posterhouse.org/event/the-picture-book-book-seymour-chwast-stev
  en-heller-in-conversation/
 END:VEVENT
 BEGIN:VEVENT
+UID:69273f0b89af0963@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261022T230000Z
+DTEND:20261023T010000Z
+SUMMARY:Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jaz
+ z Messengers
+DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
+LOCATION:Broadway at 60th Street\, New York
+URL:https://www.jazz.org/dizzys/
+END:VEVENT
+BEGIN:VEVENT
 UID:ea0247e79e2e7309@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T230000Z
 DTEND:20261023T010000Z
 SUMMARY:Reading and Writing Through Alice Notley’s Early Works\; Five-Ses
@@ -1851,31 +1525,8 @@ URL:https://www.poetryproject.org/events/reading-and-writing-through-alice-
  notley-s-early-works-five-session-workshop-with-hoa-nguyen
 END:VEVENT
 BEGIN:VEVENT
-UID:69273f0b89af0963@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261022T230000Z
-DTEND:20261023T010000Z
-SUMMARY:Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jaz
- z Messengers
-DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
-LOCATION:Broadway at 60th Street\, New York
-URL:https://www.jazz.org/dizzys/
-END:VEVENT
-BEGIN:VEVENT
-UID:8533282c1ede301d@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261022T233000Z
-DTEND:20261023T013000Z
-SUMMARY:UpDating
-DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/updating-brookly
- n-new-york-10-22-2026/event/3000652F4EAEF12F
-LOCATION:149 7th Street\, Brooklyn
-URL:https://www.ticketmaster.com/updating-brooklyn-new-york-10-22-2026/even
- t/3000652F4EAEF12F
-END:VEVENT
-BEGIN:VEVENT
 UID:b2f11661fb05f33f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T233000Z
 DTEND:20261023T010000Z
 SUMMARY:Keyboard Conversations® | Beethoven & Schubert: Glorious Musical J
@@ -1887,8 +1538,20 @@ URL:https://www.scandinaviahouse.org/event/keyboard-conversations-beethoven
  -and-schubert/
 END:VEVENT
 BEGIN:VEVENT
+UID:8533282c1ede301d@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261022T233000Z
+DTEND:20261023T013000Z
+SUMMARY:UpDating
+DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/updating-brookly
+ n-new-york-10-22-2026/event/3000652F4EAEF12F
+LOCATION:149 7th Street\, Brooklyn
+URL:https://www.ticketmaster.com/updating-brooklyn-new-york-10-22-2026/even
+ t/3000652F4EAEF12F
+END:VEVENT
+BEGIN:VEVENT
 UID:dec3f0e7e0011bd7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T233000Z
 DTEND:20261023T003000Z
 SUMMARY:Kramer/Fauci
@@ -1898,18 +1561,18 @@ LOCATION:
 URL:https://stannswarehouse.org/show/kramer-fauci-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:a3ceb8497633bcda@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:d03e812e9289d868@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261022T233000Z
 DTEND:20261023T013000Z
-SUMMARY:Lincoln in the Bardo (world premiere)
+SUMMARY:Così fan tutte
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:314bf398c685dbf8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T000000Z
 DTEND:20261023T020000Z
 SUMMARY:Steve Reich at 90
@@ -1920,7 +1583,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e0924d4f0495ec25@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:The Matt Cappy Quintet
@@ -1931,7 +1594,7 @@ URL:https://www.zincbar.com/event/the-matt-cappy-quintet-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:116fba4c7158aad6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:MONUMENT FILMS – Peter Kubelka’s Metric Cinema
@@ -1941,7 +1604,7 @@ URL:https://acfny.org/event/peter-kubelka/
 END:VEVENT
 BEGIN:VEVENT
 UID:0a4bf130ea95ffd4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Beaux Arts Ball
@@ -1951,7 +1614,7 @@ URL:https://archleague.org/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:96248d0ebb562cc9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T150000Z
 DTEND:20261024T000000Z
 SUMMARY:Nordic International Film Festival | Friday Films
@@ -1963,7 +1626,7 @@ URL:https://www.scandinaviahouse.org/event/nordic-international-film-festiv
 END:VEVENT
 BEGIN:VEVENT
 UID:b13d76483627bd44@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T180000Z
 DTEND:20261023T180000Z
 SUMMARY:Phone-Free Friday
@@ -1974,7 +1637,7 @@ URL:https://movingimage.org/event/phone-free-friday/2026-10-23/
 END:VEVENT
 BEGIN:VEVENT
 UID:77df61df1c1de934@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T200000Z
 DTEND:20261023T220000Z
 SUMMARY:Bowery Art Space
@@ -1983,8 +1646,20 @@ LOCATION:New Museum
 URL:https://www.newmuseum.org/event/10-23-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:bee237ba208f0b1c@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261023T220000Z
+DTEND:20261023T220000Z
+SUMMARY:How to Use Agents and Not Have Them Kill You
+DESCRIPTION:Cost: Not stated\nhttps://movingimage.org/event/how-to-use-agen
+ ts-and-not-have-them-kill-you/2026-10-23/
+LOCATION:
+URL:https://movingimage.org/event/how-to-use-agents-and-not-have-them-kill-
+ you/2026-10-23/
+END:VEVENT
+BEGIN:VEVENT
 UID:ec6bfb9bad5faf2f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T221500Z
 DTEND:20261023T221500Z
 SUMMARY:Persona: 60th Anniversary Screening (Co-presented with NewFest)
@@ -1994,7 +1669,7 @@ URL:https://movingimage.org/event/persona-60th/
 END:VEVENT
 BEGIN:VEVENT
 UID:6db122a3520d9091@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T233000Z
 DTEND:20261024T013000Z
 SUMMARY:Sydnee Washington: My Black Barbie Story
@@ -2007,7 +1682,7 @@ URL:https://www.ticketmaster.com/sydnee-washington-my-black-barbie-story-br
 END:VEVENT
 BEGIN:VEVENT
 UID:858ca0b12a21bbf5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T233000Z
 DTEND:20261024T003000Z
 SUMMARY:Kramer/Fauci
@@ -2018,7 +1693,7 @@ URL:https://stannswarehouse.org/show/kramer-fauci-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:90219506ccc0d22f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T233000Z
 DTEND:20261024T013000Z
 SUMMARY:Miró Quartet
@@ -2029,7 +1704,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:009d499054122ad8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261023T233000Z
 DTEND:20261024T013000Z
 SUMMARY:Così fan tutte
@@ -2039,7 +1714,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:29a693b1081bc01c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T000000Z
 DTEND:20261024T050000Z
 SUMMARY:TGirl Baseball World Series Game 1 Watch Party + Afterparty with DJ
@@ -2050,7 +1725,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:1423a6cbccac64b6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T000000Z
 DTEND:20261024T020000Z
 SUMMARY:The New York Pops
@@ -2061,7 +1736,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:76d375e0c30de2e8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T010000Z
 DTEND:20261024T030000Z
 SUMMARY:Lakecia Benjamin\, Saxophone
@@ -2071,7 +1746,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:86ed09ff85331a3f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T014500Z
 DTEND:20261024T034500Z
 SUMMARY:The Bell House Stand Up Showcase
@@ -2083,7 +1758,7 @@ URL:https://www.ticketmaster.com/the-bell-house-stand-up-showcase-brooklyn-
 END:VEVENT
 BEGIN:VEVENT
 UID:7c9405c93ecaaea2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T150000Z
 DTEND:20261024T203000Z
 SUMMARY:Nordic International Film Festival | Saturday Films
@@ -2095,7 +1770,7 @@ URL:https://www.scandinaviahouse.org/event/nordic-international-film-festiv
 END:VEVENT
 BEGIN:VEVENT
 UID:8fdcb35ac8c0b58b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T163000Z
 DTEND:20261024T163000Z
 SUMMARY:Vampire’s Kiss
@@ -2105,7 +1780,7 @@ URL:https://movingimage.org/event/vampires-kiss/
 END:VEVENT
 BEGIN:VEVENT
 UID:e17347c0121c0d2a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T170000Z
 DTEND:20261024T190000Z
 SUMMARY:Lincoln in the Bardo (world premiere)
@@ -2115,7 +1790,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3e131f5c96bfa92@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T180000Z
 DTEND:20261024T180000Z
 SUMMARY:Bohemian Rhapsody\, Viennese Grace: Romantic Piano Trios
@@ -2127,7 +1802,7 @@ URL:https://www.bargemusic.org/concert/beethoven-and-brahms-trios-of-titans
 END:VEVENT
 BEGIN:VEVENT
 UID:142e63e7d9904f57@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T183000Z
 DTEND:20261024T213000Z
 SUMMARY:Blue & White Porcelain Painting Workshop
@@ -2138,8 +1813,19 @@ URL:https://greenwichhouse.org/event/blue-white-porcelain-painting-workshop
  /
 END:VEVENT
 BEGIN:VEVENT
+UID:6de4a1881730de56@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261024T190000Z
+DTEND:20261024T190000Z
+SUMMARY:Jim Henson Exhibition Guided Tours
+DESCRIPTION:Cost: Not stated\nhttps://movingimage.org/event/30518/2026-10-2
+ 4/
+LOCATION:
+URL:https://movingimage.org/event/30518/2026-10-24/
+END:VEVENT
+BEGIN:VEVENT
 UID:b3e292e5a215a979@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T190000Z
 DTEND:20261024T190000Z
 SUMMARY:The Exorcist
@@ -2150,7 +1836,7 @@ URL:https://movingimage.org/event/the-exorcist/2026-10-24/
 END:VEVENT
 BEGIN:VEVENT
 UID:7457da25d9c296bc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T200000Z
 DTEND:20261024T230000Z
 SUMMARY:Make Your Own Pop-up Book with Kelli Anderson
@@ -2162,7 +1848,7 @@ URL:https://posterhouse.org/event/make-your-own-pop-up-book-with-kelli-ande
 END:VEVENT
 BEGIN:VEVENT
 UID:880fd613abe0d9f4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T233000Z
 DTEND:20261025T013000Z
 SUMMARY:Drunk Bollywood Live!
@@ -2174,7 +1860,7 @@ URL:https://www.ticketmaster.com/drunk-bollywood-live-brooklyn-new-york-10-
 END:VEVENT
 BEGIN:VEVENT
 UID:388aa922ee34b7bd@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261024T233000Z
 DTEND:20261025T003000Z
 SUMMARY:Kramer/Fauci
@@ -2184,8 +1870,18 @@ LOCATION:
 URL:https://stannswarehouse.org/show/kramer-fauci-30/
 END:VEVENT
 BEGIN:VEVENT
+UID:900e7966816dadb3@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261025T000000Z
+DTEND:20261025T020000Z
+SUMMARY:La Bohème
+DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
+LOCATION:30 Lincoln Center Plaza\, New York\, NY
+URL:https://www.metopera.org/calendar/
+END:VEVENT
+BEGIN:VEVENT
 UID:370650b2a746f505@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Valtinho Anastácio
@@ -2196,7 +1892,7 @@ URL:https://www.zincbar.com/event/valtinho-anastacio-77/
 END:VEVENT
 BEGIN:VEVENT
 UID:ffb5dd8aabdd2052@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261025T170000Z
 DTEND:20261025T170000Z
 SUMMARY:The Wolf Man
@@ -2206,7 +1902,7 @@ URL:https://movingimage.org/event/the-wolf-man/
 END:VEVENT
 BEGIN:VEVENT
 UID:57b3ee54d8ecbd6b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261025T180000Z
 DTEND:20261025T180000Z
 SUMMARY:Bohemian Rhapsody\, Viennese Grace: Romantic Piano Trios
@@ -2218,7 +1914,7 @@ URL:https://www.bargemusic.org/concert/shadow-and-light-piano-trios-of-beet
 END:VEVENT
 BEGIN:VEVENT
 UID:29f6a5b05a442c6e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261025T190000Z
 DTEND:20261025T210000Z
 SUMMARY:Scandinavian Everyday Cooking | Food Demo & Book Talk
@@ -2230,7 +1926,7 @@ URL:https://www.scandinaviahouse.org/event/scandinavian-everyday-cooking-fo
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a9e9702b9b24d7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261025T210000Z
 DTEND:20261025T230000Z
 SUMMARY:American Harmony: Ruckus with Lily Hammond\, Treble\; Linnea Sablos
@@ -2241,7 +1937,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c66c295434b48896@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261025T230000Z
 DTEND:20261026T010000Z
 SUMMARY:Dead Pilots Society
@@ -2253,7 +1949,7 @@ URL:https://www.ticketmaster.com/dead-pilots-society-brooklyn-new-york-10-2
 END:VEVENT
 BEGIN:VEVENT
 UID:5e8246677f32fab7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:The Darryl Yokley Quartet
@@ -2264,7 +1960,7 @@ URL:https://www.zincbar.com/event/the-darryl-yokley-quartet/
 END:VEVENT
 BEGIN:VEVENT
 UID:bedbf45b8908e651@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Festival Neue Literatur 2026: “Intimate Thresholds – Identity a
@@ -2275,7 +1971,7 @@ URL:https://acfny.org/event/fnl-2026-identity/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5b08a8eec052161@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Lydia Millet and Jenny Offill
@@ -2285,7 +1981,7 @@ URL:https://www.mcnallyjackson.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2232f5a5199308f8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261026T150000Z
 DTEND:20261026T163000Z
 SUMMARY:In-Person Vibrant Verbal Description Tour: Designed to Be Red
@@ -2297,7 +1993,7 @@ URL:https://posterhouse.org/event/in-person-vibrant-verbal-description-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:e1b9da5a8f9be33c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261026T213000Z
 DTEND:20261026T233000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -2309,7 +2005,7 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
 END:VEVENT
 BEGIN:VEVENT
 UID:102c12f58a7c99b2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261026T220000Z
 DTEND:20261027T003000Z
 SUMMARY:Woven by Wings
@@ -2320,7 +2016,7 @@ URL:https://www.explorers.org/calendar-of-events/woven-by-wings/
 END:VEVENT
 BEGIN:VEVENT
 UID:68eeae7744035ed2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261026T230000Z
 DTEND:20261027T021000Z
 SUMMARY:Mike LeDonne Big Band: 70th Birthday Celebration
@@ -2329,8 +2025,20 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:a9ca6ce78607a6f5@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261026T233000Z
+DTEND:20261027T013000Z
+SUMMARY:The Moth StorySLAM
+DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/the-moth-storysl
+ am-brooklyn-new-york-10-26-2026/event/300064BB0C5CDEDB
+LOCATION:149 7th Street\, Brooklyn
+URL:https://www.ticketmaster.com/the-moth-storyslam-brooklyn-new-york-10-26
+ -2026/event/300064BB0C5CDEDB
+END:VEVENT
+BEGIN:VEVENT
 UID:a3dda81a00c56006@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261026T233000Z
 DTEND:20261027T013000Z
 SUMMARY:Ensemble Connect
@@ -2341,7 +2049,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:a1df71010bd7dc47@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261026T233000Z
 DTEND:20261027T013000Z
 SUMMARY:Lincoln in the Bardo (world premiere)
@@ -2350,8 +2058,31 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:64e494eb02c0f36b@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261027T000000Z
+DTEND:20261027T020000Z
+SUMMARY:Nicole Linder + Jasmine Sanders
+DESCRIPTION:Cost: Not stated\nhttps://www.poetryproject.org/events/nicole-l
+ inder-jasmine-sanders
+LOCATION:
+URL:https://www.poetryproject.org/events/nicole-linder-jasmine-sanders
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcffb1ed1550d9e@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261027T023000Z
+DTEND:20261027T043000Z
+SUMMARY:The Ripped Bodice Presents: ACOTAR 6 Midnight Release
+DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/the-ripped-bodic
+ e-presents-acotar-6-brooklyn-new-york-10-26-2026/event/300065060DECB30C
+LOCATION:149 7th Street\, Brooklyn
+URL:https://www.ticketmaster.com/the-ripped-bodice-presents-acotar-6-brookl
+ yn-new-york-10-26-2026/event/300065060DECB30C
+END:VEVENT
+BEGIN:VEVENT
 UID:e02b7188d348e267@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:The Anthony Bolden Quartet
@@ -2361,8 +2092,20 @@ LOCATION:Zinc Bar
 URL:https://www.zincbar.com/event/the-anthony-bolden-quartet-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:55fe8ad4489efc00@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261031
+SUMMARY:Halloween Extravaganza: a Family Workshop
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/hallow
+ een-extravaganza-a-family-workshop/
+LOCATION:58 Park Avenue\, New York\, NY
+URL:https://www.scandinaviahouse.org/event/halloween-extravaganza-a-family-
+ workshop/
+END:VEVENT
+BEGIN:VEVENT
 UID:927ae4c0183c01d5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Festival Neue Literatur 2026: “Guests and Ghosts”
@@ -2372,7 +2115,7 @@ URL:https://acfny.org/event/fnl-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:8effda6cbfd609ec@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261027T213000Z
 DTEND:20261028T000000Z
 SUMMARY:Northern Patterns: Learn Traditional Arctic Beading Details
@@ -2384,7 +2127,7 @@ URL:https://www.scandinaviahouse.org/event/northern-patterns-learn-traditio
 END:VEVENT
 BEGIN:VEVENT
 UID:299df6efe8450206@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261027T213000Z
 DTEND:20261027T233000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -2396,7 +2139,7 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
 END:VEVENT
 BEGIN:VEVENT
 UID:222b8cd89fd5fcf2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261027T230000Z
 DTEND:20261028T021000Z
 SUMMARY:Johnny O'Neal Celebrates 70: When October Goes
@@ -2405,8 +2148,20 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:1d2c97a3fb52b279@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261027T233000Z
+DTEND:20261028T013000Z
+SUMMARY:Ruby Setnik
+DESCRIPTION:Cost: Not stated\nhttps://www.ticketmaster.com/ruby-setnik-broo
+ klyn-new-york-10-27-2026/event/3000651A4CA7F22F
+LOCATION:149 7th Street\, Brooklyn
+URL:https://www.ticketmaster.com/ruby-setnik-brooklyn-new-york-10-27-2026/e
+ vent/3000651A4CA7F22F
+END:VEVENT
+BEGIN:VEVENT
 UID:8bcce94b3cbf54aa@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261027T233000Z
 DTEND:20261028T013000Z
 SUMMARY:American Composers Orchestra
@@ -2417,7 +2172,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:3799a8983a44e629@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:Reeves Celebrate John Coltrane
@@ -2428,7 +2183,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:b91e73469d1d9b4f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Julia Danielle Quintet
@@ -2439,7 +2194,7 @@ URL:https://www.zincbar.com/event/julia-danielle-quintet-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2c7441673d8d7eb4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:TJG Joyce Wein Mentoring Series '26 // Logan Richardson & Esteban C
@@ -2451,7 +2206,7 @@ URL:https://jazzgallery.org/calendar/logan-esteban-oct-28-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dc1b0996d4a42550@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:European Literature Night 2026
@@ -2461,7 +2216,7 @@ URL:https://acfny.org/event/eln-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d6ff4bab1a9ccdc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261028T163000Z
 DTEND:20261028T164500Z
 SUMMARY:Exhibition Talk | "From Bronze to Gold: Experiencing Sienese Art"
@@ -2471,7 +2226,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e473be5a84a64766@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261028T230000Z
 DTEND:20261029T010000Z
 SUMMARY:Greg Hutchinson's Kind of Now: The Pulse of Miles Davis
@@ -2481,7 +2236,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7360fac61c92fe8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261028T230000Z
 DTEND:20261029T010000Z
 SUMMARY:No Comment | New Nordic Cinema
@@ -2492,7 +2247,7 @@ URL:https://www.scandinaviahouse.org/event/no-comment-new-nordic-cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:f3aadabfb8e1b3e0@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261028T233000Z
 DTEND:20261029T013000Z
 SUMMARY:Standard Time with Michael Feinstein
@@ -2501,18 +2256,18 @@ LOCATION:881 Seventh Ave\, New York\, NY
 URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
-UID:37d9698d250e2436@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:a0f5581638716ab1@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
-SUMMARY:Lincoln in the Bardo (world premiere)
+SUMMARY:La Bohème
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf70a00193d26774@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T010000Z
 DTEND:20261029T080000Z
 SUMMARY:Julio Torres Presents: The Cursed Amulet III
@@ -2522,7 +2277,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:efb85ed6f9e66067@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -2533,7 +2288,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-45/
 END:VEVENT
 BEGIN:VEVENT
 UID:74e3e33d13a08113@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Myra Melford's Splash
@@ -2544,7 +2299,7 @@ URL:https://jazzgallery.org/calendar/myra-melford-oct-29
 END:VEVENT
 BEGIN:VEVENT
 UID:1c7c12d1196e268c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Suzanne Farrin opera premiere
@@ -2556,7 +2311,7 @@ URL:https://www.millertheatre.com/about/press/miller-theatre-announces-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:f1a121e1496be207@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Met Opera Under 40 night
@@ -2567,7 +2322,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:53ed2c102db300a7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T120000Z
 DTEND:20261029T140000Z
 SUMMARY:Glex: Ignition
@@ -2578,7 +2333,7 @@ URL:https://www.explorers.org/calendar-of-events/glex-ignition/
 END:VEVENT
 BEGIN:VEVENT
 UID:21ff0826975d2d96@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T210000Z
 DTEND:20261029T233000Z
 SUMMARY:Drawing From the Figure
@@ -2588,7 +2343,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:02b0490c083163bf@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T210000Z
 DTEND:20261029T220000Z
 SUMMARY:Docent Tour: Lefor-Openo
@@ -2599,7 +2354,7 @@ URL:https://posterhouse.org/event/docent-tour-lefor-openo/
 END:VEVENT
 BEGIN:VEVENT
 UID:98c000163575f7ef@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T223000Z
 DTEND:20261029T233000Z
 SUMMARY:Designed to Be Red Book Talk & Signing
@@ -2610,7 +2365,7 @@ URL:https://posterhouse.org/event/designed-to-be-red-book-talk-signing/
 END:VEVENT
 BEGIN:VEVENT
 UID:bcb680496b5020d7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T230000Z
 DTEND:20261029T230000Z
 SUMMARY:Malachi Provenzano\, violin: Beethoven\, Stravinsky\, and Bach
@@ -2621,7 +2376,7 @@ URL:https://greenwichhouse.org/event/malachi-provenzano-violin-recital/
 END:VEVENT
 BEGIN:VEVENT
 UID:738d4f7d6b5b41b6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T233000Z
 DTEND:20261030T013000Z
 SUMMARY:Grieg’s Piano Concerto with Per Tengstrand
@@ -2633,7 +2388,7 @@ URL:https://www.scandinaviahouse.org/event/griegs-piano-concerto-with-per-t
 END:VEVENT
 BEGIN:VEVENT
 UID:b0bf31e7ed722973@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261029T233000Z
 DTEND:20261030T013000Z
 SUMMARY:Lincoln in the Bardo (world premiere)
@@ -2643,7 +2398,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:f12ff1a770a8a4ab@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:hvlt
@@ -2653,7 +2408,7 @@ URL:https://www.zincbar.com/event/hvlt-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ffeacd948554607@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Giraudo Sinfonietta
@@ -2664,7 +2419,7 @@ URL:https://jazzgallery.org/calendar/pedro-giraudo-oct-30
 END:VEVENT
 BEGIN:VEVENT
 UID:0edda7c491cea1e7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Met Opera student night: Medea
@@ -2674,7 +2429,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2f04822afa9bc1a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Whiskey Washback
@@ -2686,7 +2441,7 @@ URL:https://resident.com/new-york/2026/10/02/the-best-things-to-do-in-new-y
 END:VEVENT
 BEGIN:VEVENT
 UID:4c37561a7c212ece@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261030T210000Z
 DTEND:20261030T220000Z
 SUMMARY:Visita Guiada en Español: Diseñados para ser Rojos
@@ -2698,7 +2453,7 @@ URL:https://posterhouse.org/event/visita-guiada-en-espanol-disenados-para-s
 END:VEVENT
 BEGIN:VEVENT
 UID:cd99686593166e77@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261030T230000Z
 DTEND:20261030T230000Z
 SUMMARY:Eric Grossman: An Evening of Violin Masterpieces
@@ -2710,7 +2465,7 @@ URL:https://greenwichhouse.org/event/eric-grossman-an-evening-of-violin-mas
 END:VEVENT
 BEGIN:VEVENT
 UID:882d0b4f1d05587d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261030T233000Z
 DTEND:20261031T013000Z
 SUMMARY:Medea
@@ -2720,7 +2475,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:e632b2e227db45f8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261031T023000Z
 DTEND:20261031T090000Z
 SUMMARY:Papi Juice Halloween
@@ -2730,7 +2485,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:193e4f9fc6e8f918@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Dabin Ryu "Discomfort" Album Release Concert
@@ -2741,7 +2496,7 @@ URL:https://jazzgallery.org/calendar/dabin-ryu-oct-31-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:ed422c2304f7564f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261031T140000Z
 DTEND:20261031T160000Z
 SUMMARY:Saturday Science for Students
@@ -2752,18 +2507,18 @@ URL:https://www.explorers.org/calendar-of-events/saturday-science-for-stude
  nts-16/
 END:VEVENT
 BEGIN:VEVENT
-UID:ed84917b607d5965@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:c2f1c3d5d1b50f5f@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
-SUMMARY:Lincoln in the Bardo (world premiere)
+SUMMARY:La Bohème
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:0e92e5a504977046@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261031T180000Z
 DTEND:20261031T180000Z
 SUMMARY:Special Solo Piano Concert for Halloween with Rob Schwimmer
@@ -2775,7 +2530,7 @@ URL:https://www.bargemusic.org/concert/special-halloween-concert-with-rob-s
 END:VEVENT
 BEGIN:VEVENT
 UID:25b74c1ac18b6697@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T000000Z
 DTEND:20261101T020000Z
 SUMMARY:Medea
@@ -2785,7 +2540,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:88650838e6e14c47@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Valtinho Anastácio
@@ -2796,7 +2551,7 @@ URL:https://www.zincbar.com/event/valtinho-anastacio-82/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d7a8c649a8aa01c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T090000Z
 DTEND:20261101T190000Z
 SUMMARY:Fever x Frisky: Afterhours Revolution
@@ -2806,7 +2561,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:3170907563f52a40@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T160000Z
 DTEND:20261101T190000Z
 SUMMARY:Open Studio: Silkscreen
@@ -2817,7 +2572,7 @@ URL:https://posterhouse.org/event/open-studio-silkscreen-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:4640ab66c6952333@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T160000Z
 DTEND:20261101T180000Z
 SUMMARY:Intimate Letters: A String Quartet Performance by the Met Chamber E
@@ -2830,7 +2585,7 @@ URL:https://posterhouse.org/event/intimate-letters-a-string-quartet-perform
 END:VEVENT
 BEGIN:VEVENT
 UID:a438f2dc74896d4a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T190000Z
 DTEND:20261101T190000Z
 SUMMARY:Complete Piano Sonatas of Beethoven with Conversation\, Part 7: “
@@ -2844,7 +2599,7 @@ URL:https://www.bargemusic.org/concert/complete-piano-sonatas-of-beethoven-
 END:VEVENT
 BEGIN:VEVENT
 UID:8295276ff034ce06@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
 SUMMARY:Tosca
@@ -2854,7 +2609,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:735fee0e6ad5484e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T220000Z
 DTEND:20261101T230000Z
 SUMMARY:Countertenor: Anthony Roth Costanzo & Ensemble Led By Dan Schlosber
@@ -2865,7 +2620,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:eeba01d1549789f9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261101T220000Z
 DTEND:20261102T014000Z
 SUMMARY:Jason Yeager and Justin Poindexter Honor Bill Crow and Steve Little
@@ -2875,7 +2630,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:8b1446d1d7eae3a5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261102T003000Z
 DTEND:20261102T023000Z
 SUMMARY:Tristan & Yseult
@@ -2886,7 +2641,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult/
 END:VEVENT
 BEGIN:VEVENT
 UID:4caea80fc6c75ede@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Paul Nedzela
@@ -2896,7 +2651,7 @@ URL:https://www.zincbar.com/event/paul-nedzela/
 END:VEVENT
 BEGIN:VEVENT
 UID:4c62d874d30a006b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261102T223000Z
 DTEND:20261103T003000Z
 SUMMARY:Suitable: menswear talk
@@ -2906,7 +2661,7 @@ URL:https://www.fitnyc.edu/museum/events/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:75dfa988edf6d6d8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261102T230000Z
 DTEND:20261103T013000Z
 SUMMARY:La Moskitia: Honduras’ Last Marine Frontier
@@ -2918,7 +2673,7 @@ URL:https://www.explorers.org/calendar-of-events/la-moskitia-honduras-last-
 END:VEVENT
 BEGIN:VEVENT
 UID:2dca893e226fd2f7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261102T233000Z
 DTEND:20261103T023000Z
 SUMMARY:2026 Fall Benefit: Many Doors\, One Mission
@@ -2930,7 +2685,7 @@ URL:https://greenwichhouse.org/event/2026-fall-benefit-many-doors-one-missi
 END:VEVENT
 BEGIN:VEVENT
 UID:e93766dc16bb4173@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261103T000000Z
 DTEND:20261103T010000Z
 SUMMARY:This Isn’t Working | Work-in-Progress by Sean Donovan
@@ -2940,7 +2695,7 @@ URL:https://lmcc.net/events/this-isnt-working/
 END:VEVENT
 BEGIN:VEVENT
 UID:814b070002745110@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261103T000000Z
 DTEND:20261103T031000Z
 SUMMARY:Jimmy Heath Big Band Centennial Celebration
@@ -2950,7 +2705,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:1d180f5dcbc7751c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261103T000000Z
 DTEND:20261103T023000Z
 SUMMARY:Adult Supervision | Nordic & Baltic Oscar Contenders
@@ -2962,7 +2717,7 @@ URL:https://www.scandinaviahouse.org/event/adult-supervision-nordic-baltic-
 END:VEVENT
 BEGIN:VEVENT
 UID:b42a3f50363b9289@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Pasquale Grasso Trio
@@ -2973,7 +2728,7 @@ URL:https://www.zincbar.com/event/pasquale-grasso-trio-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:44735d610b7265be@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261103T223000Z
 DTEND:20261104T010000Z
 SUMMARY:Northern Patterns: Learn Traditional Arctic Beading Details
@@ -2985,7 +2740,7 @@ URL:https://www.scandinaviahouse.org/event/northern-patterns-learn-traditio
 END:VEVENT
 BEGIN:VEVENT
 UID:935c5e9753fb4312@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261104T000000Z
 DTEND:20261104T031000Z
 SUMMARY:Salsa Meets Jazz
@@ -2995,7 +2750,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca42279269511d7e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261104T003000Z
 DTEND:20261104T023000Z
 SUMMARY:Tristan & Yseult
@@ -3006,7 +2761,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:6350821fdd198651@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261104T003000Z
 DTEND:20261104T023000Z
 SUMMARY:Medea
@@ -3016,7 +2771,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:9c01da79b11a5e0e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Gabriel and Eytan Schillinger-Hyman Jazz Quartet
@@ -3028,7 +2783,7 @@ URL:https://www.zincbar.com/event/gabriel-and-eytan-schillinger-hyman-jazz-
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9c31f96102ee7a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:The Trap Music Orchestra
@@ -3039,7 +2794,7 @@ URL:https://jazzgallery.org/calendar/the-trap-music-orchestra-11-04
 END:VEVENT
 BEGIN:VEVENT
 UID:56e16786f7ed2aa1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
 SUMMARY:Dispatches from the Field: Jonathan Shafter & John Malone
@@ -3051,7 +2806,7 @@ URL:https://www.explorers.org/calendar-of-events/dispatches-from-the-field-
 END:VEVENT
 BEGIN:VEVENT
 UID:f81aa57abee0be7f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261104T213000Z
 DTEND:20261105T020000Z
 SUMMARY:Salon Art + Design First Look
@@ -3061,7 +2816,7 @@ URL:https://tickets.thesalonny.com/ga
 END:VEVENT
 BEGIN:VEVENT
 UID:6403f15f205a3662@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T000000Z
 DTEND:20261105T031000Z
 SUMMARY:Janis Siegel - The Art of Vocalese
@@ -3071,7 +2826,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:b16c4c155bebbe67@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T000000Z
 DTEND:20261105T023000Z
 SUMMARY:The Ground Beneath Our Feet | Nordic & Baltic Oscar Contenders
@@ -3083,7 +2838,7 @@ URL:https://www.scandinaviahouse.org/event/the-ground-beneath-our-feet-nord
 END:VEVENT
 BEGIN:VEVENT
 UID:d3df0338aad2b547@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
 SUMMARY:Tristan & Yseult
@@ -3094,7 +2849,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:20ca4f3695e1cc71@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
 SUMMARY:Tosca
@@ -3104,7 +2859,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:25b4900b1a790845@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
 SUMMARY:Punch Brothers
@@ -3114,7 +2869,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:ec503df734d65719@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -3125,7 +2880,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-46/
 END:VEVENT
 BEGIN:VEVENT
 UID:776d71d5f3d2e047@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Roy Hargrove Big Band Monthly Residency
@@ -3135,19 +2890,8 @@ LOCATION:
 URL:https://jazzgallery.org/calendar/rhbb-nov-5-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:b48eb6d71d9a4714@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:“Resonance Studies between Sonic Structure and Olfactory Composit
- ion” – Lecture Performance by Alexander Kasses
-DESCRIPTION:Cost: Not stated\nhttps://acfny.org/event/resonance-studies/
-LOCATION:Austrian Cultural Forum
-URL:https://acfny.org/event/resonance-studies/
-END:VEVENT
-BEGIN:VEVENT
 UID:e6b73eff84656bf6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:The 2026 New York Baltic Film Festival
@@ -3157,8 +2901,19 @@ LOCATION:58 Park Avenue\, New York\, NY
 URL:https://www.scandinaviahouse.org/event/nybff-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:b48eb6d71d9a4714@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:“Resonance Studies between Sonic Structure and Olfactory Composit
+ ion” – Lecture Performance by Alexander Kasses
+DESCRIPTION:Cost: Not stated\nhttps://acfny.org/event/resonance-studies/
+LOCATION:Austrian Cultural Forum
+URL:https://acfny.org/event/resonance-studies/
+END:VEVENT
+BEGIN:VEVENT
 UID:304054aecf9bac05@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:Collectible New York
@@ -3168,7 +2923,7 @@ URL:https://collectible.design/
 END:VEVENT
 BEGIN:VEVENT
 UID:9c81b13320fcdd36@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T180000Z
 DTEND:20261105T181500Z
 SUMMARY:Exhibition Talk | "From Bronze to Gold: Experiencing Sienese Art"
@@ -3178,7 +2933,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc41ea10df760a9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261105T223000Z
 DTEND:20261106T010000Z
 SUMMARY:Impressions: Linocut | Carved and Pressed with Margrethe Aanestad
@@ -3190,18 +2945,8 @@ URL:https://www.scandinaviahouse.org/event/impressions-botanical-relief-pri
  nting-carved-and-pressed-with-margrethe-aanestad/
 END:VEVENT
 BEGIN:VEVENT
-UID:6a46da5fb9353304@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261106T000000Z
-DTEND:20261106T030000Z
-SUMMARY:Earth to Emily
-DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
-LOCATION:
-URL:https://www.elsewhere.club/
-END:VEVENT
-BEGIN:VEVENT
 UID:299fc02120cd4266@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
 SUMMARY:Jason Marsalis Presents the Rare Works of Ellis Marsalis
@@ -3210,8 +2955,28 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:f23ed3fc45366e76@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Earth to Emily\, Von
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a46da5fb9353304@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261106T000000Z
+DTEND:20261106T030000Z
+SUMMARY:Earth to Emily
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
 UID:9a44435645bfbd13@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T003000Z
 DTEND:20261106T023000Z
 SUMMARY:Tristan & Yseult
@@ -3222,7 +2987,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1803359a5341931@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T003000Z
 DTEND:20261106T023000Z
 SUMMARY:Alisa Weilerstein: FRAGMENTS 6
@@ -3232,7 +2997,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:438dfc41212698cb@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T003000Z
 DTEND:20261106T023000Z
 SUMMARY:The Met Orchestra Chamber Ensemble
@@ -3243,7 +3008,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2669b1af2ee5c4d4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T003000Z
 DTEND:20261106T023000Z
 SUMMARY:Met Orchestra Chamber Ensemble
@@ -3253,7 +3018,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:532740e18b16f063@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T010000Z
 DTEND:20261106T030000Z
 SUMMARY:Orchestra of St. Luke’s
@@ -3264,7 +3029,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:dccd0ef7b9b0c45d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sarah Hanahan Quartet
@@ -3275,7 +3040,7 @@ URL:https://www.zincbar.com/event/sarah-hanahan-quartet-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:dc99907083859702@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:TJG Residency Commission '26 presents Jonathan Paik "Catch Me Weepi
@@ -3287,7 +3052,7 @@ URL:https://jazzgallery.org/calendar/jonathan-paik-nov-6-7
 END:VEVENT
 BEGIN:VEVENT
 UID:7178c54243d8e958@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:First Friday
@@ -3298,7 +3063,7 @@ URL:https://posterhouse.org/event/first-friday-38/
 END:VEVENT
 BEGIN:VEVENT
 UID:2fbf4f04f1c5658a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Salon Art + Design
@@ -3309,7 +3074,7 @@ URL:https://www.thesalonny.com/hours-and-admission-ny
 END:VEVENT
 BEGIN:VEVENT
 UID:793e998c4beb6a15@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:WFMU Record Fair
@@ -3320,7 +3085,7 @@ URL:https://wfmu.org/recordfair/
 END:VEVENT
 BEGIN:VEVENT
 UID:ad73b6502e16fd4e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T223000Z
 DTEND:20261107T020000Z
 SUMMARY:Louis Vuitton First Fridays
@@ -3330,7 +3095,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c3244a624f5ef13b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261106T233000Z
 DTEND:20261107T001500Z
 SUMMARY:Baltic Animated Shorts | Nybff
@@ -3341,7 +3106,7 @@ URL:https://www.scandinaviahouse.org/event/baltic-animated-shorts-nybff/
 END:VEVENT
 BEGIN:VEVENT
 UID:3bfab35ec3b94154@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T000000Z
 DTEND:20261107T020000Z
 SUMMARY:Gabrielle Civil performance
@@ -3351,7 +3116,7 @@ URL:https://participantinc.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e33d772f78f4e0b7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T003000Z
 DTEND:20261107T022000Z
 SUMMARY:Scarecrows | Nybff
@@ -3362,7 +3127,7 @@ URL:https://www.scandinaviahouse.org/event/scarecrows-nybff/
 END:VEVENT
 BEGIN:VEVENT
 UID:f097dd1614a2ffdd@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T003000Z
 DTEND:20261107T023000Z
 SUMMARY:Tristan & Yseult
@@ -3373,7 +3138,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:4ca85d244ffb1a66@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T003000Z
 DTEND:20261107T023000Z
 SUMMARY:Jean Rondeau\, Harpsichord
@@ -3384,7 +3149,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:9d1a2755361217b4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:Tosca
@@ -3394,7 +3159,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:4bae78a9c77f69b1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Swiss Institute Benefit Gala
@@ -3404,7 +3169,7 @@ URL:https://www.swissinstitute.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:11dad1aefe5d0d4c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Kris Davis\, Tyshawn Sorey\, Ingrid Laubrock
@@ -3416,7 +3181,7 @@ URL:https://www.millertheatre.com/about/press/miller-theatre-announces-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:8062aa637a6d7c4b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261118
 SUMMARY:Sotheby's New York Sales exhibition
@@ -3427,7 +3192,7 @@ URL:https://www.sothebys.com/en/calendar?locations=new-york&types=event
 END:VEVENT
 BEGIN:VEVENT
 UID:3b474c084ef0ef2a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T170000Z
 DTEND:20261107T185000Z
 SUMMARY:A Goodnight Kiss | Nybff
@@ -3438,7 +3203,7 @@ URL:https://www.scandinaviahouse.org/event/a-goodnight-kiss-nybff/
 END:VEVENT
 BEGIN:VEVENT
 UID:45351a5d91873ba0@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T180000Z
 DTEND:20261107T200000Z
 SUMMARY:Medea
@@ -3447,8 +3212,19 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:dc6b15aa75278d96@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261107T190000Z
+DTEND:20261107T201500Z
+SUMMARY:Baltic Shorts | Nybff
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/baltic
+ -shorts-nybff-2/
+LOCATION:58 Park Avenue\, New York\, NY
+URL:https://www.scandinaviahouse.org/event/baltic-shorts-nybff-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:37a674407d1ca7d5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261107T190000Z
 DTEND:20261107T190000Z
 SUMMARY:Complete Piano Sonatas of Beethoven with Conversation\, Part 8: “
@@ -3460,19 +3236,18 @@ URL:https://www.bargemusic.org/concert/complete-piano-sonatas-of-beethoven-
  with-conversation-part-8-a-new-vision/
 END:VEVENT
 BEGIN:VEVENT
-UID:dc6b15aa75278d96@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261107T190000Z
-DTEND:20261107T201500Z
-SUMMARY:Baltic Shorts | Nybff
-DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/baltic
- -shorts-nybff-2/
-LOCATION:58 Park Avenue\, New York\, NY
-URL:https://www.scandinaviahouse.org/event/baltic-shorts-nybff-2/
+UID:ca1c16f6845bd21a@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261108T000000Z
+DTEND:20261108T020000Z
+SUMMARY:Jeremy Pelt – 50th Birthday Celebration
+DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
+LOCATION:Broadway at 60th Street\, New York
+URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:dba84207253c3198@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261108T000000Z
 DTEND:20261108T020000Z
 SUMMARY:Taka Kigawa: Debussy’s Complete Préludes – Book I & II
@@ -3483,18 +3258,8 @@ URL:https://greenwichhouse.org/event/taka-kigawa-debussys-complete-preludes
  -book-i-ii/
 END:VEVENT
 BEGIN:VEVENT
-UID:ca1c16f6845bd21a@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261108T000000Z
-DTEND:20261108T020000Z
-SUMMARY:Jeremy Pelt – 50th Birthday Celebration
-DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
-LOCATION:Broadway at 60th Street\, New York
-URL:https://www.jazz.org/dizzys/
-END:VEVENT
-BEGIN:VEVENT
 UID:49cce9c0d9e54e10@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261108T003000Z
 DTEND:20261108T023000Z
 SUMMARY:Tristan & Yseult
@@ -3505,7 +3270,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb9f51b7fac5d5b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261108T010000Z
 DTEND:20261108T030000Z
 SUMMARY:Tosca
@@ -3515,7 +3280,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:7823f2e8f4882f36@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Valtinho Anastácio
@@ -3526,7 +3291,7 @@ URL:https://www.zincbar.com/event/valtinho-anastacio-78/
 END:VEVENT
 BEGIN:VEVENT
 UID:8eaf949a16b0dca1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261110
 SUMMARY:RAW Wine New York
@@ -3536,7 +3301,7 @@ URL:https://www.rawwine.com/fairs/new-york-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:30ae122af29f01b7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261108T170000Z
 DTEND:20261108T185000Z
 SUMMARY:My Family and Other Clowns | Nybff
@@ -3547,8 +3312,19 @@ URL:https://www.scandinaviahouse.org/event/my-family-and-other-clowns-nybff
  /
 END:VEVENT
 BEGIN:VEVENT
+UID:db1a7e3bcc8f0911@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261108T190000Z
+DTEND:20261108T211000Z
+SUMMARY:Borderline | Nybff
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/border
+ line-nybff/
+LOCATION:58 Park Avenue\, New York\, NY
+URL:https://www.scandinaviahouse.org/event/borderline-nybff/
+END:VEVENT
+BEGIN:VEVENT
 UID:c855d677fffabb27@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261108T190000Z
 DTEND:20261108T190000Z
 SUMMARY:Ursula Oppens/Jerome Lowenthal Joint Piano Concert
@@ -3559,19 +3335,8 @@ URL:https://www.bargemusic.org/concert/ursula-oppens-jerome-lowenthal-joint
  -piano-concert/
 END:VEVENT
 BEGIN:VEVENT
-UID:db1a7e3bcc8f0911@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261108T190000Z
-DTEND:20261108T211000Z
-SUMMARY:Borderline | Nybff
-DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/border
- line-nybff/
-LOCATION:58 Park Avenue\, New York\, NY
-URL:https://www.scandinaviahouse.org/event/borderline-nybff/
-END:VEVENT
-BEGIN:VEVENT
 UID:45b356a84fb9e4ef@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261108T220000Z
 DTEND:20261108T233000Z
 SUMMARY:Jean-Guihen Queyras\, Cello\; Alexandre Tharaud\, Piano
@@ -3581,7 +3346,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:7fda69fbae888aee@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261109T003000Z
 DTEND:20261109T023000Z
 SUMMARY:Tristan & Yseult
@@ -3592,7 +3357,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:90d7c43cc99102e7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Elew Trio
@@ -3602,7 +3367,7 @@ URL:https://www.zincbar.com/event/elew-trio-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:10e7af464babd051@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261109T230000Z
 DTEND:20261110T013000Z
 SUMMARY:Becoming Martian: How Living in Space Will Change Our Bodies and Mi
@@ -3615,7 +3380,7 @@ URL:https://www.explorers.org/calendar-of-events/becoming-martian-how-livin
 END:VEVENT
 BEGIN:VEVENT
 UID:a5473669a80ad7e2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261110T000000Z
 DTEND:20261110T020000Z
 SUMMARY:Young Fellows Talk
@@ -3625,7 +3390,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:11a89ea773943d0d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261110T000000Z
 DTEND:20261110T031000Z
 SUMMARY:Lou Donaldson Centennial Celebration
@@ -3635,7 +3400,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:ceb061cb88c4ef78@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261110T003000Z
 DTEND:20261110T023000Z
 SUMMARY:Tosca
@@ -3645,7 +3410,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:4976d4b82c01af46@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Tsutomu Nakai
@@ -3656,7 +3421,7 @@ URL:https://www.zincbar.com/event/tsutomu-nakai-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:4eb66143de0ef456@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261110T223000Z
 DTEND:20261111T010000Z
 SUMMARY:Northern Patterns: Learn Traditional Arctic Beading Details
@@ -3668,7 +3433,7 @@ URL:https://www.scandinaviahouse.org/event/northern-patterns-learn-traditio
 END:VEVENT
 BEGIN:VEVENT
 UID:e530814c1968b77c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T000000Z
 DTEND:20261111T031000Z
 SUMMARY:Jon Gordon Nonet
@@ -3678,7 +3443,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:4afd101f102d0476@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T000000Z
 DTEND:20261111T023000Z
 SUMMARY:Fjord | Nordic & Baltic Oscar Contenders
@@ -3690,7 +3455,7 @@ URL:https://www.scandinaviahouse.org/event/fjord-nordic-baltic-oscar-conten
 END:VEVENT
 BEGIN:VEVENT
 UID:c164a117faf69819@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T003000Z
 DTEND:20261111T023000Z
 SUMMARY:Tristan & Yseult
@@ -3701,7 +3466,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab99cc15c584aea2@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T003000Z
 DTEND:20261111T023000Z
 SUMMARY:Juilliard at Zankel Hall
@@ -3711,7 +3476,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:7bec4650aac59672@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T003000Z
 DTEND:20261111T023000Z
 SUMMARY:Victor Santiago Asuncion\, Piano
@@ -3722,7 +3487,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:5a6d8225ea99ddf8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T003000Z
 DTEND:20261111T023000Z
 SUMMARY:Tosca
@@ -3732,7 +3497,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:c7e3c3baedfa0ba8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Kelly Green Quartet
@@ -3743,7 +3508,7 @@ URL:https://www.zincbar.com/event/kelly-green-quartet-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:b53544787c431295@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Yvonne Rogers Quartet
@@ -3754,7 +3519,7 @@ URL:https://jazzgallery.org/calendar/yvonne-rogers-nov-11-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:ffbc56b0f6d92ae3@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261130
 SUMMARY:DOC NYC
@@ -3764,7 +3529,7 @@ URL:https://www.docnyc.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:55ac1bc5b65cf071@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Le Bal Imperial
@@ -3775,7 +3540,7 @@ URL:https://frenchheritagesociety.org/chapters/young-patrons-circle/
 END:VEVENT
 BEGIN:VEVENT
 UID:fbbc566ee9a16011@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T230000Z
 DTEND:20261112T000000Z
 SUMMARY:The Status of Statuettes
@@ -3785,7 +3550,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:03e16c40c4a42b8a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261111T230000Z
 DTEND:20261112T013000Z
 SUMMARY:Screening – Stolen Children
@@ -3796,7 +3561,7 @@ URL:https://www.explorers.org/calendar-of-events/screening-stolen-children/
 END:VEVENT
 BEGIN:VEVENT
 UID:140684b14adaaf61@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T000000Z
 DTEND:20261112T020000Z
 SUMMARY:Django Reinhardt NY Festival
@@ -3806,7 +3571,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:a966db3336334052@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T000000Z
 DTEND:20261112T023000Z
 SUMMARY:Growth of the Soil | Nordic & Baltic Oscar Contenders
@@ -3818,7 +3583,7 @@ URL:https://www.scandinaviahouse.org/event/growth-of-the-soil-nordic-baltic
 END:VEVENT
 BEGIN:VEVENT
 UID:df53b6f289dcce72@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T003000Z
 DTEND:20261112T023000Z
 SUMMARY:Tristan & Yseult
@@ -3829,7 +3594,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-12/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f57ae1a88125c27@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T003000Z
 DTEND:20261112T023000Z
 SUMMARY:Jonathan Palmer Lakeland\, Piano
@@ -3840,7 +3605,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e801a639cdca1f27@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T003000Z
 DTEND:20261112T023000Z
 SUMMARY:Medea
@@ -3850,7 +3615,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:cc0f59e8d77d6704@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -3861,7 +3626,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-47/
 END:VEVENT
 BEGIN:VEVENT
 UID:101f067fa8526484@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Jonathan Suazo "Ricano Vol. 2 - Fruto de mi Corazón" Album Release
@@ -3872,7 +3637,7 @@ URL:https://jazzgallery.org/calendar/jonathan-suazo-nov-12
 END:VEVENT
 BEGIN:VEVENT
 UID:0e349b158eb39ff1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T223000Z
 DTEND:20261113T010000Z
 SUMMARY:Impressions: Botanical Relief Printing | Carved and Pressed with Ma
@@ -3885,7 +3650,7 @@ URL:https://www.scandinaviahouse.org/event/impressions-botanical-relief-pri
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb6d3ec74b0cdb9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T223000Z
 DTEND:20261113T003000Z
 SUMMARY:Seasiders | Films from the Fjords
@@ -3896,7 +3661,7 @@ URL:https://www.scandinaviahouse.org/event/seasiders/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d767cb1aca793ae@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261112T230000Z
 DTEND:20261113T000000Z
 SUMMARY:Officer and Laughing Girl
@@ -3906,7 +3671,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f6cdf740abcb6380@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261113T003000Z
 DTEND:20261113T003000Z
 SUMMARY:Voices of Unsung Heros
@@ -3917,7 +3682,7 @@ URL:https://greenwichhouse.org/event/voices-of-unsung-heros/
 END:VEVENT
 BEGIN:VEVENT
 UID:44f9a0713e8d7613@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261113T003000Z
 DTEND:20261113T023000Z
 SUMMARY:Tristan & Yseult
@@ -3928,7 +3693,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-13/
 END:VEVENT
 BEGIN:VEVENT
 UID:d9309b037b3410b8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Willerm Delisfort Trio
@@ -3939,7 +3704,7 @@ URL:https://www.zincbar.com/event/willerm-delisfort-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:e57ec6ed2577a5da@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Max Pollak
@@ -3950,7 +3715,7 @@ URL:https://jazzgallery.org/calendar/max-pollak-nov-13-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2364e757faa25c0d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Met Opera Under 40 night
@@ -3961,7 +3726,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:094685d17d996e74@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261113T230000Z
 DTEND:20261114T001500Z
 SUMMARY:Art Dialogues: Vecchietta’s "Resurrection of Christ"
@@ -3971,7 +3736,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6be4ae6639784fef@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T000000Z
 DTEND:20261114T000000Z
 SUMMARY:Alex Saraceno: Scriabin: Preludes & Poèmes
@@ -3983,7 +3748,7 @@ URL:https://greenwichhouse.org/event/alex-saraceno-scriabin-preludes-poemes
 END:VEVENT
 BEGIN:VEVENT
 UID:b580caa765517a9e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T000000Z
 DTEND:20261114T020000Z
 SUMMARY:Stanya Kahn film
@@ -3993,7 +3758,7 @@ URL:https://participantinc.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:b7ccd542c054aa86@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T003000Z
 DTEND:20261114T023000Z
 SUMMARY:Tristan & Yseult
@@ -4004,7 +3769,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:6f142d50cf7a7a1d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T003000Z
 DTEND:20261114T023000Z
 SUMMARY:Tosca in concert (Puccini)
@@ -4014,7 +3779,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:66dd84cb3434ba31@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T003000Z
 DTEND:20261114T023000Z
 SUMMARY:Tosca
@@ -4023,8 +3788,19 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:e1bb18ac1cca0363@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Capatosta Trio
+DESCRIPTION:Cost: Not stated\nhttps://jazzgallery.org/calendar/capatosta-no
+ v-14-2026
+LOCATION:
+URL:https://jazzgallery.org/calendar/capatosta-nov-14-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:2bb7c675a2114013@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 SUMMARY:A Current Affair vintage show
@@ -4036,7 +3812,7 @@ URL:https://www.eventbrite.com/e/a-current-affair-pop-up-vintage-marketplac
 END:VEVENT
 BEGIN:VEVENT
 UID:551885c463dfdfdd@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Frick Garden Court concert
@@ -4046,7 +3822,7 @@ URL:https://www.frick.org/programs/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:019da7a2b8486d55@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T140000Z
 DTEND:20261115T000000Z
 SUMMARY:Sea Stories 2026
@@ -4057,7 +3833,7 @@ URL:https://www.explorers.org/calendar-of-events/sea-stories-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:42febf6b16d299f6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T180000Z
 DTEND:20261114T200000Z
 SUMMARY:Tosca
@@ -4067,7 +3843,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:9811af74140d2c34@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T190000Z
 DTEND:20261114T200000Z
 SUMMARY:Toad Mountain | Work-in-Progress by Jie-Hung Connie Shiau
@@ -4077,7 +3853,7 @@ URL:https://lmcc.net/events/toad-mountain/
 END:VEVENT
 BEGIN:VEVENT
 UID:0974adf587e9b7dc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T190000Z
 DTEND:20261114T193000Z
 SUMMARY:The Music of Siena: Jasper Snow\, Vielle\; Georgia Burashko\, Alto\
@@ -4088,7 +3864,7 @@ URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:bdfb4341c16a98c0@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T190000Z
 DTEND:20261114T190000Z
 SUMMARY:Bach\, Bartok\, LeClair and more for 2 violins\, violin/viola\, and
@@ -4101,7 +3877,7 @@ URL:https://www.bargemusic.org/concert/vienna-synergy-mozart-quintets-and-b
 END:VEVENT
 BEGIN:VEVENT
 UID:773538538f9802dd@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261114T200000Z
 DTEND:20261114T220000Z
 SUMMARY:Craft Your Own Glögg: a Nordic Experience
@@ -4113,7 +3889,7 @@ URL:https://www.scandinaviahouse.org/event/craft-your-own-glogg-a-nordic-ex
 END:VEVENT
 BEGIN:VEVENT
 UID:6037af5167ea337c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T000000Z
 DTEND:20261115T030000Z
 SUMMARY:Mother Soki
@@ -4123,7 +3899,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:be98847e8207be4b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T000000Z
 DTEND:20261115T020000Z
 SUMMARY:Rhiannon Giddens and Yo-Yo Ma
@@ -4133,7 +3909,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c074eb36493c4c02@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T003000Z
 DTEND:20261115T023000Z
 SUMMARY:Tristan & Yseult
@@ -4144,7 +3920,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:c6c3c47ff710aadc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T010000Z
 DTEND:20261115T030000Z
 SUMMARY:Medea
@@ -4154,7 +3930,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:672b3829723b5cf4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Valtinho Anastácio
@@ -4165,7 +3941,7 @@ URL:https://www.zincbar.com/event/valtinho-anastacio-79/
 END:VEVENT
 BEGIN:VEVENT
 UID:74eb9a36be4eb97b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Terence Tao
@@ -4175,7 +3951,7 @@ URL:https://pioneerworks.org/programs
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc2526789faad1d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T190000Z
 DTEND:20261115T190000Z
 SUMMARY:Duo Piano Recital with Alexander Peskanov and Coady Green
@@ -4187,7 +3963,7 @@ URL:https://www.bargemusic.org/concert/vienna-synergy-quintets-and-quartets
 END:VEVENT
 BEGIN:VEVENT
 UID:e80c6175d3f12aa1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T190000Z
 DTEND:20261115T210000Z
 SUMMARY:Tosca in concert (Puccini)
@@ -4197,7 +3973,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d3ee87f4d349e1e1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261115T200000Z
 DTEND:20261115T220000Z
 SUMMARY:Apollo’s Fire / Jeanine De Bique
@@ -4207,8 +3983,19 @@ LOCATION:881 Seventh Ave\, New York\, NY
 URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
+UID:605de5647c2de108@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:The Music of Siena: Jasper Snow\, Vielle\; Georgia Burashko\, Alto\
+ ; Joshua Cheatham\, Viol\; Richard Pittsinger\, Tenor
+DESCRIPTION:Cost: Not stated\nhttps://www.frick.org/calendar
+LOCATION:1 E 70th St\, New York\, NY
+URL:https://www.frick.org/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:88914818e471777d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Mark Whitfield Trio
@@ -4219,7 +4006,7 @@ URL:https://www.zincbar.com/event/mark-whitfield-trio-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:d189a6fcf413cdab@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261123
 SUMMARY:NYC Jewelry Week
@@ -4229,7 +4016,7 @@ URL:https://nycjewelryweek.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:9c55e04320887aac@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261116T230000Z
 DTEND:20261117T013000Z
 SUMMARY:Life Ascending
@@ -4239,18 +4026,18 @@ LOCATION:
 URL:https://www.explorers.org/calendar-of-events/life-ascending/
 END:VEVENT
 BEGIN:VEVENT
-UID:7298cb7697ddf409@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261117T000000Z
-DTEND:20261117T030000Z
-SUMMARY:sahn
-DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
-LOCATION:
-URL:https://www.elsewhere.club/
+UID:9961c7be9f229962@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261116T233000Z
+DTEND:20261117T013000Z
+SUMMARY:Fellows Talk
+DESCRIPTION:Cost: Not stated\nhttps://www.frick.org/calendar
+LOCATION:1 E 70th St\, New York\, NY
+URL:https://www.frick.org/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6b1500e60fb62d31@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261117T000000Z
 DTEND:20261117T031000Z
 SUMMARY:Eyal Vilner Big Band
@@ -4259,8 +4046,18 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:7298cb7697ddf409@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261117T000000Z
+DTEND:20261117T030000Z
+SUMMARY:sahn
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
 UID:422d2721cfa20f7a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261117T003000Z
 DTEND:20261117T023000Z
 SUMMARY:Jenůfa
@@ -4270,7 +4067,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:67549ff278e441a3@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Misha Piatigorsky
@@ -4281,7 +4078,7 @@ URL:https://www.zincbar.com/event/misha-piatigorsky-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:8a0e1e83e70e149e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261117T180000Z
 DTEND:20261117T193000Z
 SUMMARY:Nerve Impulses on the High-Voltage Power Line | Book Talk
@@ -4293,7 +4090,7 @@ URL:https://www.scandinaviahouse.org/event/nerve-impulses-on-the-high-volta
 END:VEVENT
 BEGIN:VEVENT
 UID:7d78c7f51b187cb4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261117T223000Z
 DTEND:20261118T010000Z
 SUMMARY:Northern Patterns: Learn Traditional Arctic Beading Details
@@ -4305,7 +4102,7 @@ URL:https://www.scandinaviahouse.org/event/northern-patterns-learn-traditio
 END:VEVENT
 BEGIN:VEVENT
 UID:b49df0794ed97b5a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261118T000000Z
 DTEND:20261118T031000Z
 SUMMARY:Sheila Jordan Birthday Celebration
@@ -4315,7 +4112,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:d518ea74ff6c5947@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261118T003000Z
 DTEND:20261118T023000Z
 SUMMARY:Tristan & Yseult
@@ -4326,7 +4123,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:28a9f057edf0fbb7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261118T003000Z
 DTEND:20261118T023000Z
 SUMMARY:Jupiter Ensemble
@@ -4336,18 +4133,29 @@ LOCATION:881 Seventh Ave\, New York\, NY
 URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
-UID:6df77ecbf290825c@nyc-culture
-DTSTAMP:20261013T231115Z
+UID:6779641f87a97863@nyc-culture
+DTSTAMP:20261015T143545Z
 DTSTART:20261118T003000Z
 DTEND:20261118T023000Z
-SUMMARY:Tosca
+SUMMARY:Jenůfa
 DESCRIPTION:Cost: Not stated\nhttps://www.metopera.org/calendar/
 LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:d41c80517beed669@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kieran Brown Quartet
+DESCRIPTION:Cost: Not stated\nhttps://www.zincbar.com/event/kieran-brown-qu
+ artet/
+LOCATION:Zinc Bar
+URL:https://www.zincbar.com/event/kieran-brown-quartet/
+END:VEVENT
+BEGIN:VEVENT
 UID:49b3c3aed15d2b9b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Johnny O’Neal Trio
@@ -4358,7 +4166,7 @@ URL:https://www.zincbar.com/event/johnny-oneal-trio-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:e819eec184cd8001@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:Dispatches from the Field: Robert Steven Bianchi
@@ -4370,7 +4178,7 @@ URL:https://www.explorers.org/calendar-of-events/dispatches-from-the-field-
 END:VEVENT
 BEGIN:VEVENT
 UID:9bc88627f7e4bf5d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261118T210000Z
 DTEND:20261118T220000Z
 SUMMARY:Artist Talk: Alexandria Smith
@@ -4381,7 +4189,7 @@ URL:https://greenwichhouse.org/event/artist-talk-alexandria-smith/
 END:VEVENT
 BEGIN:VEVENT
 UID:265d47775cf84e70@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
 SUMMARY:Bill Charlap Solo Piano
@@ -4390,8 +4198,20 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:4c13ae683576e8a0@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261119T003000Z
+DTEND:20261119T023000Z
+SUMMARY:Big Jazz in the Village at Greenwich House Music School
+DESCRIPTION:Cost: Not stated\nhttps://greenwichhouse.org/event/big-jazz-in-
+ the-village-at-greenwich-house-music-school/
+LOCATION:46 Barrow Street\, New York\, NY
+URL:https://greenwichhouse.org/event/big-jazz-in-the-village-at-greenwich-h
+ ouse-music-school/
+END:VEVENT
+BEGIN:VEVENT
 UID:8c6fbc81edabdaf1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T003000Z
 DTEND:20261119T023000Z
 SUMMARY:Tristan & Yseult
@@ -4402,7 +4222,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-20/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5a8af55105d455c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T003000Z
 DTEND:20261119T023000Z
 SUMMARY:Minsoo Sohn\, Piano
@@ -4413,7 +4233,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:1c1a8c2853a8d39a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T003000Z
 DTEND:20261119T023000Z
 SUMMARY:Ammiel Bushakevitz\, Piano
@@ -4424,7 +4244,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fc285086868fe4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T003000Z
 DTEND:20261119T023000Z
 SUMMARY:Asmik Grigorian in concert
@@ -4434,7 +4254,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:590926bb774b7169@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -4445,7 +4265,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-48/
 END:VEVENT
 BEGIN:VEVENT
 UID:7001957dd94a2206@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lucid Duo: Tradition & Innovation – 15 Years of Marimba Duo Perfo
@@ -4455,8 +4275,19 @@ LOCATION:Austrian Cultural Forum
 URL:https://acfny.org/event/lucid-duo/
 END:VEVENT
 BEGIN:VEVENT
+UID:54ade73f04affd45@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261214
+SUMMARY:GHP Artists Exhibition 2026
+DESCRIPTION:Cost: Not stated\nhttps://greenwichhouse.org/event/ghp-artists-
+ exhibition-2026/
+LOCATION:16 Jones Street\, New York\, NY
+URL:https://greenwichhouse.org/event/ghp-artists-exhibition-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:cec5d044ef54b7b6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
 SUMMARY:Einstein on the Beach\, 50th anniversary
@@ -4466,7 +4297,7 @@ URL:https://www.bam.org/nextwave
 END:VEVENT
 BEGIN:VEVENT
 UID:a105bd91d1fa813d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T210000Z
 DTEND:20261120T020000Z
 SUMMARY:To the Lost Worlds – Uncovering the Secrets of the Guiana Shield
@@ -4478,7 +4309,7 @@ URL:https://www.explorers.org/calendar-of-events/to-the-lost-worlds-uncover
 END:VEVENT
 BEGIN:VEVENT
 UID:4d53644a20b1ec7c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261119T223000Z
 DTEND:20261120T010000Z
 SUMMARY:Impressions: Potato Printing | Carved and Pressed with Margrethe Aa
@@ -4490,19 +4321,8 @@ URL:https://www.scandinaviahouse.org/event/impressions-potato-printing-carv
  ed-and-pressed-with-margrethe-aanestad/
 END:VEVENT
 BEGIN:VEVENT
-UID:1ceb697d60c5fe53@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261120T003000Z
-DTEND:20261120T023000Z
-SUMMARY:BFA Trio CD Release
-DESCRIPTION:Cost: $20 – $25\nhttps://greenwichhouse.org/event/bfa-trio-cd
- -release/
-LOCATION:46 Barrow Street\, New York\, NY
-URL:https://greenwichhouse.org/event/bfa-trio-cd-release/
-END:VEVENT
-BEGIN:VEVENT
 UID:16187fc088b1c326@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261120T003000Z
 DTEND:20261120T023000Z
 SUMMARY:A Chopin Tribute with Per Tengstrand
@@ -4513,8 +4333,19 @@ URL:https://www.scandinaviahouse.org/event/a-chopin-tribute-with-per-tengst
  rand/
 END:VEVENT
 BEGIN:VEVENT
+UID:1ceb697d60c5fe53@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261120T003000Z
+DTEND:20261120T023000Z
+SUMMARY:BFA Trio CD Release
+DESCRIPTION:Cost: $20 – $25\nhttps://greenwichhouse.org/event/bfa-trio-cd
+ -release/
+LOCATION:46 Barrow Street\, New York\, NY
+URL:https://greenwichhouse.org/event/bfa-trio-cd-release/
+END:VEVENT
+BEGIN:VEVENT
 UID:7f54fa4b478e10d6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261120T003000Z
 DTEND:20261120T023000Z
 SUMMARY:Tristan & Yseult
@@ -4525,7 +4356,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-21/
 END:VEVENT
 BEGIN:VEVENT
 UID:73db9b162c3c78ce@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261120T010000Z
 DTEND:20261120T030000Z
 SUMMARY:Tosca
@@ -4535,7 +4366,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:16a98f9e0df72b98@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:The Mingus Dynasty
@@ -4546,7 +4377,7 @@ URL:https://www.zincbar.com/event/the-mingus-dynasty-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:b639c266e5615259@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 SUMMARY:PoetryFest
@@ -4556,7 +4387,7 @@ URL:https://irishartscenter.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:9144c8e8f764a68b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T003000Z
 DTEND:20261121T023000Z
 SUMMARY:Tristan & Yseult
@@ -4567,7 +4398,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-22/
 END:VEVENT
 BEGIN:VEVENT
 UID:fe5f4f6a735cc45b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T010000Z
 DTEND:20261121T030000Z
 SUMMARY:The New York Pops
@@ -4577,7 +4408,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:422c2a54932dcad5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T010000Z
 DTEND:20261121T030000Z
 SUMMARY:Jenůfa
@@ -4587,7 +4418,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:0367e5d50a144790@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T150000Z
 DTEND:20261121T170000Z
 SUMMARY:Saturday Science for Students
@@ -4599,7 +4430,7 @@ URL:https://www.explorers.org/calendar-of-events/saturday-science-for-stude
 END:VEVENT
 BEGIN:VEVENT
 UID:0222e686120c6884@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
 SUMMARY:Jenůfa
@@ -4608,8 +4439,20 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:a2e45c4648d570e5@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Siri Hustvedt – Dance Around the Self
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/siri-h
+ ustvedt-dance-around-the-self/
+LOCATION:58 Park Avenue\, New York\, NY
+URL:https://www.scandinaviahouse.org/event/siri-hustvedt-dance-around-the-s
+ elf/
+END:VEVENT
+BEGIN:VEVENT
 UID:30d69b88673b41c4@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T190000Z
 DTEND:20261121T190000Z
 SUMMARY:“A Kaleidoscope of Favorites”: piano recital with Asiya Korepan
@@ -4621,20 +4464,8 @@ URL:https://www.bargemusic.org/concert/a-kaleidoscope-of-favorites-piano-re
  cital-with-asiya-korepanova/
 END:VEVENT
 BEGIN:VEVENT
-UID:a2e45c4648d570e5@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-SUMMARY:Siri Hustvedt – Dance Around the Self
-DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/siri-h
- ustvedt-dance-around-the-self/
-LOCATION:58 Park Avenue\, New York\, NY
-URL:https://www.scandinaviahouse.org/event/siri-hustvedt-dance-around-the-s
- elf/
-END:VEVENT
-BEGIN:VEVENT
 UID:90beb726a88b4783@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
 SUMMARY:James Austin Smith and Friends
@@ -4645,7 +4476,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2c1ad5cc25b0c118@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261122T003000Z
 DTEND:20261122T023000Z
 SUMMARY:Tristan & Yseult
@@ -4656,7 +4487,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-24/
 END:VEVENT
 BEGIN:VEVENT
 UID:07c544087276dac9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261122T010000Z
 DTEND:20261122T030000Z
 SUMMARY:Tosca
@@ -4666,7 +4497,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:c5880c9661a9cc14@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Valtinho Anastácio
@@ -4677,7 +4508,7 @@ URL:https://www.zincbar.com/event/valtinho-anastacio-80/
 END:VEVENT
 BEGIN:VEVENT
 UID:29db8540c8e9c87f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Frick Garden Court concert
@@ -4687,7 +4518,7 @@ URL:https://www.frick.org/programs/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5e668a298cfe98@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261122T190000Z
 DTEND:20261122T190000Z
 SUMMARY:Candide Quartet Plays Beethoven\, Bartok\, and Vrebalov
@@ -4699,7 +4530,7 @@ URL:https://www.bargemusic.org/concert/candide-quartet-plays-beethoven-bart
 END:VEVENT
 BEGIN:VEVENT
 UID:227af1619bb9d8ef@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Tristan & Yseult
@@ -4710,7 +4541,7 @@ URL:https://stannswarehouse.org/show/tristan-yseult-25/
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb649fb2a3dd65f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261123T003000Z
 DTEND:20261123T023000Z
 SUMMARY:Jason Kao Hwang’s Human Rites Trio
@@ -4721,7 +4552,7 @@ URL:https://greenwichhouse.org/event/jason-kao-hwangs-human-rites-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:035d544739bcc004@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Chris Beck Quartet
@@ -4732,7 +4563,7 @@ URL:https://www.zincbar.com/event/chris-beck-quartet-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:7c43df4614e37d4b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Met Opera Under 40 night
@@ -4743,7 +4574,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:c30c9086cf5d3750@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261123T230000Z
 DTEND:20261124T013000Z
 SUMMARY:Uncharted Mythologies of Ice\, Sea\, and Space
@@ -4754,8 +4585,18 @@ URL:https://www.explorers.org/calendar-of-events/uncharted-mythologies-of-i
  ce-sea-and-space/
 END:VEVENT
 BEGIN:VEVENT
+UID:75b4dd746addb73d@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261124T000000Z
+DTEND:20261124T031000Z
+SUMMARY:Manhattan School of Music
+DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
+LOCATION:Broadway at 60th Street\, New York
+URL:https://www.jazz.org/dizzys/
+END:VEVENT
+BEGIN:VEVENT
 UID:6e3593aa046ade2e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261124T003000Z
 DTEND:20261124T023000Z
 SUMMARY:Jenůfa
@@ -4765,7 +4606,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:e17bb601413aeec7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:April Varner Quartet
@@ -4776,7 +4617,7 @@ URL:https://www.zincbar.com/event/april-varner-quartet-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:daa5148394e7a948@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261125T000000Z
 DTEND:20261125T031000Z
 SUMMARY:Bennie Wallace: BackCountry Jazz with Herlin Riley
@@ -4786,7 +4627,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:186bde13d370ac12@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261125T003000Z
 DTEND:20261125T023000Z
 SUMMARY:La Bohème
@@ -4796,7 +4637,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:f5d9cf25ebc3587e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:William Hill III Trio
@@ -4806,8 +4647,18 @@ LOCATION:Zinc Bar
 URL:https://www.zincbar.com/event/william-hill-iii-trio-13/
 END:VEVENT
 BEGIN:VEVENT
+UID:e5611c4017eb3b85@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261126T000000Z
+DTEND:20261126T031000Z
+SUMMARY:Herlin Riley and Friends
+DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
+LOCATION:Broadway at 60th Street\, New York
+URL:https://www.jazz.org/dizzys/
+END:VEVENT
+BEGIN:VEVENT
 UID:b0f475c9bc8fad6a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Axel Tosca’s Cuban Jam
@@ -4818,7 +4669,7 @@ URL:https://www.zincbar.com/event/axel-toscas-cuban-jam-49/
 END:VEVENT
 BEGIN:VEVENT
 UID:84ca87e6d31bec4b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261127T000000Z
 DTEND:20261127T011000Z
 SUMMARY:Thanksgiving with Herlin Riley
@@ -4828,7 +4679,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:88f8b921b0f99d43@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Nick Biello Quintet
@@ -4839,7 +4690,7 @@ URL:https://www.zincbar.com/event/nick-biello-quintet-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:8cfbef2ab6751c5a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261128T000000Z
 DTEND:20261128T020000Z
 SUMMARY:Herlin Riley and Friends
@@ -4849,7 +4700,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd396ceb9b2ee3f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261128T003000Z
 DTEND:20261128T023000Z
 SUMMARY:Samson et Dalila
@@ -4859,7 +4710,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:40e7107dbf2efcf1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261128T030000Z
 DTEND:20261128T090000Z
 SUMMARY:STAMPED
@@ -4869,7 +4720,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:69af4d538c7a0db7@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Met Opera Under 40 night
@@ -4880,7 +4731,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:352db35a46bbe55f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261128T180000Z
 DTEND:20261128T200000Z
 SUMMARY:Jenůfa
@@ -4890,7 +4741,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a94c715ae7daacb@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261128T190000Z
 DTEND:20261128T190000Z
 SUMMARY:“Divertimento”: string trios by Mozart and Beethoven
@@ -4902,7 +4753,7 @@ URL:https://www.bargemusic.org/concert/divertimento-string-trios-by-mozart-
 END:VEVENT
 BEGIN:VEVENT
 UID:ef91aca46c22a68e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261129T010000Z
 DTEND:20261129T030000Z
 SUMMARY:La Bohème
@@ -4911,8 +4762,19 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:707dccf2b8fe4bab@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Valtinho Anastácio
+DESCRIPTION:Cost: Not stated\nhttps://www.zincbar.com/event/valtinho-anasta
+ cio-81/
+LOCATION:Zinc Bar
+URL:https://www.zincbar.com/event/valtinho-anastacio-81/
+END:VEVENT
+BEGIN:VEVENT
 UID:f8cd130a531619eb@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261129T190000Z
 DTEND:20261129T190000Z
 SUMMARY:“Divertimento”: String Trios of Mozart and Beethoven
@@ -4923,8 +4785,19 @@ URL:https://www.bargemusic.org/concert/divertimento-string-trios-of-mozart-
  and-beethoven/
 END:VEVENT
 BEGIN:VEVENT
+UID:a0104b32214f8fc2@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Adam Levy Quartet
+DESCRIPTION:Cost: Not stated\nhttps://www.zincbar.com/event/adam-levy-quart
+ et/
+LOCATION:Zinc Bar
+URL:https://www.zincbar.com/event/adam-levy-quartet/
+END:VEVENT
+BEGIN:VEVENT
 UID:c6244f8595062703@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261201T000000Z
 DTEND:20261201T031000Z
 SUMMARY:Future of Jazz Orchestra
@@ -4934,7 +4807,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:7940cace5060c17c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261201T003000Z
 DTEND:20261201T023000Z
 SUMMARY:Jenůfa
@@ -4944,7 +4817,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:be93a28eea5e58fd@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Met Opera Under 40 night
@@ -4955,7 +4828,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:2573c64a0ec5b056@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261201T223000Z
 DTEND:20261202T003000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -4967,7 +4840,7 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
 END:VEVENT
 BEGIN:VEVENT
 UID:ef12883babf5a928@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Bossa Swings: Jobim and Getz Centennial with Julian Lee Quartet and
@@ -4978,7 +4851,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:624a55cd6347e8a6@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261202T003000Z
 DTEND:20261202T023000Z
 SUMMARY:Samson et Dalila
@@ -4988,7 +4861,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:4eeef37ec95e3f0a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261202T170000Z
 DTEND:20261202T180000Z
 SUMMARY:Dispatches from the Field: Paul Clerkin
@@ -4999,8 +4872,20 @@ URL:https://www.explorers.org/calendar-of-events/dispatches-from-the-field-
  paul-clerkin/
 END:VEVENT
 BEGIN:VEVENT
+UID:2e35bf8ec2114b70@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261203T000000Z
+DTEND:20261203T023000Z
+SUMMARY:The Secret Reading Club of Kabul | Nordic & Baltic Oscar Contenders
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/the-se
+ cret-reading-club-of-kabul-nordic-baltic-oscar-contenders/
+LOCATION:58 Park Avenue\, New York\, NY
+URL:https://www.scandinaviahouse.org/event/the-secret-reading-club-of-kabul
+ -nordic-baltic-oscar-contenders/
+END:VEVENT
+BEGIN:VEVENT
 UID:c13d35675c861c5b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261203T003000Z
 DTEND:20261203T023000Z
 SUMMARY:Tom Poster\, Piano
@@ -5011,7 +4896,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:5bd45f370ff9159a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261203T010000Z
 DTEND:20261203T030000Z
 SUMMARY:Hélène Grimaud\, Piano
@@ -5022,7 +4907,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:107fe0a09948fbac@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Tallis Scholars
@@ -5034,7 +4919,7 @@ URL:https://www.millertheatre.com/about/press/miller-theatre-announces-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:f44b54f98c3cf710@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261204T000000Z
 DTEND:20261204T020000Z
 SUMMARY:Mimi Fox Organ Trio
@@ -5044,7 +4929,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:f3606fcf088340ed@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261204T000000Z
 DTEND:20261204T023000Z
 SUMMARY:How to Divorce During the War | Nordic & Baltic Oscar Contenders
@@ -5056,7 +4941,7 @@ URL:https://www.scandinaviahouse.org/event/how-to-divorce-during-the-war-no
 END:VEVENT
 BEGIN:VEVENT
 UID:ba590c424236ad33@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261204T003000Z
 DTEND:20261204T023000Z
 SUMMARY:La Bohème
@@ -5066,7 +4951,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:628fb8e1d2c390fa@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261204T010000Z
 DTEND:20261204T030000Z
 SUMMARY:Renée Fleming with Béla Fleck
@@ -5076,7 +4961,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2851ee0c2ec63bd8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Met Opera student night: Jenufa
@@ -5086,7 +4971,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:661d1912839c7f31@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261205T003000Z
 DTEND:20261205T023000Z
 SUMMARY:Jenůfa
@@ -5096,7 +4981,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:37959b587c6b282b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261205T030000Z
 DTEND:20261205T090000Z
 SUMMARY:Laylit
@@ -5106,7 +4991,7 @@ URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
 UID:51f1b3cc33b8c86b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Anthony Hervey Septet
@@ -5118,7 +5003,7 @@ URL:https://www.millertheatre.com/about/press/miller-theatre-announces-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:29574afd58202fe9@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261205T170000Z
 DTEND:20261205T190000Z
 SUMMARY:Samson et Dalila
@@ -5128,7 +5013,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:776d37ea5122f085@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261205T190000Z
 DTEND:20261205T190000Z
 SUMMARY:Holiday Concert: Bach Sonatas for Violin and Keyboard with Mark Pes
@@ -5142,7 +5027,7 @@ URL:https://www.bargemusic.org/concert/holiday-concert-bach-sonatas-for-vio
 END:VEVENT
 BEGIN:VEVENT
 UID:ee9f3dccc2947800@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261206T010000Z
 DTEND:20261206T030000Z
 SUMMARY:A Night of Inspiration
@@ -5152,7 +5037,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:0bc5d95fdae83187@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261206T010000Z
 DTEND:20261206T030000Z
 SUMMARY:La Bohème
@@ -5162,7 +5047,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:0a5e4d5fcbcda3f8@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261206T190000Z
 DTEND:20261206T210000Z
 SUMMARY:Chamber Orchestra of Europe
@@ -5173,7 +5058,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:9eec1e23680664e5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261206T200000Z
 DTEND:20261206T220000Z
 SUMMARY:Maria Stuarda
@@ -5183,7 +5068,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:8c9f146b49e91c9a@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261206T220000Z
 DTEND:20261207T014000Z
 SUMMARY:Songbook Sundays: Irving Berlin
@@ -5193,7 +5078,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:30e2edccef85405b@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261206T220000Z
 DTEND:20261206T220000Z
 SUMMARY:Holiday Concert
@@ -5204,7 +5089,7 @@ URL:https://www.scandinaviahouse.org/event/holiday-concert-5/2026-12-06/
 END:VEVENT
 BEGIN:VEVENT
 UID:ddbb661f64b795ac@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261207T223000Z
 DTEND:20261208T003000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -5216,7 +5101,7 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
 END:VEVENT
 BEGIN:VEVENT
 UID:9d56402972e0d045@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261208T000000Z
 DTEND:20261208T031000Z
 SUMMARY:Ted Nash Big Band
@@ -5226,7 +5111,7 @@ URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
 UID:8deda987ff449288@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261208T010000Z
 DTEND:20261208T030000Z
 SUMMARY:The Christmas Tour 2026
@@ -5236,7 +5121,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:091706d54372dcea@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Steinkellner / Novak: A Christmas Journey
@@ -5246,7 +5131,7 @@ URL:https://acfny.org/event/steinkellner-novak/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d98114b8f7a614f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
 SUMMARY:Vince Giordano & The Nighthawks
@@ -5257,18 +5142,8 @@ URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
  -7/
 END:VEVENT
 BEGIN:VEVENT
-UID:ceaa579737ca2e1c@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261209T000000Z
-DTEND:20261209T030000Z
-SUMMARY:Bike Routes\, Good Sleepy
-DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
-LOCATION:
-URL:https://www.elsewhere.club/
-END:VEVENT
-BEGIN:VEVENT
 UID:2dcd064b05646c9c@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261209T000000Z
 DTEND:20261209T031000Z
 SUMMARY:Bluesday: TBD
@@ -5277,8 +5152,18 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:ceaa579737ca2e1c@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261209T000000Z
+DTEND:20261209T030000Z
+SUMMARY:Bike Routes\, Good Sleepy
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
 UID:32e0f894da7da99d@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261209T003000Z
 DTEND:20261209T023000Z
 SUMMARY:Ariel Quartet
@@ -5289,7 +5174,7 @@ URL:https://www.carnegiehall.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:62edb2a2c4bd6e86@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261209T003000Z
 DTEND:20261209T023000Z
 SUMMARY:Maria Stuarda
@@ -5298,18 +5183,8 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:ca1bff427484e2ce@nyc-culture
-DTSTAMP:20261013T231115Z
-DTSTART:20261210T000000Z
-DTEND:20261210T033000Z
-SUMMARY:They Are Gutting a Body of Water\, Taxidermists
-DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
-LOCATION:
-URL:https://www.elsewhere.club/
-END:VEVENT
-BEGIN:VEVENT
 UID:205cc59de298119f@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261210T000000Z
 DTEND:20261210T020000Z
 SUMMARY:Ulysses Owens\, Jr. Big Band
@@ -5318,8 +5193,18 @@ LOCATION:Broadway at 60th Street\, New York
 URL:https://www.jazz.org/dizzys/
 END:VEVENT
 BEGIN:VEVENT
+UID:ca1bff427484e2ce@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261210T000000Z
+DTEND:20261210T033000Z
+SUMMARY:They Are Gutting a Body of Water\, Taxidermists
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
 UID:b02e091f4b2ccbfc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261210T003000Z
 DTEND:20261210T023000Z
 SUMMARY:Maria Stuarda
@@ -5329,7 +5214,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:d75a63eee03c23c3@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261210T230000Z
 DTEND:20261211T030000Z
 SUMMARY:Save the Date – The Explorers Club Holiday Party
@@ -5341,7 +5226,7 @@ URL:https://www.explorers.org/calendar-of-events/the-explorers-club-holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:7b91c01170790dff@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261211T003000Z
 DTEND:20261211T023000Z
 SUMMARY:La Bohème
@@ -5351,7 +5236,7 @@ URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:c4c63a96d2dbe7be@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Met Opera Under 40 night
@@ -5362,7 +5247,7 @@ URL:https://www.metopera.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca48a9630b7c6bdc@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261212T020000Z
 DTEND:20261212T060000Z
 SUMMARY:Chatroom: bloodsports (DJ Set ) - Free w/ RSVP
@@ -5371,8 +5256,18 @@ LOCATION:
 URL:https://www.elsewhere.club/
 END:VEVENT
 BEGIN:VEVENT
+UID:9889562d7735f22d@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261212T033000Z
+DTEND:20261212T090000Z
+SUMMARY:Only Fire + guests TBA
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
 UID:dd30949f3eca08e1@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261212T150000Z
 DTEND:20261212T170000Z
 SUMMARY:Saturday Science for Students
@@ -5384,7 +5279,7 @@ URL:https://www.explorers.org/calendar-of-events/saturday-science-for-stude
 END:VEVENT
 BEGIN:VEVENT
 UID:83d061fc2faadcf5@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261212T180000Z
 DTEND:20261212T200000Z
 SUMMARY:Maria Stuarda
@@ -5393,13 +5288,68 @@ LOCATION:30 Lincoln Center Plaza\, New York\, NY
 URL:https://www.metopera.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:ebdf5dbad0931c88@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261212T220000Z
+DTEND:20261212T230000Z
+SUMMARY:Holiday Concert
+DESCRIPTION:Cost: Not stated\nhttps://www.scandinaviahouse.org/event/holida
+ y-concert-5/2026-12-12/
+LOCATION:58 Park Avenue\, New York\, NY
+URL:https://www.scandinaviahouse.org/event/holiday-concert-5/2026-12-12/
+END:VEVENT
+BEGIN:VEVENT
 UID:5b95d510bbb9ea8e@nyc-culture
-DTSTAMP:20261013T231115Z
+DTSTAMP:20261015T143545Z
 DTSTART:20261213T010000Z
 DTEND:20261213T030000Z
 SUMMARY:Daniil Trifonov\, Piano
 DESCRIPTION:Handel Suite No. 5 in E Major\, HWV 430 + 9 more\nCost: Not sta
  ted\nhttps://www.carnegiehall.org/events
+LOCATION:881 Seventh Ave\, New York\, NY
+URL:https://www.carnegiehall.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:a76ae5135833f787@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261214T000000Z
+DTEND:20261214T030000Z
+SUMMARY:Sunshine Benzi
+DESCRIPTION:Cost: Not stated\nhttps://www.elsewhere.club/
+LOCATION:
+URL:https://www.elsewhere.club/
+END:VEVENT
+BEGIN:VEVENT
+UID:885f81e3bc4bc9da@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261214T223000Z
+DTEND:20261215T003000Z
+SUMMARY:Vince Giordano & The Nighthawks
+DESCRIPTION:Sets 5:30 and 8:30\nCost: $24.91 to $45.76\nhttps://www.birdlan
+ djazz.com/tm-event/vince-giordano-and-the-nighthawks-7/
+LOCATION:315 W 44th St\, New York\, NY
+URL:https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks
+ -7/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5c8057154346d9@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261215T000000Z
+DTEND:20261215T031000Z
+SUMMARY:Joe Block’s Holiday Extravaganza feat. vocalists Shabnam Abedi an
+ d Imani Rouselle
+DESCRIPTION:Cost: $24\nhttps://www.jazz.org/dizzys/
+LOCATION:Broadway at 60th Street\, New York
+URL:https://www.jazz.org/dizzys/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7eef55f09879c7@nyc-culture
+DTSTAMP:20261015T143545Z
+DTSTART:20261215T010000Z
+DTEND:20261215T030000Z
+SUMMARY:Yunchan Lim\, Piano
+DESCRIPTION:All-Mozart PROGRAM\nCost: Not stated\nhttps://www.carnegiehall.
+ org/events
 LOCATION:881 Seventh Ave\, New York\, NY
 URL:https://www.carnegiehall.org/events
 END:VEVENT
