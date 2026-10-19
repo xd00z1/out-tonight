@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T09:00:07-04:00",
+ "generated_at": "2026-10-19T09:04:13-04:00",
  "events": [
   {
    "title": "Atrium Stair: Klára Hosnedlová—Shelter",
@@ -385,37 +385,7 @@
    "first_seen": "2026-10-08",
    "last_seen": "2026-10-08",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juilliard%20Jazz%20Ensembles%3A%20Jazz%20Music%20of%20the%201970%E2%80%99s%3A%20Don%20Pulley%2C%20Charles%20Tolliver%2C%20John%20Hicks%20and%20Thad%20Jones&dates=20261019T190000%2F20261019T221000&details=https%3A%2F%2Fwww.jazz.org%2Fdizzys%2F&location=Broadway%20at%2060th%20Street%2C%20New%20York&ctz=America%2FNew_York",
-   "missed_runs": 7,
-   "url_status": "ok"
-  },
-  {
-   "title": "Juilliard Orchestra Conducted by Jeffrey Milarsky",
-   "start": "2026-10-19T19:30:00-04:00",
-   "end": null,
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": "Juilliard, Alice Tully Hall",
-   "address": null,
-   "neighborhood": "Lincoln Square",
-   "category": "opera_classical",
-   "cost_tier": null,
-   "cost_text": "Not stated",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://www.juilliard.edu/event/185751/juilliard-orchestra-conducted-jeffrey-milarsky",
-   "source_id": "juilliard",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "e333b11a6e7fed13",
-   "entry": null,
-   "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juilliard%20Orchestra%20Conducted%20by%20Jeffrey%20Milarsky&dates=20261019T193000%2F20261019T213000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F185751%2Fjuilliard-orchestra-conducted-jeffrey-milarsky&location=Juilliard%2C%20Alice%20Tully%20Hall&ctz=America%2FNew_York",
-   "missed_runs": 0,
+   "missed_runs": 8,
    "url_status": "ok"
   },
   {
@@ -479,6 +449,36 @@
    "url_status": "blocked"
   },
   {
+   "title": "Juilliard Orchestra Conducted by Jeffrey Milarsky",
+   "start": "2026-10-19T19:30:00-04:00",
+   "end": null,
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Juilliard, Alice Tully Hall",
+   "address": null,
+   "neighborhood": "Lincoln Square",
+   "category": "opera_classical",
+   "cost_tier": null,
+   "cost_text": "Not stated",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://www.juilliard.edu/event/185751/juilliard-orchestra-conducted-jeffrey-milarsky",
+   "source_id": "juilliard",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "e333b11a6e7fed13",
+   "entry": null,
+   "price_min": null,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juilliard%20Orchestra%20Conducted%20by%20Jeffrey%20Milarsky&dates=20261019T193000%2F20261019T213000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F185751%2Fjuilliard-orchestra-conducted-jeffrey-milarsky&location=Juilliard%2C%20Alice%20Tully%20Hall&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
    "title": "Rena Anakwe + Muyassar Kurdi",
    "start": "2026-10-19T20:00:00-04:00",
    "end": null,
@@ -535,7 +535,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Macbeth&dates=20261019T200000%2F20261019T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Juilliard Jazz Ensembles | Jazz Music of the 1970s: Don Pullen, Charles Tolliver, John Hicks, and Thad Jones",
@@ -565,7 +565,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juilliard%20Jazz%20Ensembles%20%7C%20Jazz%20Music%20of%20the%201970s%3A%20Don%20Pullen%2C%20Charles%20Tolliver%2C%20John%20Hicks%2C%20and%20Thad%20Jones&dates=20261019T210000%2F20261019T230000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F185756%2Fjuilliard-jazz-ensembles-jazz-music-1970s-don-pullen-charles-tolliver-john-hicks-and&location=Juilliard%2C%20Dizzy%27s%20Club&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Max Light Quartet",
@@ -653,7 +653,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261020%2F20261021&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "TikTok Level Up: Apps & Gaming Ads Workshop",
@@ -772,7 +772,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rush%20Hour%20Performance%20%7C%20Artist%20Diploma%20Series%3A%20Laura%20Liu&dates=20261020T173000%2F20261020T193000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F187741%2Frush-hour-performance-artist-diploma-series-laura-liu&location=Juilliard%20Station&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Vince Giordano & The Nighthawks",
@@ -864,36 +864,6 @@
    "url_status": "ok"
   },
   {
-   "title": "Kramer/Fauci",
-   "start": "2026-10-20T19:30:00-04:00",
-   "end": "2026-10-20T20:30:00-04:00",
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": null,
-   "address": null,
-   "neighborhood": "DUMBO",
-   "category": "performance",
-   "cost_tier": null,
-   "cost_text": "Not stated",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://stannswarehouse.org/show/kramer-fauci-25/",
-   "source_id": "st_anns",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "6d4d4516f9bdd1e6",
-   "entry": null,
-   "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261020T193000%2F20261020T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-25%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "failed"
-  },
-  {
    "title": "A Benefit for Little Essentials with David Cross & Friends",
    "start": "2026-10-20T19:30:00-04:00",
    "end": null,
@@ -920,6 +890,36 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=A%20Benefit%20for%20Little%20Essentials%20with%20David%20Cross%20%26%20Friends&dates=20261020T193000%2F20261020T213000&details=https%3A%2F%2Fwww.ticketmaster.com%2Fa-benefit-for-little-essentials-with-brooklyn-new-york-10-20-2026%2Fevent%2F30006512E9FA7FBD&location=149%207th%20Street%2C%20Brooklyn&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
+   "title": "Kramer/Fauci",
+   "start": "2026-10-20T19:30:00-04:00",
+   "end": "2026-10-20T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": null,
+   "address": null,
+   "neighborhood": "DUMBO",
+   "category": "performance",
+   "cost_tier": null,
+   "cost_text": "Not stated",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://stannswarehouse.org/show/kramer-fauci-25/",
+   "source_id": "st_anns",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "6d4d4516f9bdd1e6",
+   "entry": null,
+   "price_min": null,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261020T193000%2F20261020T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-25%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "blocked"
   },
@@ -979,7 +979,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Boh%C3%A8me&dates=20261020T193000%2F20261020T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tyler Henderson Quintet featuring Aanya Sengupta",
@@ -1277,7 +1277,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rush%20Hour%20Performance%20%7C%20Sonata%20Forms%3A%20Beethoven%2C%20Schubert%2C%20Scriabin&dates=20261021T173000%2F20261021T193000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F187751%2Frush-hour-performance-sonata-forms-beethoven-schubert-scriabin&location=Juilliard%20Station&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Siena: Behind the Scenes with Giulio Dalvit",
@@ -1306,36 +1306,6 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Siena%3A%20Behind%20the%20Scenes%20with%20Giulio%20Dalvit&dates=20261021T174500%2F20261021T184500&details=https%3A%2F%2Fwww.frick.org%2Fcalendar&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "ok"
-  },
-  {
-   "title": "Sonatenabend",
-   "start": "2026-10-21T18:00:00-04:00",
-   "end": null,
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": "Juilliard, Paul Hall",
-   "address": null,
-   "neighborhood": "Lincoln Square",
-   "category": "opera_classical",
-   "cost_tier": "free",
-   "cost_text": "Free",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://www.juilliard.edu/event/186426/sonatenabend",
-   "source_id": "juilliard",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "cc995ad713ad4919",
-   "entry": "walk_in",
-   "price_min": 0,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonatenabend&dates=20261021T180000%2F20261021T200000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F186426%2Fsonatenabend&location=Juilliard%2C%20Paul%20Hall&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
   },
@@ -1400,6 +1370,36 @@
    "url_status": "ok"
   },
   {
+   "title": "Sonatenabend",
+   "start": "2026-10-21T18:00:00-04:00",
+   "end": null,
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Juilliard, Paul Hall",
+   "address": null,
+   "neighborhood": "Lincoln Square",
+   "category": "opera_classical",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://www.juilliard.edu/event/186426/sonatenabend",
+   "source_id": "juilliard",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "cc995ad713ad4919",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sonatenabend&dates=20261021T180000%2F20261021T200000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F186426%2Fsonatenabend&location=Juilliard%2C%20Paul%20Hall&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
    "title": "Dizzy Gillespie Birthday with Jon Faddis",
    "start": "2026-10-21T19:00:00-04:00",
    "end": "2026-10-21T22:10:00-04:00",
@@ -1460,36 +1460,6 @@
    "url_status": "ok"
   },
   {
-   "title": "Kramer/Fauci",
-   "start": "2026-10-21T19:30:00-04:00",
-   "end": "2026-10-21T20:30:00-04:00",
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": null,
-   "address": null,
-   "neighborhood": "DUMBO",
-   "category": "performance",
-   "cost_tier": null,
-   "cost_text": "Not stated",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://stannswarehouse.org/show/kramer-fauci-26/",
-   "source_id": "st_anns",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "040e0d7de13d18c1",
-   "entry": null,
-   "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261021T193000%2F20261021T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-26%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "failed"
-  },
-  {
    "title": "Brett Goldstein Runs His Hour Before His Tour",
    "start": "2026-10-21T19:30:00-04:00",
    "end": null,
@@ -1516,6 +1486,36 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brett%20Goldstein%20Runs%20His%20Hour%20Before%20His%20Tour&dates=20261021T193000%2F20261021T213000&details=https%3A%2F%2Fwww.ticketmaster.com%2Fbrett-goldstein-runs-his-hour-before-brooklyn-new-york-10-21-2026%2Fevent%2F300064E6E5A07BB8&location=149%207th%20Street%2C%20Brooklyn&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
+   "title": "Kramer/Fauci",
+   "start": "2026-10-21T19:30:00-04:00",
+   "end": "2026-10-21T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": null,
+   "address": null,
+   "neighborhood": "DUMBO",
+   "category": "performance",
+   "cost_tier": null,
+   "cost_text": "Not stated",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://stannswarehouse.org/show/kramer-fauci-26/",
+   "source_id": "st_anns",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "040e0d7de13d18c1",
+   "entry": null,
+   "price_min": null,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261021T193000%2F20261021T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-26%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "blocked"
   },
@@ -1816,36 +1816,6 @@
    "url_status": "ok"
   },
   {
-   "title": "String Quartet Haydn-a-Thon",
-   "start": "2026-10-22T16:00:00-04:00",
-   "end": null,
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": "Juilliard, Morse Hall",
-   "address": null,
-   "neighborhood": "Lincoln Square",
-   "category": "opera_classical",
-   "cost_tier": "free",
-   "cost_text": "Free",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://www.juilliard.edu/event/188251/string-quartet-haydn-thon",
-   "source_id": "juilliard",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "fd9497decae28ef6",
-   "entry": "walk_in",
-   "price_min": 0,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=String%20Quartet%20Haydn-a-Thon&dates=20261022T160000%2F20261022T180000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F188251%2Fstring-quartet-haydn-thon&location=Juilliard%2C%20Morse%20Hall&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "ok"
-  },
-  {
    "title": "Jim Henson Exhibition Guided Tours",
    "start": "2026-10-22T16:00:00-04:00",
    "end": "2026-10-22T16:00:00-04:00",
@@ -1874,6 +1844,36 @@
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jim%20Henson%20Exhibition%20Guided%20Tours&dates=20261022T160000%2F20261022T160000&details=https%3A%2F%2Fmovingimage.org%2Fevent%2F30518%2F2026-10-22%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
+  },
+  {
+   "title": "String Quartet Haydn-a-Thon",
+   "start": "2026-10-22T16:00:00-04:00",
+   "end": null,
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Juilliard, Morse Hall",
+   "address": null,
+   "neighborhood": "Lincoln Square",
+   "category": "opera_classical",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://www.juilliard.edu/event/188251/string-quartet-haydn-thon",
+   "source_id": "juilliard",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "fd9497decae28ef6",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=String%20Quartet%20Haydn-a-Thon&dates=20261022T160000%2F20261022T180000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F188251%2Fstring-quartet-haydn-thon&location=Juilliard%2C%20Morse%20Hall&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
   },
   {
    "title": "Docent Tour: Designed to Be Red",
@@ -1992,7 +1992,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rush%20Hour%20Performance%20%7C%20Artist%20Diploma%20Series%3A%20Jialin%20Yao&dates=20261022T173000%2F20261022T193000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F187756%2Frush-hour-performance-artist-diploma-series-jialin-yao&location=Juilliard%20Station&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Ruth Christopher, Double Bass",
@@ -2022,7 +2022,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ruth%20Christopher%2C%20Double%20Bass&dates=20261022T173000%2F20261022T193000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F188901%2Fruth-christopher-double-bass&location=Juilliard%2C%20Paul%20Hall&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Chelsea gallery receptions",
@@ -2233,36 +2233,6 @@
    "url_status": "ok"
   },
   {
-   "title": "Kramer/Fauci",
-   "start": "2026-10-22T19:30:00-04:00",
-   "end": "2026-10-22T20:30:00-04:00",
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": null,
-   "address": null,
-   "neighborhood": "DUMBO",
-   "category": "performance",
-   "cost_tier": null,
-   "cost_text": "Not stated",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://stannswarehouse.org/show/kramer-fauci-27/",
-   "source_id": "st_anns",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "dec3f0e7e0011bd7",
-   "entry": null,
-   "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261022T193000%2F20261022T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-27%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "failed"
-  },
-  {
    "title": "UpDating",
    "start": "2026-10-22T19:30:00-04:00",
    "end": null,
@@ -2293,6 +2263,36 @@
    "url_status": "blocked"
   },
   {
+   "title": "Kramer/Fauci",
+   "start": "2026-10-22T19:30:00-04:00",
+   "end": "2026-10-22T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": null,
+   "address": null,
+   "neighborhood": "DUMBO",
+   "category": "performance",
+   "cost_tier": null,
+   "cost_text": "Not stated",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://stannswarehouse.org/show/kramer-fauci-27/",
+   "source_id": "st_anns",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "dec3f0e7e0011bd7",
+   "entry": null,
+   "price_min": null,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261022T193000%2F20261022T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-27%2F&location=&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
    "title": "Così fan tutte",
    "start": "2026-10-22T19:30:00-04:00",
    "category": "opera_classical",
@@ -2319,7 +2319,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cos%C3%AC%20fan%20tutte&dates=20261022T193000%2F20261022T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Steve Reich at 90",
@@ -2525,7 +2525,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261023%2F20261024&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -2675,36 +2675,6 @@
    "url_status": "ok"
   },
   {
-   "title": "String Quartet Haydn-a-Thon",
-   "start": "2026-10-23T16:00:00-04:00",
-   "end": null,
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": "Juilliard, Morse Hall",
-   "address": null,
-   "neighborhood": "Lincoln Square",
-   "category": "opera_classical",
-   "cost_tier": "free",
-   "cost_text": "Free",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://www.juilliard.edu/event/188261/string-quartet-haydn-thon",
-   "source_id": "juilliard",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "e53a8941dae2d73a",
-   "entry": "walk_in",
-   "price_min": 0,
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=String%20Quartet%20Haydn-a-Thon&dates=20261023T160000%2F20261023T180000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F188261%2Fstring-quartet-haydn-thon&location=Juilliard%2C%20Morse%20Hall&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "ok"
-  },
-  {
    "title": "Bowery Art Space",
    "start": "2026-10-23T16:00:00-04:00",
    "end": "2026-10-23T18:00:00-04:00",
@@ -2733,6 +2703,36 @@
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bowery%20Art%20Space&dates=20261023T160000%2F20261023T180000&details=https%3A%2F%2Fwww.newmuseum.org%2Fevent%2F10-23-2026%2F&location=New%20Museum&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
+  },
+  {
+   "title": "String Quartet Haydn-a-Thon",
+   "start": "2026-10-23T16:00:00-04:00",
+   "end": null,
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Juilliard, Morse Hall",
+   "address": null,
+   "neighborhood": "Lincoln Square",
+   "category": "opera_classical",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://www.juilliard.edu/event/188261/string-quartet-haydn-thon",
+   "source_id": "juilliard",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "e53a8941dae2d73a",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=String%20Quartet%20Haydn-a-Thon&dates=20261023T160000%2F20261023T180000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F188261%2Fstring-quartet-haydn-thon&location=Juilliard%2C%20Morse%20Hall&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
   },
   {
    "title": "Whitney Free Friday Nights",
@@ -2820,37 +2820,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Huan-Ching%20Chou%2C%20Piano&dates=20261023T173000%2F20261023T193000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F189196%2Fhuan-ching-chou-piano&location=Juilliard%2C%20Paul%20Hall&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
-  },
-  {
-   "title": "Rush Hour Performance",
-   "start": "2026-10-23T18:00:00-04:00",
-   "end": null,
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": "Juilliard Station",
-   "address": null,
-   "neighborhood": "Lincoln Square",
-   "category": "opera_classical",
-   "cost_tier": "free",
-   "cost_text": "Free",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://www.juilliard.edu/event/187761/rush-hour-performance",
-   "source_id": "juilliard",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "5297bdfa86cb5ad4",
-   "entry": "walk_in",
-   "price_min": 0,
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rush%20Hour%20Performance&dates=20261023T180000%2F20261023T200000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F187761%2Frush-hour-performance&location=Juilliard%20Station&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "How to Use Agents and Not Have Them Kill You",
@@ -2883,6 +2853,36 @@
    "url_status": "ok"
   },
   {
+   "title": "Rush Hour Performance",
+   "start": "2026-10-23T18:00:00-04:00",
+   "end": null,
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": "Juilliard Station",
+   "address": null,
+   "neighborhood": "Lincoln Square",
+   "category": "opera_classical",
+   "cost_tier": "free",
+   "cost_text": "Free",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://www.juilliard.edu/event/187761/rush-hour-performance",
+   "source_id": "juilliard",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "5297bdfa86cb5ad4",
+   "entry": "walk_in",
+   "price_min": 0,
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rush%20Hour%20Performance&dates=20261023T180000%2F20261023T200000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F187761%2Frush-hour-performance&location=Juilliard%20Station&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
    "title": "Persona: 60th Anniversary Screening (Co-presented with NewFest)",
    "start": "2026-10-23T18:15:00-04:00",
    "end": "2026-10-23T18:15:00-04:00",
@@ -2909,7 +2909,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Persona%3A%2060th%20Anniversary%20Screening%20%28Co-presented%20with%20NewFest%29&dates=20261023T181500%2F20261023T181500&details=https%3A%2F%2Fmovingimage.org%2Fevent%2Fpersona-60th%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "ok"
   },
   {
@@ -2943,36 +2943,6 @@
    "url_status": "ok"
   },
   {
-   "title": "Kramer/Fauci",
-   "start": "2026-10-23T19:30:00-04:00",
-   "end": "2026-10-23T20:30:00-04:00",
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": null,
-   "address": null,
-   "neighborhood": "DUMBO",
-   "category": "performance",
-   "cost_tier": null,
-   "cost_text": "Not stated",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://stannswarehouse.org/show/kramer-fauci-28/",
-   "source_id": "st_anns",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "858ca0b12a21bbf5",
-   "entry": null,
-   "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261023T193000%2F20261023T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-28%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "failed"
-  },
-  {
    "title": "Sydnee Washington: My Black Barbie Story",
    "start": "2026-10-23T19:30:00-04:00",
    "end": null,
@@ -2999,6 +2969,36 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sydnee%20Washington%3A%20My%20Black%20Barbie%20Story&dates=20261023T193000%2F20261023T213000&details=https%3A%2F%2Fwww.ticketmaster.com%2Fsydnee-washington-my-black-barbie-story-brooklyn-new-york-10-23-2026%2Fevent%2F300065273C85AE0A&location=149%207th%20Street%2C%20Brooklyn&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
+   "title": "Kramer/Fauci",
+   "start": "2026-10-23T19:30:00-04:00",
+   "end": "2026-10-23T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": null,
+   "address": null,
+   "neighborhood": "DUMBO",
+   "category": "performance",
+   "cost_tier": null,
+   "cost_text": "Not stated",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://stannswarehouse.org/show/kramer-fauci-28/",
+   "source_id": "st_anns",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "858ca0b12a21bbf5",
+   "entry": null,
+   "price_min": null,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261023T193000%2F20261023T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-28%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "blocked"
   },
@@ -3058,7 +3058,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cos%C3%AC%20fan%20tutte&dates=20261023T193000%2F20261023T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "TGirl Baseball World Series Game 1 Watch Party + Afterparty with DJs",
@@ -3264,7 +3264,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261024%2F20261025&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -3471,7 +3471,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261024T130000%2F20261024T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Pre-College Piano Performance Forum",
@@ -3501,7 +3501,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pre-College%20Piano%20Performance%20Forum&dates=20261024T130500%2F20261024T150500&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F187576%2Fpre-college-piano-performance-forum&location=Juilliard%2C%20Paul%20Hall&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Bohemian Rhapsody, Viennese Grace: Romantic Piano Trios",
@@ -3551,7 +3551,7 @@
    "url": "https://greenwichhouse.org/event/blue-white-porcelain-painting-workshop/",
    "source_id": "greenwich_house_music",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "142e63e7d9904f57",
@@ -3560,7 +3560,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blue%20%26%20White%20Porcelain%20Painting%20Workshop&dates=20261024T143000%2F20261024T173000&details=https%3A%2F%2Fgreenwichhouse.org%2Fevent%2Fblue-white-porcelain-painting-workshop%2F&location=27%20Barrow%20St.%204th%20Flr.%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -3620,7 +3620,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Exorcist&dates=20261024T150000%2F20261024T150000&details=https%3A%2F%2Fmovingimage.org%2Fevent%2Fthe-exorcist%2F2026-10-24%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "ok"
   },
   {
@@ -3710,7 +3710,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Yuto%20Lim%2C%20Violin&dates=20261024T173000%2F20261024T193000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F188536%2Fyuto-lim-violin&location=Juilliard%2C%20Morse%20Hall&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Preparatory Division Faculty Recital Series | Catherine Birke, Violin; Nico Olarte-Hayes, Cello; Oliver Hagen, Piano",
@@ -3740,37 +3740,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Preparatory%20Division%20Faculty%20Recital%20Series%20%7C%20Catherine%20Birke%2C%20Violin%3B%20Nico%20Olarte-Hayes%2C%20Cello%3B%20Oliver%20Hagen%2C%20Piano&dates=20261024T180000%2F20261024T200000&details=https%3A%2F%2Fwww.juilliard.edu%2Fevent%2F186961%2Fpreparatory-division-faculty-recital-series-catherine-birke-violin-nico-olarte-hayes&location=Juilliard%2C%20Paul%20Hall&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
-  },
-  {
-   "title": "Kramer/Fauci",
-   "start": "2026-10-24T19:30:00-04:00",
-   "end": "2026-10-24T20:30:00-04:00",
-   "all_day": false,
-   "multi_day_end": null,
-   "venue": null,
-   "address": null,
-   "neighborhood": "DUMBO",
-   "category": "performance",
-   "cost_tier": null,
-   "cost_text": "Not stated",
-   "guest_ok": null,
-   "rsvp_required": false,
-   "age_min": null,
-   "url": "https://stannswarehouse.org/show/kramer-fauci-30/",
-   "source_id": "st_anns",
-   "why": null,
-   "confidence": "verified",
-   "kind": "event",
-   "recurring": false,
-   "id": "388aa922ee34b7bd",
-   "entry": null,
-   "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
-   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261024T193000%2F20261024T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-30%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Drunk Bollywood Live!",
@@ -3799,6 +3769,36 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Drunk%20Bollywood%20Live%21&dates=20261024T193000%2F20261024T213000&details=https%3A%2F%2Fwww.ticketmaster.com%2Fdrunk-bollywood-live-brooklyn-new-york-10-24-2026%2Fevent%2F3000652D4D15ED32&location=149%207th%20Street%2C%20Brooklyn&ctz=America%2FNew_York",
+   "missed_runs": 0,
+   "url_status": "blocked"
+  },
+  {
+   "title": "Kramer/Fauci",
+   "start": "2026-10-24T19:30:00-04:00",
+   "end": "2026-10-24T20:30:00-04:00",
+   "all_day": false,
+   "multi_day_end": null,
+   "venue": null,
+   "address": null,
+   "neighborhood": "DUMBO",
+   "category": "performance",
+   "cost_tier": null,
+   "cost_text": "Not stated",
+   "guest_ok": null,
+   "rsvp_required": false,
+   "age_min": null,
+   "url": "https://stannswarehouse.org/show/kramer-fauci-30/",
+   "source_id": "st_anns",
+   "why": null,
+   "confidence": "verified",
+   "kind": "event",
+   "recurring": false,
+   "id": "388aa922ee34b7bd",
+   "entry": null,
+   "price_min": null,
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kramer%2FFauci&dates=20261024T193000%2F20261024T203000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fkramer-fauci-30%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "blocked"
   },
@@ -3859,7 +3859,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Boh%C3%A8me&dates=20261024T200000%2F20261024T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -4146,7 +4146,7 @@
    "url": "https://www.scandinaviahouse.org/event/scandinavian-everyday-cooking-food-demo-book-talk/",
    "source_id": "scandinavia_house",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "29f6a5b05a442c6e",
@@ -4155,7 +4155,7 @@
    "first_seen": "2026-10-08",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scandinavian%20Everyday%20Cooking%20%7C%20Food%20Demo%20%26%20Book%20Talk&dates=20261025T150000%2F20261025T170000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fscandinavian-everyday-cooking-food-demo-book-talk%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -4629,7 +4629,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261026T193000%2F20261026T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Nicole Linder + Jasmine Sanders",
@@ -4867,7 +4867,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261027%2F20261028&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -5370,7 +5370,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=La%20Boh%C3%A8me&dates=20261028T200000%2F20261028T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Julio Torres Presents: The Cursed Amulet III",
@@ -5518,7 +5518,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261029%2F20261030&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -5962,7 +5962,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261029T193000%2F20261029T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Wunderkammer: A Taxidermy Showcase and Competition",
@@ -6110,7 +6110,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Medea&dates=20261030%2F20261031&details=Pre-show%20party%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Whiskey Washback",
@@ -6168,7 +6168,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261030%2F20261031&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -6462,7 +6462,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Medea&dates=20261030T193000%2F20261030T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "hABBAween",
@@ -6610,7 +6610,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261031%2F20261101&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -6757,7 +6757,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Medea&dates=20261031T130000%2F20261031T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Special Solo Piano Concert for Halloween with Rob Schwimmer",
@@ -6875,7 +6875,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261031T200000%2F20261031T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -7041,7 +7041,7 @@
    "url": "https://www.elsewhere.club/",
    "source_id": "elsewhere",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "9d7a8c649a8aa01c",
@@ -7050,7 +7050,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fever%20x%20Frisky%3A%20Afterhours%20Revolution&dates=20261101T040000%2F20261101T140000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -7199,7 +7199,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261101T150000%2F20261101T170000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -7348,7 +7348,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261101T193000%2F20261101T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Paul Nedzela",
@@ -7635,7 +7635,7 @@
    "url": "https://www.scandinaviahouse.org/event/adult-supervision-nordic-baltic-oscar-contenders/",
    "source_id": "scandinavia_house",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "1d180f5dcbc7751c",
@@ -7644,7 +7644,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adult%20Supervision%20%7C%20Nordic%20%26%20Baltic%20Oscar%20Contenders&dates=20261102T190000%2F20261102T213000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fadult-supervision-nordic-baltic-oscar-contenders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -7733,7 +7733,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261103%2F20261104&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -7852,7 +7852,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261103T193000%2F20261103T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-2%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Lincoln in the Bardo (world premiere)",
@@ -7881,7 +7881,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261103T193000%2F20261103T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Gabriel and Eytan Schillinger-Hyman Jazz Quartet",
@@ -8109,7 +8109,7 @@
    "url": "https://www.scandinaviahouse.org/event/the-ground-beneath-our-feet-nordic-baltic-oscar-contenders/",
    "source_id": "scandinavia_house",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "b16c4c155bebbe67",
@@ -8118,7 +8118,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Ground%20Beneath%20Our%20Feet%20%7C%20Nordic%20%26%20Baltic%20Oscar%20Contenders&dates=20261104T190000%2F20261104T213000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fthe-ground-beneath-our-feet-nordic-baltic-oscar-contenders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -8149,7 +8149,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261104T193000%2F20261104T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-3%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -8178,7 +8178,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261104T193000%2F20261104T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Punch Brothers",
@@ -8621,7 +8621,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Earth%20to%20Emily&dates=20261105T190000%2F20261105T220000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "ok"
   },
   {
@@ -8681,7 +8681,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261105T193000%2F20261105T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-4%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Alisa Weilerstein: FRAGMENTS 6",
@@ -8768,7 +8768,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Orchestra%20Chamber%20Ensemble&dates=20261105T193000%2F20261105T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Orchestra of St. Luke’s",
@@ -9003,7 +9003,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261106%2F20261107&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -9356,7 +9356,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261106T193000%2F20261106T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-5%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Jean Rondeau, Harpsichord",
@@ -9414,7 +9414,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261106T200000%2F20261106T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -9559,7 +9559,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261107%2F20261108&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -9676,7 +9676,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261107T130000%2F20261107T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Baltic Shorts | Nybff",
@@ -9855,7 +9855,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261107T193000%2F20261107T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-7%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -9884,7 +9884,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261107T200000%2F20261107T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -10474,7 +10474,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261109T193000%2F20261109T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tsutomu Nakai",
@@ -10562,7 +10562,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261110%2F20261111&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -10798,7 +10798,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261110T193000%2F20261110T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Kelly Green Quartet",
@@ -11153,7 +11153,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261111T193000%2F20261111T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Axel Tosca’s Cuban Jam",
@@ -11389,7 +11389,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Seasiders%20%7C%20Films%20from%20the%20Fjords&dates=20261112T173000%2F20261112T193000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fseasiders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "ok"
   },
   {
@@ -11598,7 +11598,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261112T193000%2F20261112T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-13%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -11716,7 +11716,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261113%2F20261114&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -11745,7 +11745,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261113%2F20261114&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -12030,7 +12030,7 @@
    "url": "https://greenwichhouse.org/event/alex-saraceno-scriabin-preludes-poemes/",
    "source_id": "greenwich_house_music",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "6be4ae6639784fef",
@@ -12039,7 +12039,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alex%20Saraceno%3A%20Scriabin%3A%20Preludes%20%26%20Po%C3%A8mes&dates=20261113T190000%2F20261113T190000&details=https%3A%2F%2Fgreenwichhouse.org%2Fevent%2Falex-saraceno-scriabin-preludes-poemes%2F&location=46%20Barrow%20Street%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -12099,7 +12099,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261113T193000%2F20261113T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-14%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca in concert (Puccini)",
@@ -12157,7 +12157,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261113T193000%2F20261113T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -12303,7 +12303,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261114%2F20261115&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -12420,7 +12420,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261114T130000%2F20261114T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Toad Mountain | Work-in-Progress by Jie-Hung Connie Shiau",
@@ -12619,7 +12619,7 @@
    "url": "https://www.elsewhere.club/",
    "source_id": "elsewhere",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "6037af5167ea337c",
@@ -12628,7 +12628,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mother%20Soki&dates=20261114T190000%2F20261114T220000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -12688,7 +12688,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261114T193000%2F20261114T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-16%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Lincoln in the Bardo (world premiere)",
@@ -12717,7 +12717,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Lincoln%20in%20the%20Bardo%20%28world%20premiere%29&dates=20261114T200000%2F20261114T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -13306,7 +13306,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261116T193000%2F20261116T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Misha Piatigorsky",
@@ -13394,7 +13394,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261117%2F20261118&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Nerve Impulses on the High-Voltage Power Line | Book Talk",
@@ -13601,7 +13601,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261117T193000%2F20261117T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Kieran Brown Quartet",
@@ -13690,7 +13690,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny%20O%E2%80%99Neal%20Trio&dates=20261118%2F20261119&details=https%3A%2F%2Fwww.zincbar.com%2Fevent%2Fjohnny-oneal-trio-7%2F&location=Zinc%20Bar&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "failed"
   },
   {
@@ -13770,7 +13770,7 @@
    "url": "https://www.explorers.org/calendar-of-events/dispatches-from-the-field-robert-steven-bianchi/",
    "source_id": "explorers_club",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "e819eec184cd8001",
@@ -13779,7 +13779,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dispatches%20from%20the%20Field%3A%20Robert%20Steven%20Bianchi&dates=20261118T120000%2F20261118T130000&details=https%3A%2F%2Fwww.explorers.org%2Fcalendar-of-events%2Fdispatches-from-the-field-robert-steven-bianchi%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -13987,7 +13987,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Asmik%20Grigorian%20in%20concert&dates=20261118T193000%2F20261118T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Axel Tosca’s Cuban Jam",
@@ -14491,7 +14491,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261119T193000%2F20261119T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-21%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -14520,7 +14520,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261119T200000%2F20261119T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -14667,7 +14667,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261120%2F20261121&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -14872,7 +14872,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tristan%20%26%20Yseult&dates=20261120T193000%2F20261120T213000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Ftristan-yseult-22%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "The New York Pops",
@@ -14930,7 +14930,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261120T200000%2F20261120T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -14988,7 +14988,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261121%2F20261122&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -15135,7 +15135,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261121T130000%2F20261121T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Siri Hustvedt – Dance Around the Self",
@@ -15312,7 +15312,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261121T200000%2F20261121T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -15636,7 +15636,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261123%2F20261124&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -15783,7 +15783,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261123T193000%2F20261123T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "April Varner Quartet",
@@ -15871,7 +15871,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261124%2F20261125&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -15989,7 +15989,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261124T193000%2F20261124T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dion Berardo Trio",
@@ -16039,7 +16039,7 @@
    "url": "https://www.zincbar.com/event/william-hill-iii-trio-13/",
    "source_id": "zinc_bar",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "f5d9cf25ebc3587e",
@@ -16048,7 +16048,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=William%20Hill%20III%20Trio&dates=20261125%2F20261126&details=https%3A%2F%2Fwww.zincbar.com%2Fevent%2Fwilliam-hill-iii-trio-13%2F&location=Zinc%20Bar&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "failed"
   },
   {
@@ -16401,7 +16401,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261127%2F20261128&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -16605,7 +16605,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samson%20et%20Dalila&dates=20261127T193000%2F20261127T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "STAMPED",
@@ -16693,7 +16693,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261128%2F20261129&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -16722,7 +16722,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261128%2F20261129&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -16809,7 +16809,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261128T130000%2F20261128T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "“Divertimento”: string trios by Mozart and Beethoven",
@@ -16868,7 +16868,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261128T200000%2F20261128T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -17191,7 +17191,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261130T193000%2F20261130T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Hjordys",
@@ -17250,7 +17250,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261201%2F20261202&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -17308,7 +17308,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261201%2F20261202&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Carnegie Hall Notables $20 tickets on sale",
@@ -17454,7 +17454,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samson%20et%20Dalila&dates=20261201T193000%2F20261201T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Hamish Smith Quartet",
@@ -17954,7 +17954,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261203T193000%2F20261203T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Renée Fleming with Béla Fleck",
@@ -18041,7 +18041,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Jenufa&dates=20261204%2F20261205&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -18070,7 +18070,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261204%2F20261205&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -18273,7 +18273,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20First%20Fridays&dates=20261204T173000%2F20261204T210000&details=Free%20evening%20at%20the%20Frick%2C%20monthly%20https%3A%2F%2Fwww.frick.org%2Fvisit&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "failed"
   },
   {
    "title": "Saigon",
@@ -18332,7 +18332,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Jen%C5%AFfa&dates=20261204T193000%2F20261204T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Laylit",
@@ -18361,7 +18361,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laylit&dates=20261204T220000%2F20261205T040000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "ok"
   },
   {
@@ -18449,7 +18449,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261205%2F20261206&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -18507,7 +18507,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samson%20et%20Dalila&dates=20261205T120000%2F20261205T140000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Flatiron Wines Saturday tasting",
@@ -18654,7 +18654,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261205T200000%2F20261205T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -18888,7 +18888,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria%20Stuarda&dates=20261206T150000%2F20261206T170000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -19211,7 +19211,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261208%2F20261209&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -19359,7 +19359,7 @@
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Saigon&dates=20261208T190000%2F20261208T222000&details=https%3A%2F%2Fstannswarehouse.org%2Fshow%2Fsaigon-5%2F&location=&ctz=America%2FNew_York",
    "missed_runs": 0,
-   "url_status": "failed"
+   "url_status": "blocked"
   },
   {
    "title": "Ariel Quartet",
@@ -19417,7 +19417,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria%20Stuarda&dates=20261208T193000%2F20261208T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -19565,7 +19565,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria%20Stuarda&dates=20261209T193000%2F20261209T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -19799,7 +19799,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20261210T193000%2F20261210T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -19857,7 +19857,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261211%2F20261212&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -19886,7 +19886,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261211%2F20261212&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -20090,7 +20090,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261211T190000%2F20261211T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Chatroom: bloodsports (DJ Set ) - Free w/ RSVP",
@@ -20208,7 +20208,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261212%2F20261213&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -20325,7 +20325,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261212T130000%2F20261212T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Holiday Concert: Opus 18, Beethoven and Brahms",
@@ -20443,7 +20443,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria%20Stuarda&dates=20261212T200000%2F20261212T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -20617,7 +20617,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261213T140000%2F20261213T160000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -20880,7 +20880,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261215%2F20261216&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Frick Jan to May concerts on sale",
@@ -21026,7 +21026,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria%20Stuarda&dates=20261215T193000%2F20261215T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Met Opera Under 40 night",
@@ -21055,7 +21055,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20Under%2040%20night&dates=20261216%2F20261217&details=Wine%20and%20food%20before%20the%20opera%20https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -21113,7 +21113,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261216T193000%2F20261216T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -21288,7 +21288,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261217T190000%2F20261217T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "New Museum pay-what-you-wish Thursday",
@@ -21375,7 +21375,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261218%2F20261219&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -21549,7 +21549,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Maria%20Stuarda&dates=20261218T193000%2F20261218T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The New York Pops",
@@ -21665,7 +21665,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261219%2F20261220&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -21752,7 +21752,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261219T130000%2F20261219T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Conrad Tao",
@@ -21955,7 +21955,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261220T140000%2F20261220T160000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -22187,7 +22187,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261222%2F20261223&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -22274,7 +22274,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261222T193000%2F20261222T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -22332,7 +22332,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261223T193000%2F20261223T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -22419,7 +22419,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261224T120000%2F20261224T140000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "ICP $5 Thursday",
@@ -22593,7 +22593,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261225%2F20261226&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -22796,7 +22796,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20261226%2F20261227&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -22854,7 +22854,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261226T120000%2F20261226T140000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Flatiron Wines Saturday tasting",
@@ -23086,7 +23086,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261228T110000%2F20261228T130000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Vince Giordano & The Nighthawks",
@@ -23202,7 +23202,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20261229%2F20261230&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -23318,7 +23318,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20261230T120000%2F20261230T140000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -23521,7 +23521,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270101%2F20270102&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -23782,7 +23782,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270102%2F20270103&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -23840,7 +23840,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Die%20Zauberflote%20Reduction&dates=20270102T120000%2F20270102T140000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Flatiron Wines Saturday tasting",
@@ -24159,7 +24159,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20270105%2F20270106&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -24275,7 +24275,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270106T193000%2F20270106T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -24478,7 +24478,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270108%2F20270109&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -24681,7 +24681,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270109%2F20270110&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -24768,7 +24768,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270109T130000%2F20270109T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -24826,7 +24826,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Costume%20Art%3A%20last%20day&dates=20270110%2F20270111&details=https%3A%2F%2Fwww.metmuseum.org%2Fen%2Fpress-releases%2Fcostume-institute-spring-2026&location=The%20Met&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum free Sunday",
@@ -25174,7 +25174,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20270112%2F20270113&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -25290,7 +25290,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270112T190000%2F20270112T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -25522,7 +25522,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270115%2F20270116&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -25696,7 +25696,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270115T190000%2F20270115T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -25754,7 +25754,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270116%2F20270117&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -25928,7 +25928,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270117T150000%2F20270117T170000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -26160,7 +26160,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20270119%2F20270120&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -26653,7 +26653,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Tosca&dates=20270122%2F20270123&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Met open late",
@@ -26682,7 +26682,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270122%2F20270123&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -26856,7 +26856,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270122T190000%2F20270122T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -26914,7 +26914,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270123%2F20270124&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -27088,7 +27088,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270124T150000%2F20270124T170000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -27291,7 +27291,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20270126%2F20270127&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -27668,7 +27668,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270129%2F20270130&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -27842,7 +27842,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270129T190000%2F20270129T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Dizzy's Club Late Night Session",
@@ -27900,7 +27900,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270130%2F20270131&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -28248,7 +28248,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20270202%2F20270203&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -28625,7 +28625,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270205%2F20270206&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -28828,7 +28828,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20First%20Fridays&dates=20270205T173000%2F20270205T210000&details=Free%20evening%20at%20the%20Frick%2C%20monthly%20https%3A%2F%2Fwww.frick.org%2Fvisit&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "failed"
   },
   {
    "title": "Caroline Shaw / Attacca Quartet",
@@ -28973,7 +28973,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270206%2F20270207&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -29321,7 +29321,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arturo%20O%27Farrill%20Afro%20Latin%20Jazz%20Orchestra&dates=20270209%2F20270210&details=Every%20Tuesday%20https%3A%2F%2Fthepocketnyc.com%2F&location=The%20Pocket&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
@@ -29698,7 +29698,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270212%2F20270213&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Studio Museum open late",
@@ -29930,7 +29930,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Met%20open%20late&dates=20270213%2F20270214&details=Open%20until%209pm%20Fridays%20and%20Saturdays%20https%3A%2F%2Fwww.metmuseum.org%2Fplan-your-visit&location=1000%20Fifth%20Ave%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Django",
@@ -31467,7 +31467,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Manon&dates=20270326%2F20270327&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Rostropovich Centenary Gala",
@@ -32250,7 +32250,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270416T190000%2F20270416T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Lang Lang, Piano",
@@ -32308,7 +32308,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270417T130000%2F20270417T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Annual Joan and Sanford I. Weill Tribute Concert Marmen Quartet",
@@ -32366,7 +32366,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270422T190000%2F20270422T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Met Opera student night: Aida",
@@ -32395,7 +32395,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Met%20Opera%20student%20night%3A%20Aida&dates=20270423%2F20270424&details=https%3A%2F%2Fwww.metopera.org%2F&location=Metropolitan%20Opera&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Martha Argerich, Piano",
@@ -32482,7 +32482,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270424T200000%2F20270424T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -32511,7 +32511,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270425T150000%2F20270425T170000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Martha Argerich, Piano",
@@ -32598,7 +32598,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270428T190000%2F20270428T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Knights",
@@ -32685,7 +32685,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270429T190000%2F20270429T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Bang on a Can Long Play",
@@ -32714,7 +32714,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bang%20on%20a%20Can%20Long%20Play&dates=20270430%2F20270503&details=https%3A%2F%2Fbangonacan.org%2Flong-play%2F&location=Downtown%20Brooklyn&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -32743,7 +32743,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270430T193000%2F20270430T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Yuja Wang, Piano",
@@ -32801,7 +32801,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270501T130000%2F20270501T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Alessandro in concert (Handel)",
@@ -32888,7 +32888,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270502T150000%2F20270502T170000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -32917,7 +32917,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270504T200000%2F20270504T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Ensemble Connect Up Close",
@@ -33091,7 +33091,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270507T193000%2F20270507T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -33120,7 +33120,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270508T130000%2F20270508T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "The Westerlies with Sam Amidon",
@@ -33381,7 +33381,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270514T190000%2F20270514T210000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Tosca",
@@ -33410,7 +33410,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270515T130000%2F20270515T150000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Ringdown and Decoda",
@@ -33555,7 +33555,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270518T193000%2F20270518T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "NYCB Spring Party",
@@ -33729,7 +33729,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270522T200000%2F20270522T220000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "Gautier Capuçon, Cello",
@@ -33874,7 +33874,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tosca&dates=20270527T193000%2F20270527T213000&details=https%3A%2F%2Fwww.metopera.org%2Fcalendar%2F&location=30%20Lincoln%20Center%20Plaza%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "ok"
+   "url_status": "blocked"
   },
   {
    "title": "MoMA Party in the Garden after-party",

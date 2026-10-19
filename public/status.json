@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-19T09:00:07-04:00",
- "duration_s": 228.2,
+ "generated_at": "2026-10-19T09:04:13-04:00",
+ "duration_s": 238.9,
  "counts": {
-  "ok": 20,
+  "ok": 18,
   "empty": 1,
-  "failed": 0,
+  "failed": 2,
   "link": 179,
   "skipped": 0,
   "disabled": 0
@@ -224,10 +224,10 @@
    "id": "juilliard",
    "url": "https://www.juilliard.edu/stage-beyond/performance/calendar",
    "method": "cards",
-   "result": "ok",
-   "http_status": 200,
-   "count": 15,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-19"
   },
   {
@@ -1354,10 +1354,10 @@
    "id": "st_anns",
    "url": "https://stannswarehouse.org/",
    "method": "tribe",
-   "result": "ok",
-   "http_status": 200,
-   "count": 40,
-   "error": null,
+   "result": "failed",
+   "http_status": 403,
+   "count": 0,
+   "error": "HTTP 403",
    "last_success": "2026-10-19"
   },
   {
