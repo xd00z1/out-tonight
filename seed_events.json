@@ -631,6 +631,18 @@
   "multi_day_end": "2026-11-21"
  },
  {
+  "title": "Recital: Deepa Johnny & Jonathan Ware",
+  "start": "2026-11-19",
+  "multi_day_end": "2026-11-21",
+  "category": "opera_classical",
+  "url": "https://www.armoryonpark.org/season-events/event-series/recital-series/",
+  "venue": "Park Avenue Armory, Board of Officers Room",
+  "why": "Mezzo-soprano, North American recital debut",
+  "address": "643 Park Ave, New York, NY",
+  "neighborhood": "Upper East Side",
+  "cost_text": "Not stated"
+ },
+ {
   "title": "PoetryFest",
   "start": "2026-11-20",
   "category": "books_talks",
@@ -718,6 +730,18 @@
   "neighborhood": "Lincoln Square"
  },
  {
+  "title": "Steven Schick & Tyshawn Sorey (world premiere)",
+  "start": "2026-12-04",
+  "multi_day_end": "2026-12-05",
+  "category": "jazz_music",
+  "url": "https://www.armoryonpark.org/season-events/2026-season/recital-series/steven-schick-tyshawn-sorey/",
+  "venue": "Park Avenue Armory",
+  "why": "New evening-length percussion piece. Sources differ on the room (Veterans Room vs Board of Officers Room)",
+  "address": "643 Park Ave, New York, NY",
+  "neighborhood": "Upper East Side",
+  "cost_text": "Not stated"
+ },
+ {
   "title": "Anthony Hervey Septet",
   "start": "2026-12-05",
   "category": "jazz_music",
@@ -740,6 +764,19 @@
   "why": "Sets 5:30 and 8:30"
  },
  {
+  "title": "Marina Abramović: Balkan Erotic Epic",
+  "start": "2026-12-08",
+  "multi_day_end": "2026-12-20",
+  "category": "performance",
+  "url": "https://www.armoryonpark.org/season-events/2026-season/balkan-erotic-epic/",
+  "venue": "Park Avenue Armory, Drill Hall",
+  "age_min": 18,
+  "why": "Four-hour immersive performance, North American premiere. Full nudity",
+  "address": "643 Park Ave, New York, NY",
+  "neighborhood": "Upper East Side",
+  "cost_text": "Not stated"
+ },
+ {
   "title": "Vince Giordano & The Nighthawks",
   "start": "2026-12-08T17:30:00-05:00",
   "category": "jazz_music",
@@ -750,6 +787,18 @@
   "address": "315 W 44th St, New York, NY",
   "neighborhood": "Midtown",
   "why": "Sets 5:30 and 8:30"
+ },
+ {
+  "title": "Balkan Erotic Epic installation",
+  "start": "2026-12-09",
+  "multi_day_end": "2026-12-19",
+  "category": "performance",
+  "url": "https://www.armoryonpark.org/season-events/2026-season/installation-balkan-erotic-epic/",
+  "venue": "Park Avenue Armory",
+  "why": "Tue to Sat, noon to 4pm; closed Sun and Mon",
+  "address": "643 Park Ave, New York, NY",
+  "neighborhood": "Upper East Side",
+  "cost_text": "Not stated"
  },
  {
   "title": "Met Opera Under 40 night",

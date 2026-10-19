@@ -113,7 +113,7 @@ sources:
   - {id: leslie_lohman, url: "https://www.leslielohman.org/", category: museums, neighborhood: "SoHo", method: link, probe: "200 no structured events"}
   - {id: tenement, url: "https://www.tenement.org/events/", category: museums, neighborhood: "Lower East Side", method: link, probe: "403 HTTP 403"}
   - {id: the_shed, url: "https://theshed.org/program", category: performance, neighborhood: "Hudson Yards", method: link, probe: "200 no structured events"}
-  - {id: armory, url: "https://www.armoryonpark.org/programs_events", category: performance, neighborhood: "Upper East Side", method: link, probe: "403 HTTP 403"}
+  - {id: armory, url: "https://www.armoryonpark.org/season-events/current-season/", note: "Cloudflare blocks scripts; upcoming shows are hand-entered in seed_events.json", category: performance, neighborhood: "Upper East Side", method: link, probe: "403 HTTP 403"}
   - {id: dia, url: "https://www.diaart.org/", category: museums, neighborhood: "Chelsea", method: link, probe: "200 no structured events"}
   - {id: sculpturecenter, url: "https://www.sculpture-center.org/", category: openings, neighborhood: "Long Island City", method: link, probe: "200 no structured events"}
   - {id: white_columns, url: "https://whitecolumns.org/", category: openings, neighborhood: "West Village", method: link, probe: "200 no structured events"}
