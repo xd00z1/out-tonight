@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T00:20:04-04:00",
+ "generated_at": "2026-10-20T01:05:52-04:00",
  "events": [
   {
    "title": "Atrium Stair: Klára Hosnedlová—Shelter",
@@ -2438,7 +2438,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Persona%3A%2060th%20Anniversary%20Screening%20%28Co-presented%20with%20NewFest%29&dates=20261023T181500%2F20261023T181500&details=https%3A%2F%2Fmovingimage.org%2Fevent%2Fpersona-60th%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 6,
+   "missed_runs": 7,
    "url_status": "ok"
   },
   {
@@ -3043,7 +3043,7 @@
    "end": "2026-10-24T14:00:00-04:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -3058,11 +3058,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "c3e131f5c96bfa92",
+   "id": "d7cb805916b5fa82",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bohemian%20Rhapsody%2C%20Viennese%20Grace%3A%20Romantic%20Piano%20Trios&dates=20261024T140000%2F20261024T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fbeethoven-and-brahms-trios-of-titans%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -3094,7 +3094,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Blue%20%26%20White%20Porcelain%20Painting%20Workshop&dates=20261024T143000%2F20261024T173000&details=https%3A%2F%2Fgreenwichhouse.org%2Fevent%2Fblue-white-porcelain-painting-workshop%2F&location=27%20Barrow%20St.%204th%20Flr.%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -3154,7 +3154,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Exorcist&dates=20261024T150000%2F20261024T150000&details=https%3A%2F%2Fmovingimage.org%2Fevent%2Fthe-exorcist%2F2026-10-24%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 6,
+   "missed_runs": 7,
    "url_status": "ok"
   },
   {
@@ -3579,7 +3579,7 @@
    "end": "2026-10-25T14:00:00-04:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -3594,11 +3594,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "57b3ee54d8ecbd6b",
+   "id": "5ca75838a9ed05da",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bohemian%20Rhapsody%2C%20Viennese%20Grace%3A%20Romantic%20Piano%20Trios&dates=20261025T140000%2F20261025T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fshadow-and-light-piano-trios-of-beethoven-and-brahms%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -3660,7 +3660,7 @@
    "first_seen": "2026-10-08",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Scandinavian%20Everyday%20Cooking%20%7C%20Food%20Demo%20%26%20Book%20Talk&dates=20261025T150000%2F20261025T170000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fscandinavian-everyday-cooking-food-demo-book-talk%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -6369,7 +6369,7 @@
    "end": "2026-10-31T14:00:00-04:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -6384,11 +6384,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "0e92e5a504977046",
+   "id": "98b1ed7485e4fd44",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Special%20Solo%20Piano%20Concert%20for%20Halloween%20with%20Rob%20Schwimmer&dates=20261031T140000%2F20261031T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fspecial-halloween-concert-with-rob-schwimmer%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -6655,7 +6655,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Fever%20x%20Frisky%3A%20Afterhours%20Revolution&dates=20261101T040000%2F20261101T140000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -6753,7 +6753,7 @@
    "end": "2026-11-01T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -6768,11 +6768,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "a438f2dc74896d4a",
+   "id": "d8e00719d2df173b",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete%20Piano%20Sonatas%20of%20Beethoven%20with%20Conversation%2C%20Part%207%3A%20%E2%80%9CYears%20of%20Pain%20and%20Struggle%E2%80%9D&dates=20261101T140000%2F20261101T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fcomplete-piano-sonatas-of-beethoven-with-conversation-part-7-years-of-pain-and-struggle%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -7250,7 +7250,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adult%20Supervision%20%7C%20Nordic%20%26%20Baltic%20Oscar%20Contenders&dates=20261102T190000%2F20261102T213000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fadult-supervision-nordic-baltic-oscar-contenders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -7725,7 +7725,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Ground%20Beneath%20Our%20Feet%20%7C%20Nordic%20%26%20Baltic%20Oscar%20Contenders&dates=20261104T190000%2F20261104T213000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fthe-ground-beneath-our-feet-nordic-baltic-oscar-contenders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -8230,7 +8230,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Earth%20to%20Emily&dates=20261105T190000%2F20261105T220000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 6,
+   "missed_runs": 7,
    "url_status": "ok"
   },
   {
@@ -9330,7 +9330,7 @@
    "end": "2026-11-07T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -9345,11 +9345,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "37a674407d1ca7d5",
+   "id": "20dabe5af90b1d97",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Complete%20Piano%20Sonatas%20of%20Beethoven%20with%20Conversation%2C%20Part%208%3A%20%E2%80%9CA%20New%20Vision%E2%80%9D&dates=20261107T140000%2F20261107T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fcomplete-piano-sonatas-of-beethoven-with-conversation-part-8-a-new-vision%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -9773,7 +9773,7 @@
    "end": "2026-11-08T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -9788,11 +9788,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "c855d677fffabb27",
+   "id": "4efb18e2c985a8aa",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Ursula%20Oppens%2FJerome%20Lowenthal%20Joint%20Piano%20Concert&dates=20261108T140000%2F20261108T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fursula-oppens-jerome-lowenthal-joint-piano-concert%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -11012,7 +11012,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Seasiders%20%7C%20Films%20from%20the%20Fjords&dates=20261112T173000%2F20261112T193000&details=https%3A%2F%2Fwww.scandinaviahouse.org%2Fevent%2Fseasiders%2F&location=58%20Park%20Avenue%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 6,
+   "missed_runs": 7,
    "url_status": "ok"
   },
   {
@@ -11662,7 +11662,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alex%20Saraceno%3A%20Scriabin%3A%20Preludes%20%26%20Po%C3%A8mes&dates=20261113T190000%2F20261113T190000&details=https%3A%2F%2Fgreenwichhouse.org%2Fevent%2Falex-saraceno-scriabin-preludes-poemes%2F&location=46%20Barrow%20Street%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -11899,7 +11899,7 @@
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20Garden%20Court%20concert&dates=20261114%2F20261115&details=https%3A%2F%2Fwww.frick.org%2Fprograms%2Fconcerts&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "failed"
+   "url_status": "ok"
   },
   {
    "title": "The Met open late",
@@ -12114,7 +12114,7 @@
    "end": "2026-11-14T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -12129,11 +12129,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "bdfb4341c16a98c0",
+   "id": "7db2a5cdd31f4414",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bach%2C%20Bartok%2C%20LeClair%20and%20more%20for%202%20violins%2C%20violin%2Fviola%2C%20and%20solo%20violin&dates=20261114T140000%2F20261114T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fvienna-synergy-mozart-quintets-and-beethoven-quartets%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -12254,7 +12254,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mother%20Soki&dates=20261114T190000%2F20261114T220000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "ok"
   },
   {
@@ -12529,7 +12529,7 @@
    "end": "2026-11-15T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -12544,11 +12544,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "8dc2526789faad1d",
+   "id": "a6bf80206b517221",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Duo%20Piano%20Recital%20with%20Alexander%20Peskanov%20and%20Coady%20Green&dates=20261115T140000%2F20261115T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fvienna-synergy-quintets-and-quartets-of-mozart-and-beethoven%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -13353,7 +13353,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Johnny%20O%E2%80%99Neal%20Trio&dates=20261118%2F20261119&details=https%3A%2F%2Fwww.zincbar.com%2Fevent%2Fjohnny-oneal-trio-7%2F&location=Zinc%20Bar&ctz=America%2FNew_York",
-   "missed_runs": 5,
+   "missed_runs": 6,
    "url_status": "failed"
   },
   {
@@ -13442,7 +13442,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dispatches%20from%20the%20Field%3A%20Robert%20Steven%20Bianchi&dates=20261118T120000%2F20261118T130000&details=https%3A%2F%2Fwww.explorers.org%2Fcalendar-of-events%2Fdispatches-from-the-field-robert-steven-bianchi%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 4,
+   "missed_runs": 5,
    "url_status": "ok"
   },
   {
@@ -14567,7 +14567,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Brooke%20Candy&dates=20261120T190000%2F20261120T223000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 2,
+   "missed_runs": 3,
    "url_status": "ok"
   },
   {
@@ -14902,7 +14902,7 @@
    "end": "2026-11-21T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -14917,11 +14917,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "30d69b88673b41c4",
+   "id": "cd9655e8afa74bad",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%E2%80%9CA%20Kaleidoscope%20of%20Favorites%E2%80%9D%3A%20piano%20recital%20with%20Asiya%20Korepanova&dates=20261121T140000%2F20261121T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fa-kaleidoscope-of-favorites-piano-recital-with-asiya-korepanova%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -15131,7 +15131,7 @@
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20Garden%20Court%20concert&dates=20261122%2F20261123&details=https%3A%2F%2Fwww.frick.org%2Fprograms%2Fconcerts&location=1%20E%2070th%20St%2C%20New%20York%2C%20NY&ctz=America%2FNew_York",
-   "url_status": "failed"
+   "url_status": "ok"
   },
   {
    "title": "Studio Museum free Sunday",
@@ -15227,7 +15227,7 @@
    "end": "2026-11-22T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -15242,11 +15242,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "eb5e668a298cfe98",
+   "id": "41116e759d90c03f",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Candide%20Quartet%20Plays%20Beethoven%2C%20Bartok%2C%20and%20Vrebalov&dates=20261122T140000%2F20261122T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fcandide-quartet-plays-beethoven-bartok-and-vrebalov%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -15811,7 +15811,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-15",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=William%20Hill%20III%20Trio&dates=20261125%2F20261126&details=https%3A%2F%2Fwww.zincbar.com%2Fevent%2Fwilliam-hill-iii-trio-13%2F&location=Zinc%20Bar&ctz=America%2FNew_York",
-   "missed_runs": 4,
+   "missed_runs": 5,
    "url_status": "failed"
   },
   {
@@ -16389,7 +16389,7 @@
    "url": "https://www.elsewhere.club/",
    "source_id": "elsewhere",
    "why": null,
-   "confidence": "verified",
+   "confidence": "carried",
    "kind": "event",
    "recurring": false,
    "id": "40e7107dbf2efcf1",
@@ -16398,7 +16398,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=STAMPED&dates=20261127T220000%2F20261128T040000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 1,
+   "missed_runs": 2,
    "url_status": "ok"
   },
   {
@@ -16582,7 +16582,7 @@
    "end": "2026-11-28T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -16597,11 +16597,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "2a94c715ae7daacb",
+   "id": "60f84fd549b771d7",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%E2%80%9CDivertimento%E2%80%9D%3A%20string%20trios%20by%20Mozart%20and%20Beethoven&dates=20261128T140000%2F20261128T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fdivertimento-string-trios-by-mozart-and-beethoven%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -16759,7 +16759,7 @@
    "end": "2026-11-29T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -16774,11 +16774,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "f8cd130a531619eb",
+   "id": "397a5e860f4417c4",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%E2%80%9CDivertimento%E2%80%9D%3A%20String%20Trios%20of%20Mozart%20and%20Beethoven&dates=20261129T140000%2F20261129T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fdivertimento-string-trios-of-mozart-and-beethoven%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -18193,7 +18193,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laylit&dates=20261204T220000%2F20261205T040000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 6,
+   "missed_runs": 7,
    "url_status": "ok"
   },
   {
@@ -18377,7 +18377,7 @@
    "end": "2026-12-05T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -18392,11 +18392,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "776d37ea5122f085",
+   "id": "ef27b6d2cce1bbd7",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holiday%20Concert%3A%20Bach%20Sonatas%20for%20Violin%20and%20Keyboard%20with%20Mark%20Peskanov%20and%20Rita%20Sloan&dates=20261205T140000%2F20261205T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fholiday-concert-bach-sonatas-for-violin-and-keyboard-with-mark-peskanov-and-rita-sloan-3%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -18613,7 +18613,7 @@
    "end": "2026-12-06T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -18628,11 +18628,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "edade05f496a6681",
+   "id": "98c5d622d9f05365",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holiday%20Concert%3A%20Bach%20Sonatas%20for%20Violin%20and%20Keyboard%20with%20Mark%20Peskanov%20and%20Rita%20Sloan&dates=20261206T140000%2F20261206T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fholiday-concert-bach-sonatas-for-violin-and-keyboard-with-mark-peskanov-and-rita-sloan-4%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -19195,7 +19195,7 @@
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-19",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bike%20Routes%2C%20Good%20Sleepy&dates=20261208T190000%2F20261208T220000&details=https%3A%2F%2Fwww.elsewhere.club%2F&location=&ctz=America%2FNew_York",
-   "missed_runs": 3,
+   "missed_runs": 4,
    "url_status": "ok"
   },
   {
@@ -20235,7 +20235,7 @@
    "end": "2026-12-12T14:00:00-05:00",
    "all_day": false,
    "multi_day_end": null,
-   "venue": null,
+   "venue": "Bargemusic",
    "address": "NY",
    "neighborhood": "DUMBO",
    "category": "opera_classical",
@@ -20250,11 +20250,11 @@
    "confidence": "verified",
    "kind": "event",
    "recurring": false,
-   "id": "4284a7877de999d1",
+   "id": "fca100482b686785",
    "entry": null,
    "price_min": null,
-   "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Holiday%20Concert%3A%20Opus%2018%2C%20Beethoven%20and%20Brahms&dates=20261212T140000%2F20261212T140000&details=https%3A%2F%2Fwww.bargemusic.org%2Fconcert%2Fholiday-concert-2%2F&location=NY&ctz=America%2FNew_York",
    "missed_runs": 0,
    "url_status": "ok"
@@ -20845,7 +20845,7 @@
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20",
    "gcal_url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frick%20Jan%20to%20May%20concerts%20on%20sale&dates=20261215T120000%2F20261215T140000&details=https%3A%2F%2Fwww.frick.org%2Fprograms%2Fconcerts&location=The%20Frick%20Collection&ctz=America%2FNew_York",
-   "url_status": "failed"
+   "url_status": "ok"
   },
   {
    "title": "Guggenheim pay-what-you-wish",
