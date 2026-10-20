@@ -37,6 +37,7 @@ body:
         - nightlife
         - audio_vinyl
         - social
+        - comedy
     validations:
       required: true
   - type: input

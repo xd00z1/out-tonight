@@ -38,7 +38,7 @@ ICS_DAYS = 60
 
 CATEGORIES = ["openings", "museums", "fairs", "opera_classical", "jazz_music", "film",
               "performance", "books_talks", "institutes", "fashion_design",
-              "watches_jewelry", "parties_benefits", "food_wine", "nightlife", "audio_vinyl", "social"]
+              "watches_jewelry", "parties_benefits", "food_wine", "nightlife", "audio_vinyl", "social", "comedy"]
 
 # Manhattan/Brooklyn zips -> neighborhood, for events whose source gives an address.
 ZIP_HOOD = {
@@ -807,6 +807,8 @@ def run(offline=False, today=None, out=PUBLIC):
                     "localist": lambda: localist_events(r.json()),
                     "cards": lambda: card_events(r.text, target)}[st["method"]]()
             horizon = today + timedelta(days=FETCH_DAYS)
+            if src.get("only_venue"):  # global calendars (auction houses): keep the New York listings
+                raws = [x for x in raws if re.search(src["only_venue"], f'{x.get("venue") or ""} {x.get("address") or ""} {x.get("location") or ""}', re.I)]
             evs = [from_raw(x, src, today) for x in raws if not excluded(x.get("title", ""), pats[src["id"]], x.get("location"))]
             evs = [e for e in evs if last_day(e) >= today and parse_dt(e["start"])[0].date() <= horizon]
             evs.sort(key=lambda e: str(e["start"]))

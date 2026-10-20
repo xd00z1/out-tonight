@@ -24,7 +24,7 @@
     "category": {
       "enum": ["openings", "museums", "fairs", "opera_classical", "jazz_music", "film",
                "performance", "books_talks", "institutes", "fashion_design",
-               "watches_jewelry", "parties_benefits", "food_wine", "nightlife", "audio_vinyl", "social"]
+               "watches_jewelry", "parties_benefits", "food_wine", "nightlife", "audio_vinyl", "social", "comedy"]
     },
     "date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
     "datetime": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}[+-]\\d{2}:\\d{2}$"},

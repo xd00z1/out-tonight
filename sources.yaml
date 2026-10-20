@@ -230,12 +230,56 @@ sources:
   - {id: smorgasburg, url: "https://www.smorgasburg.com/", category: food_wine, method: link, probe: "200 no structured events"}
   # --- comedy and variety
   - {id: bell_house, venue: "The Bell House", url: "https://www.thebellhouseny.com/", category: nightlife, neighborhood: "Gowanus", method: jsonld, probe: "200 25 JSON-LD events"}
-  - {id: union_hall, url: "https://unionhallny.com/", category: nightlife, neighborhood: "Park Slope", method: link, probe: "200 no structured events"}
+  - {id: union_hall, url: "https://unionhallny.com/", category: comedy, neighborhood: "Park Slope", method: link, probe: "200 no structured events"}
   - {id: littlefield, venue: "Littlefield", url: "https://littlefieldnyc.com/", category: nightlife, neighborhood: "Gowanus", method: cards, probe: "200 9 upcoming event cards"}
-  - {id: comedy_cellar, url: "https://www.comedycellar.com/", category: nightlife, neighborhood: "Greenwich Village", method: link, probe: "200 rss posts only"}
+  - {id: comedy_cellar, url: "https://www.comedycellar.com/", category: comedy, neighborhood: "Greenwich Village", method: link, probe: "200 rss posts only"}
   # --- design, fashion
   - {id: parsons, url: "https://www.newschool.edu/parsons/", category: fashion_design, neighborhood: "Greenwich Village", method: link, probe: "200 no structured events"}
 
   # ===== added 2026-10-20
   - {id: groupmuse, url: "https://www.groupmuse.com/", name: "Groupmuse", category: opera_classical, method: link, note: "House concerts"}
   - {id: maxwell, url: "https://maxwellsocial.com/events", name: "Maxwell", category: social, neighborhood: Tribeca, method: link}
+
+  # ===== added 2026-10-20: dance, comedy, auctions & watches, fashion
+  # --- dance and ballet
+  - {id: nycb, name: "NYC Ballet", url: "https://www.nycballet.com/", category: performance, neighborhood: "Lincoln Square", method: link, probe: "200 no structured events"}
+  - {id: abt, name: "American Ballet Theatre", url: "https://www.abt.org/performances/", category: performance, neighborhood: "Lincoln Square", method: link, probe: "200 no structured events"}
+  - {id: ailey, name: "Alvin Ailey", url: "https://www.alvinailey.org/", category: performance, neighborhood: "Hell's Kitchen", method: link}
+  - {id: gibney, name: "Gibney Dance", url: "https://gibneydance.org/events/", category: performance, neighborhood: "Tribeca", method: link, probe: "200 no structured events"}
+  - {id: works_process, name: "Works & Process", url: "https://worksandprocess.org/", category: performance, neighborhood: "Upper East Side", method: link, probe: "200 no structured events"}
+  - {id: mark_morris, name: "Mark Morris Dance Center", url: "https://markmorrisdancegroup.org/", category: performance, neighborhood: "Fort Greene", method: tribe, feed_url: "https://markmorrisdancegroup.org/wp-json/tribe/events/v1/events", probe: "200 3+ events"}
+  - {id: martha_graham, name: "Martha Graham", url: "https://marthagraham.org/", category: performance, method: link, probe: "200 rss posts only"}
+  - {id: paul_taylor, name: "Paul Taylor Dance", url: "https://www.ptamd.org/", category: performance, method: link, probe: "200 no structured events"}
+  - {id: dth, name: "Dance Theatre of Harlem", url: "https://www.dancetheatreofharlem.org/", category: performance, neighborhood: "Harlem", method: link, probe: "200 no structured events"}
+  - {id: movement_research, name: "Movement Research", url: "https://movementresearch.org/", category: performance, neighborhood: "East Village", method: link, probe: "200 rss posts only"}
+  # --- comedy
+  - {id: the_stand, name: "The Stand", url: "https://thestandnyc.com/", category: comedy, neighborhood: "Union Square", method: link, probe: "200 no structured events"}
+  - {id: eastville, exclude: "open mic", name: "Eastville Comedy Club", url: "https://www.eastvillecomedy.com/", category: comedy, neighborhood: "East Village", method: jsonld, probe: "200 21 JSON-LD events"}
+  - {id: gotham_comedy, name: "Gotham Comedy Club", url: "https://gothamcomedyclub.com/", category: comedy, neighborhood: "Chelsea", method: link, probe: "200 rss posts only"}
+  - {id: ny_comedy_club, exclude: "open mic", name: "New York Comedy Club", url: "https://newyorkcomedyclub.com/", category: comedy, method: jsonld, probe: "200 21 JSON-LD events"}
+  - {id: ucb, name: "UCB", url: "https://ucbcomedy.com/", category: comedy, neighborhood: "East Village", method: link, probe: "200 rss posts only"}
+  - {id: stand_up_ny, name: "Stand Up NY", url: "https://standupny.com/", category: comedy, neighborhood: "Upper West Side", method: link, probe: "200 rss posts only"}
+  - {id: bk_comedy_collective, name: "Brooklyn Comedy Collective", url: "https://www.brooklyncc.com/", category: comedy, neighborhood: "Williamsburg", method: link, probe: "200 no structured events"}
+  - {id: the_pit, name: "The PIT", url: "https://thepit-nyc.com/", category: comedy, method: link, probe: "200 no structured events"}
+  - {id: comic_strip, name: "Comic Strip Live", url: "https://comicstriplive.com/", category: comedy, neighborhood: "Upper East Side", method: link, probe: "error ConnectionError"}
+  - {id: west_side_comedy, name: "West Side Comedy Club", url: "https://www.westsidecomedyclub.com/", category: comedy, neighborhood: "Upper West Side", method: link, probe: "200 no structured events"}
+  # --- auctions and watches
+  - {id: christies, name: "Christie's", venue: "Christie's", room_venues: true, only_venue: "new york", url: "https://www.christies.com/en/calendar", category: watches_jewelry, neighborhood: "Midtown", method: jsonld, probe: "200 18 JSON-LD events"}
+  - {id: phillips, name: "Phillips", url: "https://www.phillips.com/calendar", category: watches_jewelry, neighborhood: "Upper East Side", method: link, probe: "200 no structured events"}
+  - {id: bonhams, name: "Bonhams", url: "https://www.bonhams.com/auctions/", category: watches_jewelry, neighborhood: "Upper East Side", method: link, probe: "200 no structured events"}
+  - {id: doyle, name: "Doyle", url: "https://doyle.com/auctions", category: watches_jewelry, neighborhood: "Upper East Side", method: link, probe: "202 no structured events"}
+  - {id: swann, name: "Swann Galleries", url: "https://www.swanngalleries.com/", category: watches_jewelry, neighborhood: "Flatiron", method: link, probe: "200 no structured events"}
+  - {id: antiquorum, name: "Antiquorum", url: "https://www.antiquorum.swiss/", category: watches_jewelry, method: link, probe: "200 rss posts only"}
+  - {id: fortuna, name: "Fortuna Auctions", url: "https://www.fortunaauction.com/", category: watches_jewelry, neighborhood: "Midtown", method: link, probe: "200 rss posts only"}
+  - {id: redbar, name: "RedBar watch meetups", url: "https://www.redbargroup.com/", category: watches_jewelry, method: link, probe: "200 rss posts only"}
+  - {id: windup, name: "Windup Watch Fair", url: "https://windupwatchfair.com/", category: watches_jewelry, method: jsonld, probe: "200 3 JSON-LD events"}
+  # --- fashion: pop-ups, store launches, exhibits, esoteric
+  - {id: lvmh, name: "LVMH events", url: "https://www.lvmh.com/en", category: fashion_design, method: link, probe: "200 no structured events"}
+  - {id: dsm_ny, name: "Dover Street Market", url: "https://newyork.doverstreetmarket.com/", category: fashion_design, neighborhood: "Murray Hill", method: link, probe: "200 no structured events"}
+  - {id: chicmi, name: "Chicmi (sample sales & pop-ups)", url: "https://www.chicmi.com/new-york/", category: fashion_design, method: link, probe: "200 rss posts only"}
+  - {id: samplesale_260, name: "260 Sample Sale", url: "https://260samplesale.com/", category: fashion_design, method: link, probe: "200 no structured events"}
+  - {id: bgc, name: "Bard Graduate Center", url: "https://www.bgc.bard.edu/events", category: fashion_design, neighborhood: "Upper West Side", method: link, probe: "200 no structured events"}
+  - {id: folk_art, name: "American Folk Art Museum", url: "https://folkartmuseum.org/", category: fashion_design, neighborhood: "Upper West Side", method: link, probe: "200 no structured events"}
+  - {id: textile_arts, name: "Textile Arts Center", url: "https://textileartscenter.com/", category: fashion_design, method: link, probe: "200 no structured events"}
+  - {id: manhattan_vintage, name: "Manhattan Vintage Show", url: "https://manhattanvintage.com/", category: fashion_design, neighborhood: "Chelsea", method: link, probe: "200 no structured events"}
+  - {id: fashion_calendar, name: "Fashion Calendar", url: "https://fashioncalendar.com/", category: fashion_design, method: link, probe: "200 no structured events"}

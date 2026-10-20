@@ -17,7 +17,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = ["openings", "museums", "fairs", "opera_classical", "jazz_music", "film", "performance",
               "books_talks", "institutes", "fashion_design", "watches_jewelry", "parties_benefits",
-              "food_wine", "nightlife", "audio_vinyl", "social"]
+              "food_wine", "nightlife", "audio_vinyl", "social", "comedy"]
 
 
 def fields(body):
