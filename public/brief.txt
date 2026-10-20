@@ -1,12 +1,13 @@
 Out Tonight: NYC culture picks for the next 7 days
-Updated Tue Oct 20 2026, 12:17am New York time. All times America/New_York.
+Updated Tue Oct 20 2026, 12:20am New York time. All times America/New_York.
 Format: day | time | title | venue | cost | link. Full data: events.json
 
 ## Tuesday Oct 20
 5:00pm | (IN) PRACTICE: Poetry, Community & Art as Advocacy with Joel Leon | The Lighthouse Campus | Free | https://luma.com/the-jb5w
 5:30pm | Rush Hour Performance | Artist Diploma Series: Laura Liu | Juilliard Station | Free | https://www.juilliard.edu/event/187741/rush-hour-performance-artist-diploma-series-laura-liu
 5:30pm | Vince Giordano & The Nighthawks | Birdland Theater | $24.91 to $45.76 | https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-7/
-6:30pm | Making Marie Antoinette | https://movingimage.org/event/making-marie-antoinette/
+6:00pm | Cycol Gallery, Wait And Hope Foundation, and One Love Art Present: Monochrome | Cycol Gallery | Free | https://luma.com/do25ffxm
+6:30pm | Making Marie Antoinette | Museum of the Moving Image | https://movingimage.org/event/making-marie-antoinette/
 7:00pm | France’s No(w) Beauty: An Evening of Cinematic Jazz | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:30pm | A Benefit for Little Essentials with David Cross & Friends | The Bell House | https://www.ticketmaster.com/a-benefit-for-little-essentials-with-brooklyn-new-york-10-20-2026/event/30006512E9FA7FBD
 7:30pm | Kramer/Fauci | https://stannswarehouse.org/show/kramer-fauci-25/
@@ -17,70 +18,73 @@ all day | The Max Light Quartet | Zinc Bar | https://www.zincbar.com/event/the-m
 Standing options: Arturo O'Farrill Afro Latin Jazz Orchestra; Guggenheim pay-what-you-wish; The Django
 
 ## Wednesday Oct 21
-12:00pm | Dispatches from the Field: Ricardo Araújo | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-ricardo-araujo/
+12:00pm | Dispatches from the Field: Ricardo Araújo | The Explorers Club | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-ricardo-araujo/
 2:00pm | Center for Healing Ribbon Cutting and Open House | Center for Healing | https://greenwichhouse.org/event/center-for-healing-ribbon-cutting-and-open-house/
 5:30pm | Rush Hour Performance | Sonata Forms: Beethoven, Schubert, Scriabin | Juilliard Station | Free | https://www.juilliard.edu/event/187751/rush-hour-performance-sonata-forms-beethoven-schubert-scriabin
 5:45pm | Siena: Behind the Scenes with Giulio Dalvit | The Frick Collection | https://www.frick.org/calendar
 6:00pm | Built in Person: How Great Companies Scale IRL | Corgi Cafe | Free | https://luma.com/corginyc-ervo
+6:00pm | Cycol Gallery, Wait And Hope Foundation, and One Love Art Present: Monochrome | Cycol Gallery | Free | https://luma.com/do25ffxm
 6:00pm | NEW INC Workshare | New Museum | https://www.newmuseum.org/event/10-21-2026/
 6:00pm | Sonatenabend | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/186426/sonatenabend
+7:00pm | BRC x New Balance | Brooklyn Running Company | Free | https://luma.com/cu82batg
 7:00pm | Dizzy Gillespie Birthday with Jon Faddis | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:00pm | Tell Everyone | Screening & Film Talk | Scandinavia House | https://www.scandinaviahouse.org/event/tell-everyone-new-nordic-cinema/
 7:30pm | Brett Goldstein Runs His Hour Before His Tour | The Bell House | https://www.ticketmaster.com/brett-goldstein-runs-his-hour-before-brooklyn-new-york-10-21-2026/event/300064E6E5A07BB8
 7:30pm | Kramer/Fauci | https://stannswarehouse.org/show/kramer-fauci-26/
-8:00pm | PTP Live! | https://littlefieldnyc.com/event/
-8:00pm | Tongo Eisen-Martin + Margaret Randall | https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall
+8:00pm | PTP Live! | Littlefield | https://littlefieldnyc.com/event/
+8:00pm | Tongo Eisen-Martin + Margaret Randall | The Poetry Project | https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall
 8:00pm | Yunchan Lim | Carnegie Hall, Stern Auditorium | https://www.carnegiehall.org/events
 all day | Albert Rivera Quartet | Zinc Bar | https://www.zincbar.com/event/albert-rivera-quartet-2/
 all day | Edward Steed and Liana Finck | McNally Jackson Seaport | Free, RSVP | https://www.mcnallyjackson.com/events
-all day | TJG Signature Series // Jason Lindner Broadband | https://jazzgallery.org/calendar/jason-lindner-big-band-oct-2026
+all day | TJG Signature Series // Jason Lindner Broadband | The Jazz Gallery | https://jazzgallery.org/calendar/jason-lindner-big-band-oct-2026
 all day | “Youth Without God” – A Staged Reading Based on the Novel by Ödön von Horváth | Austrian Cultural Forum | https://acfny.org/event/youth-without-god/
 Standing options: The Django
 
 ## Thursday Oct 22
-9:00am | Dispatches from the Field: The Menorca Shipwreck Project | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-the-menorca-shipwreck-project/
+9:00am | Dispatches from the Field: The Menorca Shipwreck Project | The Explorers Club | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-the-menorca-shipwreck-project/
 1:00pm | Juilliard415 | The Frick Collection | https://www.frick.org/calendar
 2:00pm | Building Less, Transforming More | Architecture & Design Panel | Scandinavia House | https://www.scandinaviahouse.org/event/building-less-transforming-more-architecture-design-panel/
-4:00pm | Jim Henson Exhibition Guided Tours | https://movingimage.org/event/30518/2026-10-22/
+4:00pm | Jim Henson Exhibition Guided Tours | Museum of the Moving Image | https://movingimage.org/event/30518/2026-10-22/
 4:00pm | String Quartet Haydn-a-Thon | Juilliard, Morse Hall | Free | https://www.juilliard.edu/event/188251/string-quartet-haydn-thon
-5:00pm | Docent Tour: Designed to Be Red | Free | https://posterhouse.org/event/docent-tour-designed-to-be-red/
-5:00pm | MoMI LAB Public Tours | https://movingimage.org/event/momi-lab-public-tours/2026-10-22/
+5:00pm | Docent Tour: Designed to Be Red | Poster House | Free | https://posterhouse.org/event/docent-tour-designed-to-be-red/
+5:00pm | MoMI LAB Public Tours | Museum of the Moving Image | https://movingimage.org/event/momi-lab-public-tours/2026-10-22/
 5:30pm | Rush Hour Performance | Artist Diploma Series: Jialin Yao | Juilliard Station | Free | https://www.juilliard.edu/event/187756/rush-hour-performance-artist-diploma-series-jialin-yao
 5:30pm | Ruth Christopher, Double Bass | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/188901/ruth-christopher-double-bass
+6:00pm | Cycol Gallery, Wait And Hope Foundation, and One Love Art Present: Monochrome | Cycol Gallery | Free | https://luma.com/do25ffxm
 6:30pm | A flame latches to a bit of straw | New Museum | https://www.newmuseum.org/event/10-22-2026/
-6:30pm | The Picture Book Book: Seymour Chwast & Steven Heller in Conversation | Free | https://posterhouse.org/event/the-picture-book-book-seymour-chwast-steven-heller-in-conversation/
+6:30pm | The Picture Book Book: Seymour Chwast & Steven Heller in Conversation | Poster House | Free | https://posterhouse.org/event/the-picture-book-book-seymour-chwast-steven-heller-in-conversation/
 7:00pm | Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jazz Messengers | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:00pm | Reading and Writing Through Alice Notley’s Early Works; Five-Session Workshop with Hoa Nguyen | https://www.poetryproject.org/events/reading-and-writing-through-alice-notley-s-early-works-five-session-workshop-with-hoa-nguyen
+7:00pm | Reading and Writing Through Alice Notley’s Early Works; Five-Session Workshop with Hoa Nguyen | The Poetry Project | https://www.poetryproject.org/events/reading-and-writing-through-alice-notley-s-early-works-five-session-workshop-with-hoa-nguyen
 7:30pm | Così fan tutte | Metropolitan Opera | https://www.metopera.org/calendar/
 7:30pm | Keyboard Conversations® | Beethoven & Schubert: Glorious Musical Jewels | Scandinavia House | https://www.scandinaviahouse.org/event/keyboard-conversations-beethoven-and-schubert/
 7:30pm | Kramer/Fauci | https://stannswarehouse.org/show/kramer-fauci-27/
 7:30pm | UpDating | The Bell House | https://www.ticketmaster.com/updating-brooklyn-new-york-10-22-2026/event/3000652F4EAEF12F
 8:00pm | Steve Reich at 90 | Carnegie Hall, Stern Auditorium | https://www.carnegiehall.org/events
-9:00pm | The Alien Everywhere II Special Taping | https://littlefieldnyc.com/event/
+9:00pm | The Alien Everywhere II Special Taping | Littlefield | https://littlefieldnyc.com/event/
 all day | Axel Tosca’s Cuban Jam | Zinc Bar | https://www.zincbar.com/event/axel-toscas-cuban-jam-44/
 all day | Rabih Mroue and Lina Majdalanie | NYU Skirball | Per ticket | https://www.goethe.de/ins/us/en/sta/ney/ver.cfm
 Standing options: Chelsea gallery receptions; Dizzy's Club Late Night Session; Flatiron Wines tasting; ICP $5 Thursday; New Museum pay-what-you-wish Thursday; The Django
 
 ## Friday Oct 23
 11:00am | Nordic International Film Festival | Friday Films | Scandinavia House | https://www.scandinaviahouse.org/event/nordic-international-film-festival-2/
-2:00pm | Phone-Free Friday | https://movingimage.org/event/phone-free-friday/2026-10-23/
+2:00pm | Phone-Free Friday | Museum of the Moving Image | https://movingimage.org/event/phone-free-friday/2026-10-23/
 4:00pm | Bowery Art Space | New Museum | https://www.newmuseum.org/event/10-23-2026/
 4:00pm | String Quartet Haydn-a-Thon | Juilliard, Morse Hall | Free | https://www.juilliard.edu/event/188261/string-quartet-haydn-thon
 5:30pm | Huan-Ching Chou, Piano | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/189196/huan-ching-chou-piano
-6:00pm | How to Use Agents and Not Have Them Kill You | https://movingimage.org/event/how-to-use-agents-and-not-have-them-kill-you/2026-10-23/
+6:00pm | How to Use Agents and Not Have Them Kill You | Museum of the Moving Image | https://movingimage.org/event/how-to-use-agents-and-not-have-them-kill-you/2026-10-23/
 6:00pm | Rush Hour Performance | Juilliard Station | Free | https://www.juilliard.edu/event/187761/rush-hour-performance
 6:15pm | Persona: 60th Anniversary Screening (Co-presented with NewFest) | https://movingimage.org/event/persona-60th/
 7:00pm | Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jazz Messengers | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:00pm | Moral Kiosk (r.e.m.) & Bastards of Young (replacements) | https://littlefieldnyc.com/event/
+7:00pm | Moral Kiosk (r.e.m.) & Bastards of Young (replacements) | Littlefield | https://littlefieldnyc.com/event/
 7:30pm | Kramer/Fauci | https://stannswarehouse.org/show/kramer-fauci-28/
 7:30pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
 7:30pm | Miró Quartet | Carnegie Hall, Weill Recital Hall | https://www.carnegiehall.org/events
 7:30pm | Sydnee Washington: My Black Barbie Story | The Bell House | https://www.ticketmaster.com/sydnee-washington-my-black-barbie-story-brooklyn-new-york-10-23-2026/event/300065273C85AE0A
-8:00pm | TGirl Baseball World Series Game 1 Watch Party + Afterparty with DJs | https://www.elsewhere.club/
+8:00pm | TGirl Baseball World Series Game 1 Watch Party + Afterparty with DJs | Elsewhere | https://www.elsewhere.club/
 8:00pm | The New York Pops | Carnegie Hall, Stern Auditorium | https://www.carnegiehall.org/events
 9:00pm | Lakecia Benjamin, Saxophone | Carnegie Hall, Zankel Hall | https://www.carnegiehall.org/events
 9:45pm | The Bell House Stand Up Showcase | The Bell House | https://www.ticketmaster.com/the-bell-house-stand-up-showcase-brooklyn-new-york-10-23-2026/event/30006541B0A26BA4
-11:00pm | BASHMENT IN BK – Late Night Dancehall & Soca Party | https://littlefieldnyc.com/event/
+11:00pm | BASHMENT IN BK – Late Night Dancehall & Soca Party | Littlefield | https://littlefieldnyc.com/event/
 all day | Beaux Arts Ball | Andrew Freedman Home | Price not found | https://archleague.org/events/
 all day | MONUMENT FILMS – Peter Kubelka’s Metric Cinema | Austrian Cultural Forum | https://acfny.org/event/peter-kubelka/
 all day | Rabih Mroue and Lina Majdalanie | NYU Skirball | Per ticket | https://www.goethe.de/ins/us/en/sta/ney/ver.cfm
@@ -91,47 +95,47 @@ Standing options: Dizzy's Club Late Night Session; Flatiron Wines tasting; Morga
 10:00am | Mozart for Munchkins: Spooktacular! 10 AM Concert | Greenwich House Music School | https://greenwichhouse.org/event/mozart-for-munchkins-spooktacular-2/
 11:00am | Nordic International Film Festival | Saturday Films | Scandinavia House | https://www.scandinaviahouse.org/event/nordic-international-film-festival-saturday-films/
 11:15am | Mozart for Munchkins: Spooktacular! 11:15 AM Concert | Greenwich House Music School | https://greenwichhouse.org/event/mozart-for-munchkins-spooktacular-1115-am-concert/
-12:30pm | Vampire’s Kiss | https://movingimage.org/event/vampires-kiss/
+12:30pm | Vampire’s Kiss | Museum of the Moving Image | https://movingimage.org/event/vampires-kiss/
 1:00pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
 1:05pm | Pre-College Piano Performance Forum | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/187576/pre-college-piano-performance-forum
 2:00pm | Bohemian Rhapsody, Viennese Grace: Romantic Piano Trios | https://www.bargemusic.org/concert/beethoven-and-brahms-trios-of-titans/
 2:30pm | Blue & White Porcelain Painting Workshop | Greenwich House Pottery Artist Membership Studio | https://greenwichhouse.org/event/blue-white-porcelain-painting-workshop/
-3:00pm | Jim Henson Exhibition Guided Tours | https://movingimage.org/event/30518/2026-10-24/
+3:00pm | Jim Henson Exhibition Guided Tours | Museum of the Moving Image | https://movingimage.org/event/30518/2026-10-24/
 3:00pm | The Exorcist | https://movingimage.org/event/the-exorcist/2026-10-24/
-4:00pm | Make Your Own Pop-up Book with Kelli Anderson | &#036;30.00 | https://posterhouse.org/event/make-your-own-pop-up-book-with-kelli-anderson/
+4:00pm | Make Your Own Pop-up Book with Kelli Anderson | Poster House | &#036;30.00 | https://posterhouse.org/event/make-your-own-pop-up-book-with-kelli-anderson/
 5:30pm | Yuto Lim, Violin | Juilliard, Morse Hall | Free | https://www.juilliard.edu/event/188536/yuto-lim-violin
 6:00pm | Preparatory Division Faculty Recital Series | Catherine Birke, Violin; Nico Olarte-Hayes, Cello; Oliver Hagen, Piano | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/186961/preparatory-division-faculty-recital-series-catherine-birke-violin-nico-olarte-hayes
 7:00pm | Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jazz Messengers | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:30pm | Drunk Bollywood Live! | The Bell House | https://www.ticketmaster.com/drunk-bollywood-live-brooklyn-new-york-10-24-2026/event/3000652D4D15ED32
 7:30pm | Kramer/Fauci | https://stannswarehouse.org/show/kramer-fauci-30/
-8:00pm | Switch n’ Play Presents: Slash n’ Spray | https://littlefieldnyc.com/event/
-11:00pm | Dancehall Forever | https://littlefieldnyc.com/event/
+8:00pm | Switch n’ Play Presents: Slash n’ Spray | Littlefield | https://littlefieldnyc.com/event/
+11:00pm | Dancehall Forever | Littlefield | https://littlefieldnyc.com/event/
 all day | Rabih Mroue and Lina Majdalanie | NYU Skirball | Per ticket | https://www.goethe.de/ins/us/en/sta/ney/ver.cfm
 Standing options: Dizzy's Club Late Night Session; Flatiron Wines Saturday tasting; Segue reading series; The Django; The Met open late
 
 ## Sunday Oct 25
-1:00pm | The Wolf Man | https://movingimage.org/event/the-wolf-man/
+1:00pm | The Wolf Man | Museum of the Moving Image | https://movingimage.org/event/the-wolf-man/
 2:00pm | Bohemian Rhapsody, Viennese Grace: Romantic Piano Trios | https://www.bargemusic.org/concert/shadow-and-light-piano-trios-of-beethoven-and-brahms/
-2:00pm | Month Offline @ MoMI | https://movingimage.org/event/month-offline-momi/2026-10-25/
+2:00pm | Month Offline @ MoMI | Museum of the Moving Image | https://movingimage.org/event/month-offline-momi/2026-10-25/
 3:00pm | Scandinavian Everyday Cooking | Food Demo & Book Talk | Scandinavia House | https://www.scandinaviahouse.org/event/scandinavian-everyday-cooking-food-demo-book-talk/
 3:00pm | Scandinavian Everyday Cooking | Food Demo, Book Talk & Sampling | Scandinavia House | https://www.scandinaviahouse.org/event/scandinavian-everyday-cooking-food-demo-book-talk/
 5:00pm | American Harmony: Ruckus with Lily Hammond, Treble; Linnea Sablosky, Alto; Tim Eriksen, Tenor; John Taylor Ward, Bass | The Frick Collection | https://www.frick.org/calendar
 7:00pm | Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jazz Messengers | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:00pm | Dead Pilots Society | The Bell House | https://www.ticketmaster.com/dead-pilots-society-brooklyn-new-york-10-25-2026/event/3000651E456BB0C6
-8:00pm | About Last Night: Dating Disaster Stories NYC! | https://littlefieldnyc.com/event/
+8:00pm | About Last Night: Dating Disaster Stories NYC! | Littlefield | https://littlefieldnyc.com/event/
 all day | Valtinho Anastácio | Zinc Bar | https://www.zincbar.com/event/valtinho-anastacio-77/
 Standing options: Guggenheim pay-what-you-wish; Studio Museum free Sunday; The Django
 
 ## Monday Oct 26
-11:00am | In-Person Vibrant Verbal Description Tour: Designed to Be Red | https://posterhouse.org/event/in-person-vibrant-verbal-description-tour-designed-to-be-red/
+11:00am | In-Person Vibrant Verbal Description Tour: Designed to Be Red | Poster House | https://posterhouse.org/event/in-person-vibrant-verbal-description-tour-designed-to-be-red/
 5:30pm | Vince Giordano & The Nighthawks | Birdland Theater | $24.91 to $45.76 | https://www.birdlandjazz.com/tm-event/vince-giordano-and-the-nighthawks-7/
-6:00pm | Woven by Wings | https://www.explorers.org/calendar-of-events/woven-by-wings/
+6:00pm | Woven by Wings | The Explorers Club | https://www.explorers.org/calendar-of-events/woven-by-wings/
 7:00pm | Mike LeDonne Big Band: 70th Birthday Celebration | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:30pm | Ensemble Connect | Carnegie Hall, Weill Recital Hall | https://www.carnegiehall.org/events
 7:30pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
 7:30pm | The Moth StorySLAM | The Bell House | https://www.ticketmaster.com/the-moth-storyslam-brooklyn-new-york-10-26-2026/event/300064BB0C5CDEDB
-8:00pm | Nicole Linder + Jasmine Sanders | https://www.poetryproject.org/events/nicole-linder-jasmine-sanders
-8:00pm | The Witch Wave with Pam Grossman LIVE! | https://littlefieldnyc.com/event/
+8:00pm | Nicole Linder + Jasmine Sanders | The Poetry Project | https://www.poetryproject.org/events/nicole-linder-jasmine-sanders
+8:00pm | The Witch Wave with Pam Grossman LIVE! | Littlefield | https://littlefieldnyc.com/event/
 10:30pm | The Ripped Bodice Presents: ACOTAR 6 Midnight Release | The Bell House | https://www.ticketmaster.com/the-ripped-bodice-presents-acotar-6-brooklyn-new-york-10-26-2026/event/300065060DECB30C
 all day | Festival Neue Literatur 2026: “Intimate Thresholds – Identity and Longing” | Austrian Cultural Forum | https://acfny.org/event/fnl-2026-identity/
 all day | Lydia Millet and Jenny Offill | McNally Jackson Seaport | Free, RSVP | https://www.mcnallyjackson.com/events
