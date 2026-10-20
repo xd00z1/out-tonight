@@ -92,7 +92,7 @@ def parse(text):
                    "url": "https://www.carnegiehall.org/events", "cost_text": "Not stated", "venue": venue,
                    "address": "881 Seventh Ave, New York, NY" if venue.startswith("Carnegie") else None,
                    "neighborhood": "Midtown" if venue.startswith("Carnegie") else None,
-                   "why": why, "source_id": "seed"}
+                   "why": why, "source_id": "seed", "origin": "carnegie"}
             out.append({k: v for k, v in row.items() if v is not None})
     return out
 

@@ -12,6 +12,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 concurrency:
   group: refresh
@@ -36,11 +37,25 @@ jobs:
           python importers/carnegie.py || true
           python importers/met_opera.py || true
       - run: python refresh.py
+      - name: Alerts (GitHub issue = email; ntfy push if NTFY_TOPIC secret is set)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python tools/alerts.py > alerts.md || true
+          if [ -s alerts.md ]; then
+            n=$(grep -c '^- ' alerts.md)
+            gh label create alert-digest --color c2410c --force >/dev/null 2>&1 || true
+            gh issue create --title "Out Tonight: $n new match(es)" --body-file alerts.md               --assignee "${{ github.repository_owner }}" --label alert-digest || true
+            if [ -n "$NTFY_TOPIC" ]; then
+              grep '^- ' alerts.md | head -5 | sed -e 's/ · \[link\].*//' -e 's/\*\*//g' -e 's/^- //'                 | curl -s -H "Title: Out Tonight: $n new" -H "Click: https://${{ github.repository_owner }}.github.io/out-tonight/"                   --data-binary @- "https://ntfy.sh/$NTFY_TOPIC" >/dev/null || true
+            fi
+          fi
       - name: Commit regenerated files
         run: |
           git config user.name "refresh-bot"
           git config user.email "refresh-bot@users.noreply.github.com"
-          git add public/events.json public/calendar.ics public/status.json seed_carnegie.json seed_met.json
+          git add public seed_carnegie.json seed_met.json alerts_state.json 2>/dev/null || git add public seed_carnegie.json seed_met.json
           git diff --cached --quiet || git commit -m "refresh $(TZ=America/New_York date +%F)"
           # Another run may have pushed meanwhile; this run's data is newer, so keep it.
           git pull --rebase -X theirs origin main

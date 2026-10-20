@@ -1,0 +1,58 @@
+name: requests
+
+# Applies the "Add a source", "Remove a source" and "Alert me" issue forms.
+# Only issues opened by the repo owner are acted on; the repo is public.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: >-
+      github.event.issue.author_association == 'OWNER' &&
+      (contains(github.event.issue.labels.*.name, 'source-add') ||
+       contains(github.event.issue.labels.*.name, 'source-remove') ||
+       contains(github.event.issue.labels.*.name, 'alert-add'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Apply request
+        run: python tools/apply_request.py "$GITHUB_EVENT_PATH" > result.txt
+      - name: Probe a new source for a live feed
+        if: contains(github.event.issue.labels.*.name, 'source-add')
+        run: python probe.py --new --write || true
+      - name: Commit, reply, refresh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "refresh-bot"
+          git config user.email "refresh-bot@users.noreply.github.com"
+          git add sources.yaml alerts.yaml
+          if ! git diff --cached --quiet; then
+            git commit -m "Apply request #$ISSUE"
+            git pull --rebase origin main
+            git push
+            gh workflow run refresh.yml --ref main
+            echo "" >> result.txt
+            echo "Done. The site refreshes in a few minutes." >> result.txt
+          fi
+          gh issue comment "$ISSUE" --body-file result.txt
+          gh issue close "$ISSUE"

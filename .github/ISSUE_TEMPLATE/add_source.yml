@@ -1,0 +1,46 @@
+name: Add a source
+description: Add a venue or calendar to Out Tonight
+title: "Add source: "
+labels: [source-add]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Groupmuse
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The venue's events or calendar page
+      placeholder: https://www.example.org/events
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - openings
+        - museums
+        - fairs
+        - opera_classical
+        - jazz_music
+        - film
+        - performance
+        - books_talks
+        - institutes
+        - fashion_design
+        - watches_jewelry
+        - parties_benefits
+        - food_wine
+        - nightlife
+        - audio_vinyl
+        - social
+    validations:
+      required: true
+  - type: input
+    id: note
+    attributes:
+      label: Note
+      description: Optional, shown on hover in More calendars

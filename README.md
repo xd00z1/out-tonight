@@ -106,3 +106,26 @@ Each event's **+** button adds it to Google Calendar (New York local time).
 - `seed_events.json` holds the research report's dated calendar (95 rows, Oct 2026 to Sep 2027). The report itself is not in the repo: it contains personal details, and `docs/research-report.md` is gitignored if you save it there.
 - Coverage is thin on openings (Tribeca Arts District, Artwrld, and Artnet aren't machine-readable), nightlife, and vinyl/hi-fi. Those need either new sources or a text extractor.
 - `recurring.yaml` hours come from the research and haven't been re-checked against venue pages.
+
+## Features on the page
+
+- **Types**: pick one or more categories (Film + Museums, Music + Classical...). Remembered on the device.
+- **Settings** (gear icon): calendar app for the + button (Google, Apple, Outlook); subscribe links for each;
+  per-source switches (hide on this device); add/remove sources for everyone; alerts; notes backup; AI link.
+- **Event sheet** (tap an event): add to any calendar, venue notes, alert buttons, hide the source.
+- **Venue notes** stay in the browser (localStorage), never in this public repo. Export/import in Settings.
+- **Install**: it's a PWA. iPhone: Safari, Share, Add to Home Screen. Android: Chrome menu, Install app.
+
+## Requests and alerts (GitHub forms)
+
+"Add a source", "Remove for everyone" and "Alert me" open prefilled issue forms. The `requests` workflow
+applies them (only for issues opened by the repo owner), commits, and triggers a refresh.
+
+Alert rules live in `alerts.yaml`. After each refresh, new matches are posted as one GitHub issue assigned
+to the owner, which GitHub emails. For phone pushes, install the free [ntfy](https://ntfy.sh) app,
+subscribe to a hard-to-guess topic name, and save that name as the repo secret `NTFY_TOPIC`.
+
+## For AI assistants
+
+`brief.txt` (next 7 days, one event per line) and `llms.txt` are published next to the page. Point
+Grok or any assistant at `https://<user>.github.io/<repo>/brief.txt` for a daily briefing.

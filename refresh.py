@@ -38,7 +38,7 @@ ICS_DAYS = 60
 
 CATEGORIES = ["openings", "museums", "fairs", "opera_classical", "jazz_music", "film",
               "performance", "books_talks", "institutes", "fashion_design",
-              "watches_jewelry", "parties_benefits", "food_wine", "nightlife", "audio_vinyl"]
+              "watches_jewelry", "parties_benefits", "food_wine", "nightlife", "audio_vinyl", "social"]
 
 # Manhattan/Brooklyn zips -> neighborhood, for events whose source gives an address.
 ZIP_HOOD = {
@@ -677,6 +677,53 @@ def to_ics(events, today, now_utc):
     return "\r\n".join(_fold(l) for l in lines) + "\r\n"
 
 
+def _clock(dt):
+    return f"{dt.hour % 12 or 12}:{dt.minute:02d}{'pm' if dt.hour >= 12 else 'am'}"
+
+
+def to_brief(events, today, now, days=7):
+    """Plain-text digest of the next week, for AI assistants and daily briefings."""
+    lines = [f"Out Tonight: NYC culture picks for the next {days} days",
+             f"Updated {now:%a %b} {now.day} {now:%Y}, {_clock(now)} New York time. All times America/New_York.",
+             "Format: day | time | title | venue | cost | link. Full data: events.json", ""]
+    for i in range(days):
+        d = today + timedelta(days=i)
+        def on(e):  # runs over a month show only on opening and closing day, as on the page
+            a, b = str(e["start"])[:10], e.get("multi_day_end") or str(e["start"])[:10]
+            long_run = (date.fromisoformat(b) - date.fromisoformat(a)).days > 31
+            return d.isoformat() in (a, b) if long_run else a <= d.isoformat() <= b
+        day = [e for e in events if not e.get("recurring") and e["kind"] == "event" and on(e)]
+        standing = [e for e in events if e.get("recurring") and str(e["start"])[:10] == d.isoformat()]
+        if not day and not standing:
+            continue
+        lines.append(f"## {d:%A %b} {d.day}")
+        for e in sorted(day, key=lambda e: ("99" if e["all_day"] else str(e["start"])[11:16], e["title"])):
+            t = "all day" if e["all_day"] else _clock(parse_dt(e["start"])[0])
+            cost = "" if e["cost_text"] == "Not stated" else e["cost_text"]
+            lines.append(" | ".join(x for x in [t, e["title"], e.get("venue") or "", cost, e["url"]] if x))
+        if standing:
+            lines.append("Standing options: " + "; ".join(sorted({e["title"] for e in standing})))
+        lines.append("")
+    sales = [e for e in events if e["kind"] == "on_sale" and today <= parse_dt(e["start"])[0].date() <= today + timedelta(days=30)]
+    if sales:
+        lines.append("## Tickets going on sale (next 30 days)")
+        lines += [f"{parse_dt(e['start'])[0]:%b} {parse_dt(e['start'])[0].day} | {e['title']} | {e['url']}" for e in sales]
+    return "\n".join(lines) + "\n"
+
+
+LLMS_TXT = """# Out Tonight
+
+> A personal calendar of New York City cultural events (openings, classical and opera, jazz,
+> film, talks, institutes, parties), refreshed twice a week from venue calendars.
+
+- [brief.txt](brief.txt): plain-text list of the next 7 days, one event per line. Best for a daily briefing.
+- [events.json](events.json): every upcoming event with start time, venue, cost, category and link.
+- [calendar.ics](calendar.ics): subscribable calendar feed.
+
+Times are America/New_York. Dates marked "projected" are estimates, not announcements.
+"""
+
+
 def check_urls(events, deadline):
     """HEAD (falling back to GET) each unique URL once. Sets url_status."""
     seen = {}
@@ -804,8 +851,12 @@ def run(offline=False, today=None, out=PUBLIC):
     counts = {k: sum(1 for s in status if s["result"] == k)
               for k in ("ok", "empty", "failed", "link", "skipped", "disabled")}
     out.mkdir(exist_ok=True)
+    listing = [{"id": s["id"], "name": s.get("name"), "url": s["url"], "category": s["category"],
+                "live": s.get("method", "link") != "link"} for s in sources if s.get("enabled", True)]
+    (out / "brief.txt").write_text(to_brief(events, today, now), encoding="utf-8")
+    (out / "llms.txt").write_text(LLMS_TXT, encoding="utf-8")
     (out / "events.json").write_text(json.dumps(
-        {"generated_at": iso(now), "events": events, "browse": browse},
+        {"generated_at": iso(now), "events": events, "browse": browse, "sources": listing},
         indent=1, ensure_ascii=False), encoding="utf-8")
     (out / "calendar.ics").write_text(
         to_ics(events, today, now.astimezone(ZoneInfo("UTC"))), encoding="utf-8", newline="")

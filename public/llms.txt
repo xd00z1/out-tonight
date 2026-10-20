@@ -1,0 +1,10 @@
+# Out Tonight
+
+> A personal calendar of New York City cultural events (openings, classical and opera, jazz,
+> film, talks, institutes, parties), refreshed twice a week from venue calendars.
+
+- [brief.txt](brief.txt): plain-text list of the next 7 days, one event per line. Best for a daily briefing.
+- [events.json](events.json): every upcoming event with start time, venue, cost, category and link.
+- [calendar.ics](calendar.ics): subscribable calendar feed.
+
+Times are America/New_York. Dates marked "projected" are estimates, not announcements.

@@ -54,7 +54,7 @@ def parse(html):
     return [{"title": title, "start": start, "category": "opera_classical",
              "url": "https://www.metopera.org/calendar/", "cost_text": "Not stated",
              "venue": "Metropolitan Opera", "address": "30 Lincoln Center Plaza, New York, NY",
-             "neighborhood": "Lincoln Square", "source_id": "seed"}
+             "neighborhood": "Lincoln Square", "source_id": "seed", "origin": "met_opera"}
             for start, (_, title) in sorted(slots.items())]
 
 

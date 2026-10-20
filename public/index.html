@@ -4,12 +4,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#131210">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Out Tonight">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-192.png">
 <title>Out Tonight</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='9' fill='%23c2410c'/></svg>">
 <style>
 :root {
   --bg: #f7f5f0; --surface: #fff; --ink: #1a1916; --muted: #8a857a; --line: #e6e2d8;
-  --accent: #c2410c; --chip: #ece8de; --on: #1a1916; --on-ink: #f7f5f0;
+  --accent: #c2410c; --chip: #ece8de; --on: #1a1916; --on-ink: #f7f5f0; --note: #7c5a12;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   color-scheme: light;
@@ -17,33 +23,32 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #131210; --surface: #1c1b18; --ink: #f1eee6; --muted: #8f8a80; --line: #2b2925;
-    --accent: #fb923c; --chip: #25231f; --on: #f1eee6; --on-ink: #131210; color-scheme: dark;
+    --accent: #fb923c; --chip: #25231f; --on: #f1eee6; --on-ink: #131210; --note: #e3b866; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #131210; --surface: #1c1b18; --ink: #f1eee6; --muted: #8f8a80; --line: #2b2925;
-  --accent: #fb923c; --chip: #25231f; --on: #f1eee6; --on-ink: #131210; color-scheme: dark;
+  --accent: #fb923c; --chip: #25231f; --on: #f1eee6; --on-ink: #131210; --note: #e3b866; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.4 var(--sans); }
 a { color: inherit; text-decoration: none; }
-button, select { font: inherit; color: inherit; }
-.wrap { max-width: 560px; margin: 0 auto; padding: 0 16px calc(40px + env(safe-area-inset-bottom)); }
+button, select, textarea { font: inherit; color: inherit; }
+.wrap { max-width: 560px; margin: 0 auto; padding: env(safe-area-inset-top) 16px calc(40px + env(safe-area-inset-bottom)); }
 
-.top { display: flex; align-items: center; justify-content: space-between; padding: 18px 0 12px; gap: 12px; }
-h1 { font: 600 24px/1 var(--serif); margin: 0; }
+.top { display: flex; align-items: center; padding: 18px 0 12px; gap: 10px; }
+h1 { font: 600 24px/1 var(--serif); margin: 0; flex: 1; }
 .seg { display: flex; background: var(--chip); border-radius: 999px; padding: 3px; }
-.seg button { border: 0; background: none; padding: 6px 14px; border-radius: 999px; font-size: 13px; font-weight: 600; cursor: pointer; }
+.seg button { border: 0; background: none; padding: 6px 13px; border-radius: 999px; font-size: 13px; font-weight: 600; cursor: pointer; }
 .seg button[aria-pressed="true"] { background: var(--surface); box-shadow: 0 1px 2px rgb(0 0 0 / .12); }
+.icon { flex: none; width: 34px; height: 34px; border: 0; border-radius: 50%; background: var(--chip); display: grid; place-items: center; cursor: pointer; padding: 0; }
+.icon svg { width: 18px; height: 18px; }
 
 .filters { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 0 16px 12px; }
 .filters::-webkit-scrollbar { display: none; }
 .chip { flex: none; border: 0; background: var(--chip); padding: 7px 11px; border-radius: 999px; font-size: 13px; font-weight: 500; cursor: pointer; white-space: nowrap; }
 .chip[aria-pressed="true"] { background: var(--on); color: var(--on-ink); }
-select.chip { appearance: none; -webkit-appearance: none; padding-right: 22px;
-  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%), linear-gradient(135deg, currentColor 50%, transparent 50%);
-  background-position: calc(100% - 12px) 50%, calc(100% - 8px) 50%; background-size: 4px 4px; background-repeat: no-repeat; }
 .sep { flex: none; width: 1px; background: var(--line); margin: 4px 2px; }
 
 /* calendar */
@@ -70,14 +75,15 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 22px;
 .row { display: flex; align-items: flex-start; gap: 12px; padding: 11px 0; border-bottom: 1px solid var(--line); }
 .row:last-child { border-bottom: 0; }
 .t { flex: none; width: 52px; font-size: 13px; color: var(--muted); padding-top: 1px; font-variant-numeric: tabular-nums; }
-.main { flex: 1; min-width: 0; }
+.main { flex: 1; min-width: 0; border: 0; background: none; padding: 0; text-align: left; cursor: pointer; }
 .title { font-weight: 600; overflow-wrap: anywhere; }
 .sub { font-size: 13px; color: var(--muted); overflow-wrap: anywhere; margin-top: 1px; }
+.mynote { font-size: 12.5px; color: var(--note); margin-top: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: .03em; text-transform: uppercase;
   padding: 2px 5px; border-radius: 4px; background: var(--chip); color: var(--ink); margin-left: 6px; vertical-align: 2px; }
 .tag.hot { background: var(--accent); color: #fff; }
-.add { flex: none; width: 30px; height: 30px; border-radius: 50%; border: 1px solid var(--line); display: grid; place-items: center;
-  color: var(--muted); font-size: 18px; line-height: 1; margin-top: -2px; }
+.add { flex: none; width: 30px; height: 30px; border-radius: 50%; border: 1px solid var(--line); background: none; display: grid; place-items: center;
+  color: var(--muted); font-size: 18px; line-height: 1; margin-top: -2px; cursor: pointer; padding: 0; }
 .add:hover { color: var(--ink); border-color: var(--ink); }
 .standing .title { font-weight: 500; }
 .standing .row { padding: 8px 0; }
@@ -87,10 +93,38 @@ footer a { text-decoration: underline; }
 .more { margin-top: 28px; font-size: 13px; }
 .more summary { cursor: pointer; color: var(--muted); list-style: none; text-align: center; }
 .more summary::-webkit-details-marker { display: none; }
-.more .links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
-.more .grp { margin-top: 14px; }
-.more .gl { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
-.more .links a { background: var(--chip); padding: 6px 10px; border-radius: 999px; }
+.links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.grp { margin-top: 14px; }
+.gl { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.links a { background: var(--chip); padding: 6px 10px; border-radius: 999px; }
+
+/* sheets */
+dialog.sheet { border: 0; padding: 0; margin: auto auto 0; width: 100%; max-width: 560px; max-height: 88vh; background: var(--surface); color: var(--ink);
+  border-radius: 18px 18px 0 0; box-shadow: 0 -8px 30px rgb(0 0 0 / .25); }
+@media (min-width: 600px) { dialog.sheet { margin: auto; border-radius: 18px; } }
+dialog.sheet::backdrop { background: rgb(0 0 0 / .45); }
+.sheet-in { padding: 18px 18px calc(22px + env(safe-area-inset-bottom)); overflow-y: auto; max-height: 88vh; }
+.sheet-head { display: flex; align-items: flex-start; gap: 12px; }
+.sheet-head h3 { font: 600 20px/1.2 var(--serif); margin: 0; flex: 1; overflow-wrap: anywhere; }
+.x { border: 0; background: var(--chip); width: 30px; height: 30px; border-radius: 50%; cursor: pointer; flex: none; font-size: 16px; line-height: 1; }
+.meta { color: var(--muted); font-size: 14px; margin-top: 6px; }
+.why { margin-top: 8px; font-size: 14px; }
+.sec { margin-top: 18px; }
+.sec h4 { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn { border: 1px solid var(--line); background: none; border-radius: 10px; padding: 9px 12px; font-size: 14px; cursor: pointer; display: inline-block; }
+.btn.primary { background: var(--on); color: var(--on-ink); border-color: var(--on); }
+.btn[aria-pressed="true"] { background: var(--on); color: var(--on-ink); border-color: var(--on); }
+textarea.note { width: 100%; min-height: 84px; border: 1px solid var(--line); border-radius: 10px; padding: 10px; background: var(--bg); resize: vertical; font-size: 14px; }
+.hint { font-size: 12.5px; color: var(--muted); margin-top: 6px; }
+.srow { display: flex; align-items: center; gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.srow span { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.live { font-size: 10.5px; font-weight: 700; color: var(--accent); margin-left: 6px; }
+.switch { appearance: none; -webkit-appearance: none; width: 40px; height: 24px; border-radius: 999px; background: var(--line); position: relative; cursor: pointer; flex: none; margin: 0; }
+.switch::after { content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; border-radius: 50%; background: #fff; transition: left .15s; }
+.switch:checked { background: var(--accent); }
+.switch:checked::after { left: 19px; }
+details.cat summary { cursor: pointer; padding: 8px 0; font-weight: 600; font-size: 14px; }
 </style>
 </head>
 <body>
@@ -101,12 +135,16 @@ footer a { text-decoration: underline; }
       <button type="button" data-view="cal" aria-pressed="true">Calendar</button>
       <button type="button" data-view="all" aria-pressed="false">All</button>
     </div>
+    <button class="icon" type="button" id="gear" aria-label="Settings">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+    </button>
   </div>
   <div class="filters" id="filters"></div>
   <div id="view"></div>
   <details class="more" id="more" hidden><summary>More calendars</summary><div id="moreLinks"></div></details>
   <footer id="foot"></footer>
 </div>
+<dialog class="sheet" id="sheet"><div class="sheet-in" id="sheetBody"></div></dialog>
 
 <script>
 const TZ = "America/New_York";
@@ -114,14 +152,23 @@ const NEAR = ["Tribeca", "SoHo", "Hudson Square", "FiDi", "West Village"];
 const CATS = { openings: "Openings", museums: "Museums", fairs: "Fairs", opera_classical: "Classical & opera",
   jazz_music: "Music", film: "Film", performance: "Performance", books_talks: "Talks & books", institutes: "Institutes",
   fashion_design: "Fashion & design", watches_jewelry: "Watches & jewelry", parties_benefits: "Parties",
-  food_wine: "Food & wine", nightlife: "Nightlife", audio_vinyl: "Vinyl & audio" };
+  food_wine: "Food & wine", nightlife: "Nightlife", audio_vinyl: "Vinyl & audio", social: "Social" };
+// GitHub repo behind this page, for the add-source / alert forms
+const REPO = location.hostname.endsWith("github.io")
+  ? `${location.hostname.split(".")[0]}/${location.pathname.split("/")[1]}` : "xd00z1/out-tonight";
+const FEED = new URL("calendar.ics", location.href).href;
 
-const load = () => { try { return JSON.parse(localStorage.getItem("ot") || "{}"); } catch { return {}; } };
-const save = () => { try { localStorage.setItem("ot", JSON.stringify({ f, view })); } catch {} };
-const saved = load();
-let f = Object.assign({ price: null, entry: [], near: false, cat: "" }, saved.f);
+// ---- storage: everything personal stays in this browser
+const get = (k, d) => { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } };
+const put = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
+const saved = get("ot", {});
+let f = Object.assign({ price: null, entry: [], near: false, cats: [] }, saved.f);
+if (saved.f && saved.f.cat && !f.cats.length) f.cats = [saved.f.cat];  // older single-type filter
 let view = saved.view || "cal";
-let DATA = { events: [] }, today, selected, month;
+let prefs = Object.assign({ cal: "google", hidden: [] }, get("ot-prefs", {}));
+let notes = get("ot-notes", {});
+const save = () => { put("ot", { f, view }); put("ot-prefs", prefs); put("ot-notes", notes); };
+let DATA = { events: [], sources: [] }, today, selected, month;
 
 // ---- dates, all in New York wall time
 const nyDate = d => new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
@@ -131,6 +178,16 @@ const label = (ymd, o) => new Date(ymd + "T12:00:00Z").toLocaleDateString("en-US
 const time = iso => new Date(iso).toLocaleTimeString("en-US", { timeZone: TZ, hour: "numeric", minute: "2-digit" }).replace(":00", "").replace(" ", "").toLowerCase();
 const sd = e => e.start.slice(0, 10);
 const ed = e => e.multi_day_end || sd(e);
+const srcKey = e => e.origin || e.source_id;
+const venueKey = e => (e.venue || e.neighborhood || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+
+const ACR = new Set("nyc ny icp moma ps1 nypl bpl mad amnh nyas bac nyla nytw cmslc msm lmcc flc bam pac gsapp fit kccny iscp lpr mcny bpca cuny gc ifc".split(" "));
+const FIX = { ny92: "92NY", moma: "MoMA", moma_ps1: "MoMA PS1", joes_pub: "Joe's Pub", mintons: "Minton's", kgb_bar: "KGB Bar",
+  pi_fyi: "PI.FYI", docnyc: "DOC NYC", lalliance: "L'Alliance", sothebys_ny: "Sotheby's", bk_bridge_park: "Brooklyn Bridge Park",
+  met_events: "The Met", ps122: "PS122", here_arts: "HERE", mcnally_jackson: "McNally Jackson", st_barts: "St. Bart's",
+  the_skint: "The Skint", sculpturecenter: "SculptureCenter", met_opera: "Met Opera", recurring: "Standing options",
+  seed: "Hand-picked list", frick: "The Frick", dizzys: "Dizzy's Club", st_anns: "St. Ann's Warehouse" };
+const name = s => s.name || FIX[s.id] || s.id.split("_").map(w => ACR.has(w) ? w.toUpperCase() : w[0].toUpperCase() + w.slice(1)).join(" ");
 
 // Which days an event shows on. Runs over a month appear only on opening and closing day.
 function onDay(e, d) {
@@ -140,11 +197,12 @@ function onDay(e, d) {
 }
 
 function passes(e) {
+  if (prefs.hidden.includes(srcKey(e))) return false;
   if (f.price === "free" && e.price_min !== 0) return false;
   if (f.price && f.price !== "free" && !(e.price_min != null && e.price_min <= +f.price)) return false;
   if (f.entry.length && !f.entry.includes(e.entry)) return false;
   if (f.near && !NEAR.includes(e.neighborhood)) return false;
-  if (f.cat && e.category !== f.cat) return false;
+  if (f.cats.length && !f.cats.includes(e.category)) return false;
   return true;
 }
 
@@ -159,26 +217,163 @@ const h = (tag, attrs = {}, ...kids) => {
   for (const [k, v] of Object.entries(attrs)) {
     if (v == null || v === false) continue;
     if (k === "class") n.className = v; else if (k === "text") n.textContent = v;
-    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v);
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else if (k === "checked") n.checked = !!v; else n.setAttribute(k, v);
   }
   for (const k of kids.flat()) if (k != null && k !== false && k !== "") n.append(k);
   return n;
 };
+
+// ---- calendar apps
+function icsFor(e) {
+  const esc = s => (s || "").replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\n/g, "\\n");
+  const utc = d => d.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
+  let dates;
+  if (e.all_day) {
+    dates = [`DTSTART;VALUE=DATE:${sd(e).replace(/-/g, "")}`, `DTEND;VALUE=DATE:${add(ed(e), 1).replace(/-/g, "")}`];
+  } else {
+    const s = new Date(e.start), en = e.end ? new Date(e.end) : new Date(s.getTime() + 2 * 3600e3);
+    dates = [`DTSTART:${utc(s)}`, `DTEND:${utc(en)}`];
+  }
+  return ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//out-tonight//EN", "BEGIN:VEVENT", `UID:${e.id}@out-tonight`,
+    `DTSTAMP:${utc(new Date())}`, ...dates, `SUMMARY:${esc(e.title)}`,
+    `DESCRIPTION:${esc([e.why, e.cost_text !== "Not stated" && "Cost: " + e.cost_text, e.url].filter(Boolean).join("\n"))}`,
+    `LOCATION:${esc(e.address || e.venue)}`, `URL:${e.url}`, "END:VEVENT", "END:VCALENDAR"].join("\r\n") + "\r\n";
+}
+function outlookUrl(e) {
+  const allDay = !!e.all_day;
+  const s = allDay ? sd(e) : new Date(e.start).toISOString();
+  const en = allDay ? add(ed(e), 1) : (e.end ? new Date(e.end) : new Date(new Date(e.start).getTime() + 2 * 3600e3)).toISOString();
+  const q = new URLSearchParams({ path: "/calendar/action/compose", rru: "addevent", subject: e.title, startdt: s, enddt: en,
+    allday: String(allDay), location: e.address || e.venue || "", body: [e.why, e.url].filter(Boolean).join("\n") });
+  return "https://outlook.live.com/calendar/0/deeplink/compose?" + q;
+}
+function addTo(app, e) {
+  if (app === "google") return window.open(e.gcal_url, "_blank", "noopener");
+  if (app === "outlook") return window.open(outlookUrl(e), "_blank", "noopener");
+  const url = URL.createObjectURL(new Blob([icsFor(e)], { type: "text/calendar" }));  // Apple and anything else
+  const a = h("a", { href: url, download: e.title.replace(/[^\w]+/g, "-").slice(0, 60) + ".ics" });
+  document.body.append(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 4000);
+}
+const CAL_APPS = [["google", "Google"], ["apple", "Apple"], ["outlook", "Outlook"]];
+const subscribeUrl = app => app === "apple" ? FEED.replace(/^https?:/, "webcal:")
+  : app === "google" ? "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(FEED.replace(/^https?:/, "webcal:"))
+  : "https://outlook.live.com/calendar/0/addfromweb?" + new URLSearchParams({ url: FEED, name: "Out Tonight" });
+
+// ---- GitHub forms (add source, remove source, alert)
+const issueUrl = (template, title, fields) =>
+  `https://github.com/${REPO}/issues/new?` + new URLSearchParams({ template, title, ...fields });
+
+// ---- sheets
+const sheet = document.getElementById("sheet");
+function openSheet(title, ...body) {
+  document.getElementById("sheetBody").replaceChildren(
+    h("div", { class: "sheet-head" }, h("h3", { text: title }), h("button", { class: "x", type: "button", "aria-label": "Close", text: "✕", onclick: closeSheet })),
+    ...body.flat().filter(x => x != null && x !== false && x !== ""));
+  if (!sheet.open) sheet.showModal();
+}
+function closeSheet() { if (sheet.open) sheet.close(); render(); }
+sheet.addEventListener("click", ev => { if (ev.target === sheet) closeSheet(); });
+sheet.addEventListener("cancel", () => setTimeout(render));  // Esc key / back gesture
+const sec = (title, ...kids) => h("div", { class: "sec" }, h("h4", { text: title }), ...kids);
+
+function eventSheet(e) {
+  const when = e.multi_day_end ? `${label(sd(e), { weekday: "short", month: "short", day: "numeric" })} – ${label(ed(e), { month: "short", day: "numeric" })}`
+    : label(sd(e), { weekday: "long", month: "long", day: "numeric" }) + (e.all_day ? "" : " · " + time(e.start));
+  const src = DATA.sources.find(s => s.id === srcKey(e)) || { id: srcKey(e) };
+  const vk = venueKey(e);
+  const venueName = e.venue || e.neighborhood || "this venue";
+  openSheet(e.title,
+    h("div", { class: "meta", text: [when, e.venue, e.neighborhood && e.neighborhood !== e.venue ? e.neighborhood : null].filter(Boolean).join(" · ") }),
+    h("div", { class: "meta", text: [e.cost_text !== "Not stated" ? e.cost_text : "Cost not stated", e.entry === "rsvp" && "RSVP", e.age_min && e.age_min + "+", e.confidence === "projected" && "Estimated date"].filter(Boolean).join(" · ") }),
+    e.why && h("div", { class: "why", text: e.why }),
+    h("div", { class: "sec btns" }, h("a", { class: "btn primary", href: e.url, target: "_blank", rel: "noopener", text: "Event page" })),
+    sec("Add to calendar", h("div", { class: "btns" }, CAL_APPS.map(([k, t]) => h("button", { class: "btn", type: "button", text: t, onclick: () => addTo(k, e) })))),
+    vk && sec(`Your notes on ${venueName}`,
+      h("textarea", { class: "note", placeholder: "Cash only. $25 F&B minimum. Get there before 8. Ask for the bar seats…",
+        oninput: ev => { const v = ev.target.value; if (v.trim()) notes[vk] = v; else delete notes[vk]; save(); } }, notes[vk] || ""),
+      h("div", { class: "hint", text: "Saved on this device only. Shows on every event at this venue." })),
+    sec("Alert me", h("div", { class: "btns" },
+      vk && h("a", { class: "btn", target: "_blank", rel: "noopener", text: `New events at ${venueName}`,
+        href: issueUrl("alert.yml", `Alert: ${venueName}`, { alert_name: venueName, venue: e.venue || "" }) }),
+      h("a", { class: "btn", target: "_blank", rel: "noopener", text: "Similar titles",
+        href: issueUrl("alert.yml", `Alert: ${e.title}`, { alert_name: e.title.slice(0, 60), words: e.title.split(/[:|(–-]/)[0].trim().slice(0, 60) }) })),
+      h("div", { class: "hint", text: "Opens a short GitHub form. Matches are emailed to you after each refresh." })),
+    sec("Source", h("div", { class: "srow" }, h("span", { text: name(src) }),
+      h("input", { type: "checkbox", class: "switch", checked: !prefs.hidden.includes(src.id), "aria-label": "Show " + name(src),
+        onchange: ev => { prefs.hidden = ev.target.checked ? prefs.hidden.filter(x => x !== src.id) : [...prefs.hidden, src.id]; save(); } })),
+      h("div", { class: "hint", text: "Switch off to hide everything from this source on this device." }))
+  );
+}
+
+function typesSheet() {
+  const present = new Set(DATA.events.map(e => e.category));
+  const draw = () => openSheet("Types",
+    h("div", { class: "btns", style: "margin-top:12px" }, Object.entries(CATS).filter(([k]) => present.has(k)).map(([k, t]) =>
+      h("button", { class: "btn", type: "button", "aria-pressed": String(f.cats.includes(k)), text: t,
+        onclick: () => { f.cats = f.cats.includes(k) ? f.cats.filter(x => x !== k) : [...f.cats, k]; save(); draw(); } }))),
+    h("div", { class: "sec btns" },
+      h("button", { class: "btn", type: "button", text: "Show all types", onclick: () => { f.cats = []; save(); draw(); } }),
+      h("button", { class: "btn primary", type: "button", text: "Done", onclick: closeSheet })));
+  draw();
+}
+
+function settingsSheet() {
+  const byCat = {};
+  for (const s of DATA.sources) (byCat[s.category] ||= []).push(s);
+  const toggle = s => h("div", { class: "srow" },
+    h("span", {}, name(s), s.live && h("span", { class: "live", text: "LIVE" })),
+    h("input", { type: "checkbox", class: "switch", checked: !prefs.hidden.includes(s.id), "aria-label": "Show " + name(s),
+      onchange: ev => { prefs.hidden = ev.target.checked ? prefs.hidden.filter(x => x !== s.id) : [...prefs.hidden, s.id]; save(); } }));
+  const special = [{ id: "recurring", category: "_" }, { id: "seed", category: "_" }];
+  const draw = () => openSheet("Settings",
+    sec("Add events to", h("div", { class: "btns" }, CAL_APPS.map(([k, t]) => h("button", { class: "btn", type: "button",
+      "aria-pressed": String(prefs.cal === k), text: t, onclick: () => { prefs.cal = k; save(); draw(); } }))),
+      h("div", { class: "hint", text: "Used by the + button on each event." })),
+    sec("Subscribe to the whole calendar", h("div", { class: "btns" }, CAL_APPS.map(([k, t]) =>
+      h("a", { class: "btn", href: subscribeUrl(k), target: "_blank", rel: "noopener", text: t }))),
+      h("div", { class: "hint", text: "Keeps the next 60 days in your calendar app as a separate calendar you can toggle." })),
+    sec("Sources",
+      h("div", { class: "btns" },
+        h("a", { class: "btn", target: "_blank", rel: "noopener", href: issueUrl("add_source.yml", "Add source: ", {}), text: "Add a source" }),
+        h("a", { class: "btn", target: "_blank", rel: "noopener", href: issueUrl("remove_source.yml", "Remove source: ", {}), text: "Remove for everyone" })),
+      h("div", { class: "hint", text: "Switches below hide a source on this device. LIVE sources update automatically; the rest are links in More calendars." }),
+      special.map(toggle),
+      Object.keys(CATS).filter(k => byCat[k]).map(k => h("details", { class: "cat" },
+        h("summary", { text: `${CATS[k]} (${byCat[k].length})` }),
+        byCat[k].sort((a, b) => name(a).localeCompare(name(b))).map(toggle)))),
+    sec("Alerts", h("div", { class: "btns" },
+      h("a", { class: "btn", target: "_blank", rel: "noopener", href: issueUrl("alert.yml", "Alert: ", {}), text: "New alert" }),
+      h("a", { class: "btn", target: "_blank", rel: "noopener", href: `https://github.com/${REPO}/blob/main/alerts.yaml`, text: "Edit alert rules" })),
+      h("div", { class: "hint", text: "Matches arrive by email from GitHub. For phone pushes, install the free ntfy app and add an NTFY_TOPIC secret to the repo." })),
+    sec(`Venue notes (${Object.keys(notes).length})`, h("div", { class: "btns" },
+      h("button", { class: "btn", type: "button", text: "Export", onclick: () => {
+        const url = URL.createObjectURL(new Blob([JSON.stringify(notes, null, 1)], { type: "application/json" }));
+        const a = h("a", { href: url, download: "out-tonight-notes.json" }); document.body.append(a); a.click(); a.remove(); } }),
+      h("label", { class: "btn" }, "Import", h("input", { type: "file", accept: "application/json", hidden: "", onchange: async ev => {
+        try { Object.assign(notes, JSON.parse(await ev.target.files[0].text())); save(); draw(); } catch { alert("That file isn't a notes export."); } } }))),
+      h("div", { class: "hint", text: "Notes live on this device. Export to back them up or move them to another phone." })),
+    sec("For AI assistants", h("div", { class: "btns" },
+      h("a", { class: "btn", href: "brief.txt", target: "_blank", text: "brief.txt" }),
+      h("button", { class: "btn", type: "button", text: "Copy link", onclick: ev => { navigator.clipboard?.writeText(new URL("brief.txt", location.href).href); ev.target.textContent = "Copied"; } })),
+      h("div", { class: "hint", text: "Plain text, next 7 days. Ask Grok or any assistant to read this link for your daily briefing." })),
+    sec("Install on your phone", h("div", { class: "hint", style: "margin-top:0",
+      text: "iPhone: Safari → Share → Add to Home Screen. Android: Chrome menu → Install app." }))
+  );
+  draw();
+}
 
 // ---- filters
 function renderFilters() {
   const chip = (text, on, click) => h("button", { class: "chip", type: "button", "aria-pressed": String(!!on), text, onclick: () => { click(); save(); render(); } });
   const price = v => chip(v === "free" ? "Free" : `≤ $${v}`, f.price === v, () => f.price = f.price === v ? null : v);
   const entry = (v, t) => chip(t, f.entry.includes(v), () => f.entry = f.entry.includes(v) ? f.entry.filter(x => x !== v) : [...f.entry, v]);
-  const present = new Set(DATA.events.map(e => e.category));
-  const cat = h("select", { class: "chip", "aria-label": "Type", onchange: ev => { f.cat = ev.target.value; save(); render(); } },
-    h("option", { value: "", text: "All types" }),
-    ...Object.entries(CATS).filter(([k]) => present.has(k)).map(([k, t]) => h("option", { value: k, text: t, selected: f.cat === k ? "" : null })));
-  if (f.cat) cat.setAttribute("aria-pressed", "true");
+  const typesLabel = f.cats.length === 0 ? "All types" : f.cats.length === 1 ? CATS[f.cats[0]] : `${f.cats.length} types`;
   document.getElementById("filters").replaceChildren(
+    h("button", { class: "chip", type: "button", "aria-pressed": String(f.cats.length > 0), text: typesLabel + " ▾", onclick: typesSheet }),
+    h("span", { class: "sep" }),
     price("free"), price("25"), price("50"), h("span", { class: "sep" }),
     entry("walk_in", "Walk in"), entry("rsvp", "RSVP"), entry("ticket", "Ticket"), h("span", { class: "sep" }),
-    chip("Near home", f.near, () => f.near = !f.near), cat);
+    chip("Near home", f.near, () => f.near = !f.near));
 }
 
 // ---- rows
@@ -196,11 +391,14 @@ function row(e, d) {
   const cost = e.cost_text === "Not stated" ? null : e.cost_text;
   const thru = e.multi_day_end && span(sd(e), ed(e)) <= 31 ? "thru " + label(ed(e), { month: "short", day: "numeric" }) : null;
   const sub = [e.venue || e.neighborhood, cost, thru].filter(Boolean).join(" · ");
+  const note = notes[venueKey(e)];
+  const app = CAL_APPS.find(([k]) => k === prefs.cal)[1];
   return h("div", { class: "row" },
     h("div", { class: "t", text: t }),
-    h("a", { class: "main", href: e.url, target: "_blank", rel: "noopener" },
-      h("div", { class: "title" }, e.title, tags), sub && h("div", { class: "sub", text: sub })),
-    h("a", { class: "add", href: e.gcal_url, target: "_blank", rel: "noopener", title: "Add to Google Calendar", "aria-label": "Add to Google Calendar", text: "+" }));
+    h("button", { class: "main", type: "button", onclick: () => eventSheet(e) },
+      h("div", { class: "title" }, e.title, tags), sub && h("div", { class: "sub", text: sub }),
+      note && h("div", { class: "mynote", text: "✎ " + note.split("\n")[0] })),
+    h("button", { class: "add", type: "button", title: `Add to ${app} Calendar`, "aria-label": `Add to ${app} Calendar`, text: "+", onclick: () => addTo(prefs.cal, e) }));
 }
 
 function eventsOn(d) {
@@ -265,21 +463,16 @@ function render() {
 }
 
 document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => { view = b.dataset.view; save(); render(); }));
+document.getElementById("gear").addEventListener("click", settingsSheet);
 
 (async () => {
   try {
     const [ev, st] = await Promise.all([
       fetch("events.json", { cache: "no-cache" }).then(r => r.json()),
       fetch("status.json", { cache: "no-cache" }).then(r => r.json()).catch(() => null)]);
-    DATA = ev;
+    DATA = Object.assign({ sources: [] }, ev);
     today = nyDate(new Date()); selected = today; month = today.slice(0, 7);
     render();
-    const ACR = new Set("nyc ny icp moma ps1 nypl bpl mad amnh nyas bac nyla nytw cmslc msm lmcc flc bam pac gsapp fit kccny iscp lpr mcny bpca cuny gc ifc hb".split(" "));
-    const FIX = { ny92: "92NY", moma: "MoMA", moma_ps1: "MoMA PS1", joes_pub: "Joe's Pub", mintons: "Minton's",
-      kgb_bar: "KGB Bar", pi_fyi: "PI.FYI", docnyc: "DOC NYC", lalliance: "L'Alliance", sothebys_ny: "Sotheby's",
-      bk_bridge_park: "Brooklyn Bridge Park", met_events: "The Met", ps122: "PS122", here_arts: "HERE",
-      mcnally_jackson: "McNally Jackson", st_barts: "St. Bart's", the_skint: "The Skint", sculpturecenter: "SculptureCenter" };
-    const name = b => b.name || FIX[b.id] || (b.id.split("_").map(w => ACR.has(w) ? w.toUpperCase() : w[0].toUpperCase() + w.slice(1)).join(" "));
     const byCat = {};
     for (const b of ev.browse || []) (byCat[b.category] ||= []).push(b);
     document.getElementById("moreLinks").replaceChildren(...Object.keys(CATS).filter(k => byCat[k]).map(k =>
@@ -291,13 +484,13 @@ document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click"
     // A source GitHub can't reach still counts as fine if the monthly local run reached it recently.
     const cutoff = new Date(Date.now() - 40 * 864e5).toISOString().slice(0, 10);
     const stale = st ? st.sources.filter(x => x.result === "failed" && !(x.last_success && x.last_success >= cutoff)).length : 0;
-    const failed = stale ? ` · ${stale} sources failing` : "";
-    const feed = new URL("calendar.ics", location.href).href;
-    document.getElementById("foot").replaceChildren(`Updated ${upd}${failed} · `, h("a", { href: feed, text: "Calendar feed" }));
+    document.getElementById("foot").replaceChildren(`Updated ${upd}${stale ? ` · ${stale} sources failing` : ""}`);
   } catch {
     document.getElementById("view").textContent = "Couldn't load events.json.";
   }
 })();
+
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
 </script>
 </body>
 </html>

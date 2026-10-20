@@ -1,0 +1,24 @@
+# Alert rules. After each refresh, upcoming events matching any rule (and not yet
+# alerted) are sent as one GitHub issue (GitHub emails it to you) and, if the
+# NTFY_TOPIC repo secret is set, as a phone push via the free ntfy app.
+#
+# Each rule may use any of these; all given fields must match:
+#   name:      label shown in the alert
+#   text:      words or regex matched against title, venue and description (case-insensitive)
+#   venue:     words matched against the venue name
+#   category:  one of the site's categories, e.g. jazz_music, opera_classical, film
+#   free:      true to match only free events
+#
+# Add rules here, or with the "Alert me" button on any event (it opens a prefilled
+# GitHub form that adds the rule for you).
+
+rules:
+  # Examples (remove the # to turn one on):
+  # - name: Big bands
+  #   text: big band|jazz orchestra
+  # - name: Tosca, any production
+  #   text: \btosca\b
+  #   category: opera_classical
+  # - name: Anything free at the Frick
+  #   venue: frick
+  #   free: true

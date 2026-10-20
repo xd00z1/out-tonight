@@ -1,0 +1,12 @@
+name: Remove a source
+description: Turn a source off for everyone (to hide one only on your phone, use the switch in Settings)
+title: "Remove source: "
+labels: [source-remove]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: The source id or name, e.g. luma_nyc or Luma NYC
+    validations:
+      required: true

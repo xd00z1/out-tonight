@@ -1,0 +1,49 @@
+name: Alert me
+description: Get an email (and optional phone push) when matching events are listed
+title: "Alert: "
+labels: [alert-add]
+body:
+  - type: input
+    id: alert_name
+    attributes:
+      label: Alert name
+      placeholder: Big bands
+  - type: input
+    id: words
+    attributes:
+      label: Words to match
+      description: Matched against title, venue and description. Separate alternatives with |
+      placeholder: big band|jazz orchestra
+  - type: input
+    id: venue
+    attributes:
+      label: Venue
+      placeholder: Village Vanguard
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - any
+        - openings
+        - museums
+        - fairs
+        - opera_classical
+        - jazz_music
+        - film
+        - performance
+        - books_talks
+        - institutes
+        - fashion_design
+        - watches_jewelry
+        - parties_benefits
+        - food_wine
+        - nightlife
+        - audio_vinyl
+        - social
+  - type: checkboxes
+    id: free
+    attributes:
+      label: Free only
+      options:
+        - label: Free events only
