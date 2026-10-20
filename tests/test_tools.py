@@ -7,6 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
 import alerts  # noqa: E402
+import send_email  # noqa: E402
 import apply_request  # noqa: E402
 
 BODY = """### Alert name
@@ -66,6 +67,17 @@ class Alerts(unittest.TestCase):
         body, ids = alerts.digest(self.EV, [{"name": "Jazz", "category": "jazz_music"}], {"a"}, date(2026, 10, 20))
         self.assertEqual(ids, ["b"])
         self.assertIn("### Jazz", body)
+
+
+class Email(unittest.TestCase):
+    def test_html_digest(self):
+        md = ("### Big bands\n"
+              "- 2026-10-26 19:00 · **Mike LeDonne <Big> Band** · Dizzy's Club · [link](https://x.org/e?a=1&b=2)\n")
+        out = send_email.to_html(md)
+        self.assertIn(">Big bands</h3>", out)
+        self.assertIn("Mike LeDonne &lt;Big&gt; Band", out)
+        self.assertIn('href="https://x.org/e?a=1&amp;b=2"', out)
+        self.assertIn("2026-10-26 19:00 · Dizzy&#x27;s Club", out)
 
 
 if __name__ == "__main__":

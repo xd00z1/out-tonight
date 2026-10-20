@@ -121,8 +121,11 @@ Each event's **+** button adds it to Google Calendar (New York local time).
 "Add a source", "Remove for everyone" and "Alert me" open prefilled issue forms. The `requests` workflow
 applies them (only for issues opened by the repo owner), commits, and triggers a refresh.
 
-Alert rules live in `alerts.yaml`. After each refresh, new matches are posted as one GitHub issue assigned
-to the owner, which GitHub emails. For phone pushes, install the free [ntfy](https://ntfy.sh) app,
+Alert rules live in `alerts.yaml`. After each refresh, new matches go out as one email through
+[Resend](https://resend.com) (free tier) when the repo secrets `RESEND_API_KEY` and `ALERT_EMAIL` are set.
+Without them, the digest is posted as a GitHub issue assigned to the owner, which GitHub emails. With
+Resend's default sender (`onboarding@resend.dev`) mail only goes to the address the Resend account was
+created with; set `RESEND_FROM` after verifying a domain to send anywhere. For phone pushes, install the free [ntfy](https://ntfy.sh) app,
 subscribe to a hard-to-guess topic name, and save that name as the repo secret `NTFY_TOPIC`.
 
 ## For AI assistants

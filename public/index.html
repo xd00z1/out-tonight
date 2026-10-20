@@ -344,7 +344,7 @@ function settingsSheet() {
     sec("Alerts", h("div", { class: "btns" },
       h("a", { class: "btn", target: "_blank", rel: "noopener", href: issueUrl("alert.yml", "Alert: ", {}), text: "New alert" }),
       h("a", { class: "btn", target: "_blank", rel: "noopener", href: `https://github.com/${REPO}/blob/main/alerts.yaml`, text: "Edit alert rules" })),
-      h("div", { class: "hint", text: "Matches arrive by email from GitHub. For phone pushes, install the free ntfy app and add an NTFY_TOPIC secret to the repo." })),
+      h("div", { class: "hint", text: "Matches are emailed after each refresh (via Resend once its repo secrets are set, otherwise as a GitHub notification). Optional phone pushes via the free ntfy app." })),
     sec(`Venue notes (${Object.keys(notes).length})`, h("div", { class: "btns" },
       h("button", { class: "btn", type: "button", text: "Export", onclick: () => {
         const url = URL.createObjectURL(new Blob([JSON.stringify(notes, null, 1)], { type: "application/json" }));
