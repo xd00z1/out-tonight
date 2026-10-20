@@ -59,15 +59,20 @@ h1 { font: 600 24px/1 var(--serif); margin: 0; flex: 1; }
 .grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; }
 .dow { text-align: center; font-size: 11px; font-weight: 600; color: var(--muted); padding-bottom: 4px; }
 .day { aspect-ratio: 1 / 1; border: 0; background: none; border-radius: 10px; display: flex; flex-direction: column;
-  align-items: center; justify-content: center; gap: 4px; cursor: pointer; font-size: 15px; font-variant-numeric: tabular-nums; padding: 0; }
+  align-items: center; justify-content: center; gap: 3px; cursor: pointer; font-size: 15px; font-variant-numeric: tabular-nums; padding: 0; }
 .day.out { visibility: hidden; }
 .day.past { color: var(--muted); opacity: .45; }
 .day.today .n { color: var(--accent); font-weight: 700; }
-.day[aria-pressed="true"] { background: var(--on); color: var(--on-ink); }
 .day[aria-pressed="true"] .n { color: inherit; }
-.dots { display: flex; gap: 3px; height: 5px; }
-.dots i { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
-.day[aria-pressed="true"] .dots i { background: var(--on-ink); }
+.cnt { font-size: 11px; font-weight: 700; line-height: 1; color: var(--accent); min-height: 11px; font-variant-numeric: tabular-nums; }
+/* busier days get a deeper tint, so the month reads at a glance */
+.day.l1 { background: color-mix(in srgb, var(--accent) 9%, transparent); }
+.day.l2 { background: color-mix(in srgb, var(--accent) 17%, transparent); }
+.day.l3 { background: color-mix(in srgb, var(--accent) 27%, transparent); }
+.day.past .cnt { color: var(--muted); }
+.day.l3 .cnt { color: var(--ink); }
+.day[aria-pressed="true"] { background: var(--on); color: var(--on-ink); }
+.day[aria-pressed="true"] .cnt { color: var(--on-ink); }
 
 /* lists */
 .dayhead { font: 600 13px/1 var(--sans); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 22px 0 6px; }
@@ -99,7 +104,7 @@ footer a { text-decoration: underline; }
 .links a { background: var(--chip); padding: 6px 10px; border-radius: 999px; }
 
 /* sheets */
-dialog.sheet { border: 0; padding: 0; margin: auto auto 0; width: 100%; max-width: 560px; max-height: 88vh; background: var(--surface); color: var(--ink);
+dialog.sheet { border: 0; padding: 0; margin: auto auto 0; width: 100%; max-width: 640px; max-height: 88vh; background: var(--surface); color: var(--ink);
   border-radius: 18px 18px 0 0; box-shadow: 0 -8px 30px rgb(0 0 0 / .25); }
 @media (min-width: 600px) { dialog.sheet { margin: auto; border-radius: 18px; } }
 dialog.sheet::backdrop { background: rgb(0 0 0 / .45); }
@@ -125,6 +130,17 @@ textarea.note { width: 100%; min-height: 84px; border: 1px solid var(--line); bo
 .switch:checked { background: var(--accent); }
 .switch:checked::after { left: 19px; }
 details.cat summary { cursor: pointer; padding: 8px 0; font-weight: 600; font-size: 14px; }
+
+/* wide screens: calendar on the left (sticky), the day's events beside it */
+@media (min-width: 860px) {
+  .wrap { max-width: 1100px; padding-left: 32px; padding-right: 32px; }
+  .cal-layout { display: grid; grid-template-columns: minmax(340px, 420px) 1fr; gap: 48px; align-items: start; }
+  .calpane { position: sticky; top: 16px; }
+  .daypane .dayhead:first-child { margin-top: 6px; }
+  .list.all { max-width: 820px; }
+  .filters { margin: 0; padding: 0 0 16px; flex-wrap: wrap; overflow: visible; }
+  .more { max-width: 820px; }
+}
 </style>
 </head>
 <body>
@@ -412,17 +428,22 @@ function eventsOn(d) {
 function renderCal() {
   const first = month + "-01";
   const start = add(first, -new Date(first + "T12:00:00Z").getUTCDay());
-  const cells = [];
+  const cells = [], counts = {};
+  for (let i = 0; i < 42; i++) { const d = add(start, i); if (d.slice(0, 7) === month) counts[d] = eventsOn(d).picks.length; }
+  // tint by rank within this month: busiest third darkest, so differences show even on packed months
+  const busy = Object.values(counts).filter(Boolean).sort((a, b) => a - b);
+  const q1 = busy[Math.floor(busy.length / 3)] ?? 1, q2 = busy[Math.floor(busy.length * 2 / 3)] ?? 1;
   for (let i = 0; i < 42; i++) {
     const d = add(start, i);
     if (i >= 35 && d.slice(0, 7) !== month) break;
     const inMonth = d.slice(0, 7) === month;
-    const n = inMonth ? eventsOn(d).picks.length : 0;
+    const n = inMonth ? counts[d] : 0;
     cells.push(h("button", {
-      type: "button", class: "day" + (inMonth ? "" : " out") + (d < today ? " past" : "") + (d === today ? " today" : ""),
+      type: "button", class: "day" + (inMonth ? "" : " out") + (d < today ? " past" : "") + (d === today ? " today" : "")
+        + (!n ? "" : n >= q2 && q2 > q1 ? " l3" : n >= q1 && busy.length > 2 ? " l2" : " l1"),
       "aria-pressed": String(d === selected), "aria-label": label(d, { weekday: "long", month: "long", day: "numeric" }) + (n ? `, ${n} events` : ""),
       onclick: () => { selected = d; render(); }
-    }, h("span", { class: "n", text: +d.slice(8) }), h("span", { class: "dots" }, Array.from({ length: Math.min(n, 3) }, () => h("i")))));
+    }, h("span", { class: "n", text: +d.slice(8) }), h("span", { class: "cnt", text: n || "" })));
   }
   const months = DATA.events.map(sd).concat([today]).sort();
   const minM = today.slice(0, 7), maxM = months[months.length - 1].slice(0, 7);
@@ -430,17 +451,17 @@ function renderCal() {
     selected = month === today.slice(0, 7) ? today : month + "-01"; render(); };
   const { picks, standing } = eventsOn(selected);
   const isToday = selected === today;
-  return [
+  return [h("div", { class: "cal-layout" }, h("div", { class: "calpane" },
     h("div", { class: "month" },
       h("button", { class: "nav", type: "button", "aria-label": "Previous month", disabled: month <= minM ? "" : null, onclick: () => shift(-1), text: "‹" }),
       h("h2", { text: label(month + "-15", { month: "long", year: "numeric" }) }),
       h("button", { class: "nav", type: "button", "aria-label": "Next month", disabled: month >= maxM ? "" : null, onclick: () => shift(1), text: "›" })),
-    h("div", { class: "grid" }, ..."SMTWTFS".split("").map(c => h("div", { class: "dow", text: c })), ...cells),
-    h("div", { class: "dayhead", text: isToday ? "Tonight" : label(selected, { weekday: "long", month: "short", day: "numeric" }) }),
-    h("div", { class: "list" }, picks.length ? picks.map(e => row(e, selected)) : h("div", { class: "empty", text: "Nothing dated. Standing options below." })),
-    standing.length && h("div", { class: "dayhead", text: "Any week" }),
-    standing.length && h("div", { class: "list standing" }, standing.map(e => row(e, selected)))
-  ];
+    h("div", { class: "grid" }, ..."SMTWTFS".split("").map(c => h("div", { class: "dow", text: c })), ...cells)),
+    h("div", { class: "daypane" },
+      h("div", { class: "dayhead", text: isToday ? "Tonight" : label(selected, { weekday: "long", month: "short", day: "numeric" }) }),
+      h("div", { class: "list" }, picks.length ? picks.map(e => row(e, selected)) : h("div", { class: "empty", text: "Nothing dated. Standing options below." })),
+      standing.length && h("div", { class: "dayhead", text: "Any week" }),
+      standing.length && h("div", { class: "list standing" }, standing.map(e => row(e, selected)))))];
 }
 
 // ---- all view
