@@ -1,17 +1,5 @@
 [
  {
-  "title": "Macbeth",
-  "start": "2026-09-22T18:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
   "title": "Così fan tutte",
   "start": "2026-09-23T19:30:00-04:00",
   "category": "opera_classical",
@@ -26,18 +14,6 @@
  {
   "title": "Così fan tutte",
   "start": "2026-09-25T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-09-26T13:00:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -72,18 +48,6 @@
   "origin": "met_opera"
  },
  {
-  "title": "La Bohème",
-  "start": "2026-09-29T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
   "title": "Così fan tutte",
   "start": "2026-09-30T19:30:00-04:00",
   "category": "opera_classical",
@@ -98,18 +62,6 @@
  {
   "title": "Così fan tutte",
   "start": "2026-10-01T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-10-02T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -144,18 +96,6 @@
   "origin": "met_opera"
  },
  {
-  "title": "La Bohème",
-  "start": "2026-10-05T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
   "title": "Così fan tutte",
   "start": "2026-10-06T19:30:00-04:00",
   "category": "opera_classical",
@@ -170,18 +110,6 @@
  {
   "title": "Così fan tutte",
   "start": "2026-10-07T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-10-08T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -228,32 +156,8 @@
   "origin": "met_opera"
  },
  {
-  "title": "La Bohème",
-  "start": "2026-10-11T15:00:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
   "title": "Così fan tutte",
   "start": "2026-10-13T19:30:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-10-14T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -288,18 +192,6 @@
   "origin": "met_opera"
  },
  {
-  "title": "La Bohème",
-  "start": "2026-10-17T13:00:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
   "title": "Così fan tutte",
   "start": "2026-10-17T20:00:00-04:00",
   "category": "opera_classical",
@@ -314,18 +206,6 @@
  {
   "title": "Lincoln in the Bardo (world premiere)",
   "start": "2026-10-19T20:00:00-04:00",
-  "category": "opera_classical",
-  "url": "https://www.metopera.org/calendar/",
-  "cost_text": "Not stated",
-  "venue": "Metropolitan Opera",
-  "address": "30 Lincoln Center Plaza, New York, NY",
-  "neighborhood": "Lincoln Square",
-  "source_id": "seed",
-  "origin": "met_opera"
- },
- {
-  "title": "La Bohème",
-  "start": "2026-10-20T19:30:00-04:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -1092,7 +972,19 @@
   "origin": "met_opera"
  },
  {
-  "title": "Die Zauberflote Reduction",
+  "title": "La Fanciulla del West",
+  "start": "2026-12-31T18:30:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
+  "title": "La Fanciulla del West",
   "start": "2027-01-02T12:00:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
@@ -1104,8 +996,20 @@
   "origin": "met_opera"
  },
  {
-  "title": "Die Zauberflote Reduction",
+  "title": "La Fanciulla del West",
   "start": "2027-01-02T18:00:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-05T19:30:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -1118,6 +1022,18 @@
  {
   "title": "Tosca",
   "start": "2027-01-06T19:30:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-08T19:30:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -1152,8 +1068,32 @@
   "origin": "met_opera"
  },
  {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-13T19:00:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
   "title": "Tosca",
   "start": "2027-01-15T19:00:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-16T20:00:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -1176,6 +1116,18 @@
   "origin": "met_opera"
  },
  {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-19T19:00:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
   "title": "Tosca",
   "start": "2027-01-22T19:00:00-05:00",
   "category": "opera_classical",
@@ -1188,8 +1140,32 @@
   "origin": "met_opera"
  },
  {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-23T13:00:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
   "title": "Tosca",
   "start": "2027-01-24T15:00:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-27T19:30:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
@@ -1214,6 +1190,18 @@
  {
   "title": "Tosca",
   "start": "2027-01-29T19:30:00-05:00",
+  "category": "opera_classical",
+  "url": "https://www.metopera.org/calendar/",
+  "cost_text": "Not stated",
+  "venue": "Metropolitan Opera",
+  "address": "30 Lincoln Center Plaza, New York, NY",
+  "neighborhood": "Lincoln Square",
+  "source_id": "seed",
+  "origin": "met_opera"
+ },
+ {
+  "title": "La Fanciulla del West",
+  "start": "2027-01-30T20:00:00-05:00",
   "category": "opera_classical",
   "url": "https://www.metopera.org/calendar/",
   "cost_text": "Not stated",
