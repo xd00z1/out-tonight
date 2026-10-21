@@ -12,6 +12,7 @@ from __future__ import annotations
 import hashlib
 import html as htmllib
 import json
+from collections import Counter
 import re
 import sys
 import time
@@ -220,7 +221,8 @@ def tribe_events(data):
         addr = ", ".join(x for x in [v.get("address"), v.get("city"), v.get("state") or v.get("province")] if x)
         ev = {"title": htmllib.unescape(e.get("title", "")), "start": start, "all_day": all_day,
               "end": None if all_day else end, "url": e.get("url"), "venue": v.get("venue"),
-              "address": addr or None, "zip": v.get("zip"), "cost": e.get("cost") or None}
+              "address": addr or None, "zip": v.get("zip"), "cost": e.get("cost") or None,
+              "description": e.get("excerpt") or e.get("description")}
         if all_day and end and end.date() > start.date():
             ev["multi_day_end"] = end.date().isoformat()
         out.append(ev)
@@ -242,7 +244,7 @@ def localist_events(data):
         out.append({"title": e["title"], "start": start, "all_day": all_day, "end": end,
                     "url": e.get("localist_url") or e.get("url"), "venue": e.get("location_name"),
                     "address": e.get("address"), "zip": None, "cost": cost,
-                    "location": e.get("room_number")})
+                    "location": e.get("room_number"), "description": e.get("description_text") or e.get("description")})
     return out
 
 
@@ -283,9 +285,11 @@ def card_events(html, base_url):
             url = origin + url.split("?")[0]
         venue = re.search(r'class="[^"]*venue[^"]*"[^>]*>(.*?)</', block, re.S)
         free = re.search(r">\s*Free\s*<", block)
+        para = re.search(r"<p[^>]*>(.*?)</p>", block, re.S)
         out.append({"title": title or "", "start": start, "all_day": all_day, "end": None,
                     "url": url if url and url.startswith("http") else None,
-                    "venue": _clean(venue.group(1)) if venue else None, "cost": "Free" if free else None})
+                    "venue": _clean(venue.group(1)) if venue else None, "cost": "Free" if free else None,
+                    "description": para.group(1) if para else None})
     return [e for e in out if e["title"]]
 
 
@@ -350,7 +354,8 @@ def jsonld_events(html):
                         "all_day": all_day, "end": end, "multi_day_end": multi,
                         "url": url if isinstance(url, str) else None,
                         "venue": loc.get("name") if isinstance(loc, dict) else None,
-                        "address": addr or None, "zip": zipc, "cost": cost})
+                        "address": addr or None, "zip": zipc, "cost": cost,
+                        "description": n.get("description") if isinstance(n.get("description"), str) else None})
     return out
 
 
@@ -403,8 +408,9 @@ def nextdata_events(html, base_url):
             url = origin + url
         elif url and not url.startswith("http"):
             url = None
+        desc = next((n[k] for k in ("description", "excerpt", "summary", "subtitle", "teaser") if isinstance(n.get(k), str)), None)
         out.append({"title": htmllib.unescape(title).strip(), "start": start, "all_day": all_day,
-                    "end": end, "multi_day_end": multi, "url": url})
+                    "end": end, "multi_day_end": multi, "url": url, "description": desc})
     return out
 
 
@@ -428,6 +434,29 @@ def cost_tier_for(cost_text, default):
 
 
 _SMALL = {"a", "an", "and", "at", "by", "for", "in", "of", "on", "or", "the", "to", "with", "from", "x"}
+
+
+def make_blurb(desc, title=None, limit=260):
+    """First sentence or two of a source's own description: no HTML, links or boilerplate."""
+    if not desc or not isinstance(desc, str):
+        return None
+    t = htmllib.unescape(re.sub(r"<(br|/p|/li|/h\d)[^>]*>", " ", desc, flags=re.I))
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"\[/?[a-z][\w-]*[^\]]*\]", " ", t)  # page-builder shortcodes, e.g. [et_pb_text ...]
+    t = re.sub(r"https?://\S+|\S+@\S+\.\w+", " ", t)
+    t = re.sub(r"\s+", " ", t).strip(" -–—|")
+    t = re.sub(r"^(about|description|event details|overview)\s*:?\s*", "", t, flags=re.I)
+    if title and norm_key(t).startswith(norm_key(title)):
+        t = t[len(title):].lstrip(" :-–—|.,")  # many feeds repeat the title first
+    if len(t) < 25 or re.match(r"(buy|get) tickets|click|register|rsvp\b|tbd$", t, re.I):
+        return None
+    if len(t) <= limit:
+        return t
+    cut = t[:limit]
+    sentences = [m.end() for m in re.finditer(r"[.!?](\s|$)", cut)]
+    if sentences and sentences[-1] > 80:
+        return cut[:sentences[-1]].strip()
+    return cut[:cut.rfind(" ")].rstrip(" ,;:-–—") + "…"
 
 
 def tidy_title(t):
@@ -479,6 +508,7 @@ def from_raw(raw, src, today):
         "url": raw.get("url") or src["url"],
         "source_id": src["id"],
         "why": src.get("why"),
+        "blurb": make_blurb(raw.get("description"), raw.get("title")),
         "confidence": "verified",
         "kind": "event",
         "recurring": False,
@@ -837,6 +867,11 @@ def run(offline=False, today=None, out=PUBLIC):
     events = merged + seeded + expand_recurring(recurring, today)
     events = [e for e in events if last_day(e) >= today]
     events = dedupe(events)
+    # A blurb a source repeats on 3+ events is venue boilerplate, not about the event.
+    seen = Counter((e["source_id"], e.get("blurb")) for e in events if e.get("blurb"))
+    for e in events:
+        if e.get("blurb") and seen[(e["source_id"], e["blurb"])] >= 3:
+            e["blurb"] = None
     # A standing option is redundant when the venue's own feed lists the same slot.
     slots = {(norm_key(e["venue"]), e["start"]) for e in events if not e.get("recurring")}
     events = [e for e in events if not (e.get("recurring") and (norm_key(e["venue"]), e["start"]) in slots)]

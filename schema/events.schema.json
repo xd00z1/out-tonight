@@ -63,7 +63,8 @@
         "gcal_url": {"type": "string"},
         "entry": {"enum": ["walk_in", "rsvp", "ticket", null]},
         "price_min": {"type": ["number", "null"], "minimum": 0},
-        "origin": {"type": "string"}
+        "origin": {"type": "string"},
+        "blurb": {"type": ["string", "null"]}
       }
     }
   }

@@ -113,7 +113,7 @@ dialog.sheet::backdrop { background: rgb(0 0 0 / .45); }
 .sheet-head h3 { font: 600 20px/1.2 var(--serif); margin: 0; flex: 1; overflow-wrap: anywhere; }
 .x { border: 0; background: var(--chip); width: 30px; height: 30px; border-radius: 50%; cursor: pointer; flex: none; font-size: 16px; line-height: 1; }
 .meta { color: var(--muted); font-size: 14px; margin-top: 6px; }
-.why { margin-top: 8px; font-size: 14px; }
+.why { margin: 12px 0 0; font-size: 15px; line-height: 1.5; }
 .sec { margin-top: 18px; }
 .sec h4 { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
 .btns { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -294,30 +294,22 @@ const sec = (title, ...kids) => h("div", { class: "sec" }, h("h4", { text: title
 
 function eventSheet(e) {
   const when = e.multi_day_end ? `${label(sd(e), { weekday: "short", month: "short", day: "numeric" })} – ${label(ed(e), { month: "short", day: "numeric" })}`
-    : label(sd(e), { weekday: "long", month: "long", day: "numeric" }) + (e.all_day ? "" : " · " + time(e.start));
-  const src = DATA.sources.find(s => s.id === srcKey(e)) || { id: srcKey(e) };
+    : label(sd(e), { weekday: "short", month: "short", day: "numeric" }) + (e.all_day ? "" : " · " + time(e.start));
+  const where = [e.venue, e.neighborhood && e.neighborhood !== e.venue ? e.neighborhood : null].filter(Boolean).join(" · ");
+  const facts = [e.cost_text !== "Not stated" && e.cost_text, e.entry === "rsvp" && "RSVP", e.age_min && e.age_min + "+",
+    e.confidence === "projected" && "Estimated date"].filter(Boolean).join(" · ");
   const vk = venueKey(e);
-  const venueName = e.venue || e.neighborhood || "this venue";
+  const app = CAL_APPS.find(([k]) => k === prefs.cal)[1];
   openSheet(e.title,
-    h("div", { class: "meta", text: [when, e.venue, e.neighborhood && e.neighborhood !== e.venue ? e.neighborhood : null].filter(Boolean).join(" · ") }),
-    h("div", { class: "meta", text: [e.cost_text !== "Not stated" ? e.cost_text : "Cost not stated", e.entry === "rsvp" && "RSVP", e.age_min && e.age_min + "+", e.confidence === "projected" && "Estimated date"].filter(Boolean).join(" · ") }),
-    e.why && h("div", { class: "why", text: e.why }),
-    h("div", { class: "sec btns" }, h("a", { class: "btn primary", href: e.url, target: "_blank", rel: "noopener", text: "Event page" })),
-    sec("Add to calendar", h("div", { class: "btns" }, CAL_APPS.map(([k, t]) => h("button", { class: "btn", type: "button", text: t, onclick: () => addTo(k, e) })))),
-    vk && sec(`Your notes on ${venueName}`,
-      h("textarea", { class: "note", placeholder: "Cash only. $25 F&B minimum. Get there before 8. Ask for the bar seats…",
-        oninput: ev => { const v = ev.target.value; if (v.trim()) notes[vk] = v; else delete notes[vk]; save(); } }, notes[vk] || ""),
-      h("div", { class: "hint", text: "Saved on this device only. Shows on every event at this venue." })),
-    sec("Alert me", h("div", { class: "btns" },
-      vk && h("a", { class: "btn", target: "_blank", rel: "noopener", text: `New events at ${venueName}`,
-        href: issueUrl("alert.yml", `Alert: ${venueName}`, { alert_name: venueName, venue: e.venue || "" }) }),
-      h("a", { class: "btn", target: "_blank", rel: "noopener", text: "Similar titles",
-        href: issueUrl("alert.yml", `Alert: ${e.title}`, { alert_name: e.title.slice(0, 60), words: e.title.split(/[:|(–-]/)[0].trim().slice(0, 60) }) })),
-      h("div", { class: "hint", text: "Opens a short GitHub form. Matches are emailed to you after each refresh." })),
-    sec("Source", h("div", { class: "srow" }, h("span", { text: name(src) }),
-      h("input", { type: "checkbox", class: "switch", checked: !prefs.hidden.includes(src.id), "aria-label": "Show " + name(src),
-        onchange: ev => { prefs.hidden = ev.target.checked ? prefs.hidden.filter(x => x !== src.id) : [...prefs.hidden, src.id]; save(); } })),
-      h("div", { class: "hint", text: "Switch off to hide everything from this source on this device." }))
+    h("div", { class: "meta", text: when }),
+    where && h("div", { class: "meta", text: where }),
+    facts && h("div", { class: "meta", text: facts }),
+    (e.blurb || e.why) && h("p", { class: "why", text: e.blurb || e.why }),
+    h("div", { class: "sec btns" },
+      h("a", { class: "btn primary", href: e.url, target: "_blank", rel: "noopener", text: "Event page" }),
+      h("button", { class: "btn", type: "button", text: `Add to ${app} Calendar`, onclick: () => addTo(prefs.cal, e) })),
+    vk && h("textarea", { class: "note sec", placeholder: `Your notes on ${e.venue || e.neighborhood}`, "aria-label": "Venue notes",
+      oninput: ev => { const v = ev.target.value; if (v.trim()) notes[vk] = v; else delete notes[vk]; save(); } }, notes[vk] || "")
   );
 }
 
