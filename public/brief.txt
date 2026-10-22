@@ -1,35 +1,6 @@
 Out Tonight: NYC culture picks for the next 7 days
-Updated Wed Oct 21 2026, 12:24pm New York time. All times America/New_York.
+Updated Thu Oct 22 2026, 10:47am New York time. All times America/New_York.
 Format: day | time | title | venue | cost | link. Full data: events.json
-
-## Wednesday Oct 21
-12:00pm | Dispatches from the Field: Ricardo Araújo | The Explorers Club | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-ricardo-araujo/
-2:00pm | Center for Healing Ribbon Cutting and Open House | Center for Healing | https://greenwichhouse.org/event/center-for-healing-ribbon-cutting-and-open-house/
-5:30pm | Rush Hour Performance | Sonata Forms: Beethoven, Schubert, Scriabin | Juilliard Station | Free | https://www.juilliard.edu/event/187751/rush-hour-performance-sonata-forms-beethoven-schubert-scriabin
-5:45pm | Siena: Behind the Scenes with Giulio Dalvit | The Frick Collection | https://www.frick.org/calendar
-6:00pm | Built in Person: How Great Companies Scale IRL | Corgi Cafe | Free | https://luma.com/corginyc-ervo
-6:00pm | Cycol Gallery, Wait And Hope Foundation, and One Love Art Present: Monochrome | Cycol Gallery | Free | https://luma.com/do25ffxm
-6:00pm | NEW INC Workshare | New Museum | https://www.newmuseum.org/event/10-21-2026/
-6:00pm | Sonatenabend | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/186426/sonatenabend
-7:00pm | BRC x New Balance | Brooklyn Running Company | Free | https://luma.com/cu82batg
-7:00pm | Dizzy Gillespie Birthday with Jon Faddis | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:00pm | Tell Everyone | Screening & Film Talk | Scandinavia House | https://www.scandinaviahouse.org/event/tell-everyone-new-nordic-cinema/
-7:00pm | The Boy Friends ft: Mike Feeney, Matt Lopes, Corey B, Josh Ocean Thomas, Marcus Monroe, Shelley Kim | New York Comedy Club Upper West Side | $25.00 | https://newyorkcomedyclub.com/events/the-boy-friends-ft-mike-feeney-matt-lopes-corey-b-josh-ocean-thomas-marcus-monroe-shelley-kim
-7:00pm | The Boy Friends w/ Matt Lopes, Corey B, Marcus Monroe | New York Comedy Club Upper West Side | $25.00 | https://newyorkcomedyclub.com/events/the-boy-friends-w-matt-lopes-corey-b-marcus-monroe
-7:30pm | Brett Goldstein Runs His Hour Before His Tour | The Bell House | https://www.ticketmaster.com/brett-goldstein-runs-his-hour-before-brooklyn-new-york-10-21-2026/event/300064E6E5A07BB8
-7:30pm | Kramer/Fauci | St. Ann's Warehouse | https://stannswarehouse.org/show/kramer-fauci-26/
-7:30pm | Laughs In The East | Eastville Comedy Club | $10.00 | https://www.eastvillecomedy.com/events/laughs-in-the-east-29
-7:45pm | Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests | New York Comedy Club | $25.00 | https://newyorkcomedyclub.com/events/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-2026-10-21194500
-8:00pm | Comedy V.S Poetry Night! | Eastville Comedy Club | $20.00 | https://www.eastvillecomedy.com/events/comedy-v-s-poetry-night
-8:00pm | PTP Live! | Littlefield | https://littlefieldnyc.com/event/
-8:00pm | Tongo Eisen-Martin + Margaret Randall | The Poetry Project | https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall
-8:00pm | Yunchan Lim | Carnegie Hall, Stern Auditorium | https://www.carnegiehall.org/events
-all day | Albert Rivera Quartet | Zinc Bar | https://www.zincbar.com/event/albert-rivera-quartet-2/
-all day | Edward Steed and Liana Finck | McNally Jackson Seaport | Free, RSVP | https://www.mcnallyjackson.com/events
-all day | Prints and Multiples | Christie's, New York | https://www.christies.com/en/auction/auction-31060
-all day | TJG Signature Series // Jason Lindner Broadband | The Jazz Gallery | https://jazzgallery.org/calendar/jason-lindner-big-band-oct-2026
-all day | “Youth Without God” – A Staged Reading Based on the Novel by Ödön von Horváth | Austrian Cultural Forum | https://acfny.org/event/youth-without-god/
-Standing options: The Django
 
 ## Thursday Oct 22
 9:00am | Dispatches from the Field: The Menorca Shipwreck Project | The Explorers Club | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-the-menorca-shipwreck-project/
@@ -46,6 +17,7 @@ Standing options: The Django
 6:00pm | Build Your First App with Replit! | Brooklyn, NY | Free | https://luma.com/c1bw96zu
 6:00pm | Chucklefest | New York Comedy Club on 4th Street | $30.00 | https://newyorkcomedyclub.com/events/chucklefest
 6:00pm | Chucklefest ft: Matthew Broussard, Bo Bigelow, Konner Kienzle, Maggie Crane, Kevin Israel, Mo Mussa, Tristan Bowling | New York Comedy Club on 4th Street | $30.00 | https://newyorkcomedyclub.com/events/chucklefest-ft-matthew-broussard-bo-bigelow-konner-kienzle-maggie-crane-kevin-israel-mo-mussa-tristan-bowling
+6:00pm | Chucklefest ft: Matthew Broussard, Bo Bigelow, Konner Kienzle, Sureni Weerasekera, Kevin Israel, Mo Mussa, Tristan Bowling | New York Comedy Club on 4th Street | $30.00 | https://newyorkcomedyclub.com/events/chucklefest-ft-matthew-broussard-bo-bigelow-konner-kienzle-sureni-weerasekera-kevin-israel-mo-mussa-tristan-bowling
 6:00pm | Comedy Mob Presents: The Lineup | New York Comedy Club | Free | https://newyorkcomedyclub.com/events/comedy-mob-presents-the-lineup-2026-10-22180000
 6:00pm | Cycol Gallery, Wait And Hope Foundation, and One Love Art Present: Monochrome | Cycol Gallery | Free | https://luma.com/do25ffxm
 6:30pm | A flame latches to a bit of straw | New Museum | https://www.newmuseum.org/event/10-22-2026/
@@ -66,10 +38,12 @@ Standing options: Chelsea gallery receptions; Dizzy's Club Late Night Session; F
 
 ## Friday Oct 23
 11:00am | Nordic International Film Festival | Friday Films | Scandinavia House | https://www.scandinaviahouse.org/event/nordic-international-film-festival-2/
+11:00am | The Substrate of Extraction: A Bio Art Show | The Old American Can Factory | Free | https://luma.com/v77g2ygo
 2:00pm | Phone-Free Friday | Museum of the Moving Image | https://movingimage.org/event/phone-free-friday/2026-10-23/
 4:00pm | Bowery Art Space | New Museum | https://www.newmuseum.org/event/10-23-2026/
 4:00pm | String Quartet Haydn-a-Thon | Juilliard, Morse Hall | Free | https://www.juilliard.edu/event/188261/string-quartet-haydn-thon
 5:30pm | Huan-Ching Chou, Piano | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/189196/huan-ching-chou-piano
+6:00pm | Afterimage: Figma for Edu community showcase | ARTECHOUSE NYC | Free | https://luma.com/tw9rjsds
 6:00pm | How to Use Agents and Not Have Them Kill You | Museum of the Moving Image | https://movingimage.org/event/how-to-use-agents-and-not-have-them-kill-you/2026-10-23/
 6:00pm | James Mattern, Katie Blunt, Malachi Fox, Greg Melly, John Bennett | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/james-mattern-katie-blunt-malachi-fox-greg-melly-john-bennett
 6:00pm | Luke Severeid | New York Comedy Club on 4th Street | $29.00 | https://newyorkcomedyclub.com/events/luke-severeid-2026-10-23180000
@@ -89,6 +63,7 @@ Standing options: Chelsea gallery receptions; Dizzy's Club Late Night Session; F
 9:00pm | Lakecia Benjamin, Saxophone | Carnegie Hall, Zankel Hall | https://www.carnegiehall.org/events
 9:45pm | The Bell House Stand Up Showcase | The Bell House | https://www.ticketmaster.com/the-bell-house-stand-up-showcase-brooklyn-new-york-10-23-2026/event/30006541B0A26BA4
 11:00pm | BASHMENT IN BK – Late Night Dancehall & Soca Party | Littlefield | https://littlefieldnyc.com/event/
+all day | 31447 | Christie's, New York | https://www.christies.com/en/auction/auction-31447
 all day | Beaux Arts Ball | Andrew Freedman Home | Price not found | https://archleague.org/events/
 all day | MONUMENT FILMS – Peter Kubelka’s Metric Cinema | Austrian Cultural Forum | https://acfny.org/event/peter-kubelka/
 all day | Rabih Mroue and Lina Majdalanie | NYU Skirball | Per ticket | https://www.goethe.de/ins/us/en/sta/ney/ver.cfm
@@ -99,15 +74,19 @@ Standing options: Dizzy's Club Late Night Session; Flatiron Wines tasting; Morga
 ## Saturday Oct 24
 10:00am | Mozart for Munchkins: Spooktacular! 10 AM Concert | Greenwich House Music School | https://greenwichhouse.org/event/mozart-for-munchkins-spooktacular-2/
 11:00am | Nordic International Film Festival | Saturday Films | Scandinavia House | https://www.scandinaviahouse.org/event/nordic-international-film-festival-saturday-films/
+11:00am | The Substrate of Extraction: A Bio Art Show | The Old American Can Factory | Free | https://luma.com/v77g2ygo
 11:15am | Mozart for Munchkins: Spooktacular! 11:15 AM Concert | Greenwich House Music School | https://greenwichhouse.org/event/mozart-for-munchkins-spooktacular-1115-am-concert/
+12:00pm | Snake and Sip at Fugue Gallery | FUGUE GALLERY | $20 | https://luma.com/5y1chr9j
 12:30pm | Vampire’s Kiss | Museum of the Moving Image | https://movingimage.org/event/vampires-kiss/
 1:00pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
 1:05pm | Pre-College Piano Performance Forum | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/187576/pre-college-piano-performance-forum
 2:00pm | Bohemian Rhapsody, Viennese Grace: Romantic Piano Trios | Bargemusic | https://www.bargemusic.org/concert/beethoven-and-brahms-trios-of-titans/
 2:30pm | Blue & White Porcelain Painting Workshop | Greenwich House Pottery Artist Membership Studio | https://greenwichhouse.org/event/blue-white-porcelain-painting-workshop/
 3:00pm | Jim Henson Exhibition Guided Tours | Museum of the Moving Image | https://movingimage.org/event/30518/2026-10-24/
+3:00pm | One Funny Lisa Marie | New York Comedy Club on 4th Street | $35.00 | https://newyorkcomedyclub.com/events/one-funny-lisa-marie-2026-10-24150000
 3:00pm | The Exorcist | https://movingimage.org/event/the-exorcist/2026-10-24/
 4:00pm | Make Your Own Pop-up Book with Kelli Anderson | Poster House | &#036;30.00 | https://posterhouse.org/event/make-your-own-pop-up-book-with-kelli-anderson/
+4:00pm | Matinee with Ry Daddy | New York Comedy Club Upper West Side | $20.00 | https://newyorkcomedyclub.com/events/matinee-with-ry-daddy-2026-10-24160000
 5:30pm | Yuto Lim, Violin | Juilliard, Morse Hall | Free | https://www.juilliard.edu/event/188536/yuto-lim-violin
 6:00pm | James Mattern, Preston Gitlin, Lauren Cocroft, Greg Melly, John Bennett, Cesh Reyes | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/james-mattern-preston-gitlin-lauren-cocroft-greg-melly-john-bennett-cesh-reyes
 6:00pm | Preparatory Division Faculty Recital Series | Catherine Birke, Violin; Nico Olarte-Hayes, Cello; Oliver Hagen, Piano | Juilliard, Paul Hall | Free | https://www.juilliard.edu/event/186961/preparatory-division-faculty-recital-series-catherine-birke-violin-nico-olarte-hayes
@@ -167,6 +146,25 @@ all day | Festival Neue Literatur 2026: “Guests and Ghosts” | Austrian Cultu
 all day | Halloween Extravaganza: a Family Workshop | Scandinavia House | https://www.scandinaviahouse.org/event/halloween-extravaganza-a-family-workshop/
 all day | The Anthony Bolden Quartet | Zinc Bar | https://www.zincbar.com/event/the-anthony-bolden-quartet-2/
 Standing options: Arturo O'Farrill Afro Latin Jazz Orchestra; Guggenheim pay-what-you-wish; The Django
+
+## Wednesday Oct 28
+12:30pm | Exhibition Talk | "From Bronze to Gold: Experiencing Sienese Art" | The Frick Collection | https://www.frick.org/calendar
+7:00pm | Greg Hutchinson's Kind of Now: The Pulse of Miles Davis | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
+7:00pm | No Comment | New Nordic Cinema | Scandinavia House | https://www.scandinaviahouse.org/event/no-comment-new-nordic-cinema/
+7:00pm | Weakness and Strength; Five-Session Workshop with Benjamin Krusling | The Poetry Project | https://www.poetryproject.org/events/weakness-and-strength-five-session-workshop-with-benjamin-krusling
+7:30pm | Michelle Buteau | The Bell House | https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-10-28-2026/event/300064BAD3758F79
+7:30pm | Standard Time with Michael Feinstein | Carnegie Hall, Zankel Hall | https://www.carnegiehall.org/events
+8:00pm | Laughs In The East | Eastville Comedy Club | $20.00 | https://www.eastvillecomedy.com/events/comedy-spotlight-2026-10-28200000
+8:00pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
+8:00pm | Matt Longabucco + Susana Plotts-Pineda | The Poetry Project | https://www.poetryproject.org/events/matt-longabucco-susana-plotts-pineda
+8:00pm | NYC’s HALLOWEEN PUNDERDOME®: Pun & Pun-Costume Compuntitions – is on 10/28! | Littlefield | https://littlefieldnyc.com/event/
+8:00pm | THE GUYGULY EXPERIENCE (Ft. Guy’z Nite) | Eastville Comedy Club | $20.00 | https://www.eastvillecomedy.com/events/the-guyguly-experience-ft-guy-z-nite
+9:00pm | Julio Torres Presents: The Cursed Amulet III | Elsewhere | https://www.elsewhere.club/
+all day | European Literature Night 2026 | Austrian Cultural Forum | https://acfny.org/event/eln-2026/
+all day | Halloween Extravaganza: a Family Workshop | Scandinavia House | https://www.scandinaviahouse.org/event/halloween-extravaganza-a-family-workshop/
+all day | Julia Danielle Quintet | Zinc Bar | https://www.zincbar.com/event/julia-danielle-quintet-2/
+all day | TJG Joyce Wein Mentoring Series '26 // Logan Richardson & Esteban Castro | The Jazz Gallery | https://jazzgallery.org/calendar/logan-esteban-oct-28-2026
+Standing options: The Django
 
 ## Tickets going on sale (next 30 days)
 Nov 1 | Carnegie Hall Notables $20 tickets on sale | https://www.carnegiehall.org/
