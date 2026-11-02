@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-29T12:32:27-04:00",
- "duration_s": 264.9,
+ "generated_at": "2026-11-02T14:55:54-05:00",
+ "duration_s": 232.7,
  "counts": {
-  "ok": 21,
-  "empty": 4,
+  "ok": 22,
+  "empty": 3,
   "failed": 1,
   "link": 214,
   "skipped": 0,
@@ -148,7 +148,7 @@
    "http_status": 200,
    "count": 2,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "fit_museum",
@@ -238,7 +238,7 @@
    "http_status": 200,
    "count": 20,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "death_of_classical",
@@ -256,9 +256,9 @@
    "method": "jsonld",
    "result": "ok",
    "http_status": 200,
-   "count": 31,
+   "count": 30,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "smalls",
@@ -298,7 +298,7 @@
    "http_status": 200,
    "count": 40,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "birdland",
@@ -348,7 +348,7 @@
    "http_status": 200,
    "count": 15,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "nyc_jazz_record",
@@ -486,9 +486,9 @@
    "method": "tribe",
    "result": "ok",
    "http_status": 200,
-   "count": 37,
+   "count": 38,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "austrian_forum",
@@ -498,7 +498,7 @@
    "http_status": 200,
    "count": 5,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "villa_albertine",
@@ -576,9 +576,9 @@
    "method": "jsonld",
    "result": "ok",
    "http_status": 200,
-   "count": 7,
+   "count": 6,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "pi_fyi",
@@ -646,9 +646,9 @@
    "method": "nextdata",
    "result": "ok",
    "http_status": 200,
-   "count": 10,
+   "count": 12,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "winter_show",
@@ -848,7 +848,7 @@
    "http_status": 200,
    "count": 15,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "leslie_lohman",
@@ -1028,7 +1028,7 @@
    "http_status": 200,
    "count": 15,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "carnegie",
@@ -1118,7 +1118,7 @@
    "http_status": 200,
    "count": 15,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "ny92",
@@ -1166,9 +1166,9 @@
    "method": "tribe",
    "result": "ok",
    "http_status": 200,
-   "count": 15,
+   "count": 14,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "blue_note",
@@ -1256,9 +1256,9 @@
    "method": "nextdata",
    "result": "ok",
    "http_status": 200,
-   "count": 9,
+   "count": 8,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "nowadays",
@@ -1356,9 +1356,9 @@
    "method": "tribe",
    "result": "ok",
    "http_status": 200,
-   "count": 40,
+   "count": 39,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "public_theater",
@@ -1638,7 +1638,7 @@
    "http_status": 200,
    "count": 3,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "center_for_fiction",
@@ -1708,7 +1708,7 @@
    "http_status": 200,
    "count": 18,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "deutsches_haus",
@@ -1828,7 +1828,7 @@
    "http_status": 200,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "governors_island",
@@ -1968,7 +1968,7 @@
    "http_status": 200,
    "count": 15,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "union_hall",
@@ -1988,7 +1988,7 @@
    "http_status": 200,
    "count": 9,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "comedy_cellar",
@@ -2088,7 +2088,7 @@
    "http_status": 200,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "martha_graham",
@@ -2148,7 +2148,7 @@
    "http_status": 200,
    "count": 13,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "gotham_comedy",
@@ -2166,9 +2166,9 @@
    "method": "jsonld",
    "result": "ok",
    "http_status": 200,
-   "count": 6,
+   "count": 8,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "ucb",
@@ -2234,11 +2234,11 @@
    "id": "christies",
    "url": "https://www.christies.com/en/calendar",
    "method": "jsonld",
-   "result": "empty",
+   "result": "ok",
    "http_status": 200,
-   "count": 0,
+   "count": 6,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "phillips",
@@ -2318,7 +2318,7 @@
    "http_status": 200,
    "count": 0,
    "error": null,
-   "last_success": "2026-10-29"
+   "last_success": "2026-11-02"
   },
   {
    "id": "lvmh",
