@@ -1,66 +1,13 @@
 Out Tonight: NYC culture picks for the next 7 days
-Updated Mon Nov 2 2026, 2:55pm New York time. All times America/New_York.
+Updated Thu Nov 5 2026, 12:47pm New York time. All times America/New_York.
 Format: day | time | title | venue | cost | link. Full data: events.json
-
-## Monday Nov 2
-12:00am | "The future exists for the most part in the present": On Poetry, the Avant-Garde, and the Left | The Poetry Project | https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left
-12:00pm | Medal Monday with Brooks | Brooklyn Running Company | Free | https://luma.com/w8xgmw15
-5:00pm | a piano that paints -- Bottled Time :01, NYC | New York, NY | Free | https://luma.com/5516348y
-5:30pm | Suitable: menswear talk | Museum at FIT | Free | https://www.fitnyc.edu/museum/events/index.php
-6:00pm | La Moskitia: Honduras’ Last Marine Frontier | The Explorers Club | https://www.explorers.org/calendar-of-events/la-moskitia-honduras-last-marine-frontier/
-6:30pm | 2026 Fall Benefit: Many Doors, One Mission | Tribeca 360° | https://greenwichhouse.org/event/2026-fall-benefit-many-doors-one-mission/
-6:30pm | Legacy of the Frick Family | The Frick Collection | https://www.frick.org/calendar
-7:00pm | Adult Supervision | Nordic & Baltic Oscar Contenders | Scandinavia House | https://www.scandinaviahouse.org/event/adult-supervision-nordic-baltic-oscar-contenders/
-7:00pm | Adult Supervision | Screening & Director Talk | Scandinavia House | https://www.scandinaviahouse.org/event/adult-supervision-nordic-baltic-oscar-contenders/
-7:00pm | Backroom Comedy ft: Phoebe Robinson, James Mattern, Peter Liu, Sam Kochman, Michael Brigante | New York Comedy Club | Free | https://newyorkcomedyclub.com/events/backroom-comedy-ft-phoebe-robinson-james-mattern-peter-liu-sam-kochman-michael-brigante
-7:00pm | Jimmy Heath Big Band Centennial Celebration | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:00pm | This Isn’t Working | Work-in-Progress by Sean Donovan | LMCC’s Arts Center at Governors Island | https://lmcc.net/events/this-isnt-working/
-7:30pm | Brooklyn Power Hour NOW ON A NEW NIGHT! | Eastville Comedy Club | $10.00 | https://www.eastvillecomedy.com/events/brooklyn-power-hour-now-on-a-new-night-2026-11-02193000
-7:30pm | Good Eggs ft: Mark Normand, Gary Vider, Dan Davies | New York Comedy Club Upper West Side | $25.00 | https://newyorkcomedyclub.com/events/good-eggs-ft-mark-normand-gary-vider-dan-davies
-all day | Paul Nedzela | Zinc Bar | https://www.zincbar.com/event/paul-nedzela/
-Standing options: The Django; Vanguard Jazz Orchestra
-
-## Tuesday Nov 3
-5:30pm | 5 to 9 | New York, NY | Free | https://luma.com/jjbkcojw
-5:30pm | Northern Patterns: Learn Traditional Arctic Beading Details | Scandinavia House | https://www.scandinaviahouse.org/event/northern-patterns-learn-traditional-arctic-beading-details-2/2026-11-03/
-6:30pm | Outliers Welcome Party | New York, NY | Free | https://luma.com/outlierswelcome
-7:00pm | Friendly Criticism; 5-Session Writing Workshop with Rainer Diana Hamilton | The Poetry Project | https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton
-7:00pm | Reg Thomas, Kevin Dombrowski, Ophira Eisenberg, Jill Weiner | New York Comedy Club | $25.00 | https://newyorkcomedyclub.com/events/reg-thomas-kevin-dombrowski-ophira-eisenberg-jill-weiner
-7:00pm | Salsa Meets Jazz | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:00pm | Salsa Meets Jazz: Eddie Palmieri | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:30pm | Good Bits ft: Brittany Schmitt, Andre D Thompson, Shaun Murphy, Lisa Curry, Collin Chamberlin | New York Comedy Club Upper West Side | $15.00 | https://newyorkcomedyclub.com/events/good-bits-ft-brittany-schmitt-andre-d-thompson-shaun-murphy-lisa-curry-collin-chamberlin
-7:30pm | Medea | Metropolitan Opera | https://www.metopera.org/calendar/
-7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-2/
-8:00pm | Kareem Green, Dara Jemmott, Vishnu Vaka, Heidi Grandberry, Jamell Sirleaf, DJ Hairston | Eastville Comedy Club | $10.00 | https://www.eastvillecomedy.com/events/kareem-green-dara-jemmott-vishnu-vaka-heidi-grandberry-jamell-sirleaf-dj-hairston
-8:00pm | Spin Out With Me – An Educational Experience | Littlefield | https://littlefieldnyc.com/event/
-8:00pm | Tipsy Tuesday Showcase | Eastville Comedy Club | $10.00 | https://www.eastvillecomedy.com/events/tipsy-tuesday-showcase-2026-11-03200000
-all day | Pasquale Grasso Trio | Zinc Bar | https://www.zincbar.com/event/pasquale-grasso-trio-7/
-Standing options: Arturo O'Farrill Afro Latin Jazz Orchestra; Guggenheim pay-what-you-wish; The Django
-
-## Wednesday Nov 4
-12:00pm | Dispatches from the Field: Jonathan Shafter & John Malone | The Explorers Club | https://www.explorers.org/calendar-of-events/dispatches-from-the-field-jonathan-shafter/
-4:30pm | Salon Art + Design First Look | Park Avenue Armory | $517 | https://tickets.thesalonny.com/ga
-5:00pm | opening night | New York, NY | Free | https://luma.com/pb4lz3ds
-5:30pm | Stablecoin Sandwich Club: NYC | New York, NY | Free | https://luma.com/mtqnzcan
-7:00pm | Ashton Womack, Vannessa Jackson, Kunal C. Arora, Abby Washuta + Surprise Guest | New York Comedy Club Upper West Side | $15.00 | https://newyorkcomedyclub.com/events/ashton-womack-vannessa-jackson-kunal-c-arora-abby-washuta-surprise-guest
-7:00pm | Janis Siegel - The Art of Vocalese | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
-7:00pm | The Ground Beneath Our Feet | Nordic & Baltic Oscar Contenders | Scandinavia House | https://www.scandinaviahouse.org/event/the-ground-beneath-our-feet-nordic-baltic-oscar-contenders/
-7:00pm | The Ground Beneath Our Feet | Screening & Director Talk | Scandinavia House | https://www.scandinaviahouse.org/event/the-ground-beneath-our-feet-nordic-baltic-oscar-contenders/
-7:30pm | LPR Presents: Las Migas | Littlefield | https://littlefieldnyc.com/event/
-7:30pm | Tosca | Metropolitan Opera | https://www.metopera.org/calendar/
-7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-3/
-7:45pm | Dan St. Germain, Ismael Loutfi, Alex Castagne, Eeland Stribling, Katie Hannigan | New York Comedy Club | $25.00 | https://newyorkcomedyclub.com/events/dan-st-germain-ismael-loutfi-alex-castagne-eeland-stribling-katie-hannigan
-8:00pm | Kyle Wayne, Alfonso Hernandez, Michael Agunbiade, John Bennett, Cesh Reyes | Eastville Comedy Club | $20.00 | https://www.eastvillecomedy.com/events/kyle-wayne-alfonso-hernandez-michael-agunbiade-john-bennett-cesh-reyes
-8:00pm | Punch Brothers | Carnegie Hall, Stern Auditorium | https://www.carnegiehall.org/events
-8:00pm | The Moth StorySLAM | The Bell House | https://www.ticketmaster.com/the-moth-storyslam-brooklyn-new-york-11-04-2026/event/300064BB1911E6D0
-all day | Gabriel and Eytan Schillinger-Hyman Jazz Quartet | Zinc Bar | https://www.zincbar.com/event/gabriel-and-eytan-schillinger-hyman-jazz-quartet/
-all day | The Trap Music Orchestra | The Jazz Gallery | https://jazzgallery.org/calendar/the-trap-music-orchestra-11-04
-Standing options: The Django
 
 ## Thursday Nov 5
 1:00pm | Exhibition Talk | "From Bronze to Gold: Experiencing Sienese Art" | The Frick Collection | https://www.frick.org/calendar
 4:00pm | Jim Henson Exhibition Guided Tours | Museum of the Moving Image | https://movingimage.org/event/30518/2026-11-05/
+4:00pm | Louis Martin Vintage Watch Event | 608 5th Ave suite 702 | Free | https://luma.com/kc3qwro6
 4:00pm | Teen Listening Session with NYC Cultural Affairs Commissioner Diya Vij | Museum of the Moving Image | https://movingimage.org/event/teen-listening-session/
+4:30pm | MAESE PLACE: A Spanish Affair | DOORS NYC | Free | https://luma.com/13udy1ot
 5:00pm | MoMI LAB Public Tours | Museum of the Moving Image | https://movingimage.org/event/momi-lab-public-tours/2026-11-05/
 5:30pm | Impressions: Linocut | Carved and Pressed with Margrethe Aanestad | Scandinavia House | https://www.scandinaviahouse.org/event/impressions-botanical-relief-printing-carved-and-pressed-with-margrethe-aanestad/
 6:00pm | Comedy Mob Presents: The Lineup | New York Comedy Club | Free | https://newyorkcomedyclub.com/events/comedy-mob-presents-the-lineup-2026-11-05180000
@@ -70,11 +17,13 @@ Standing options: The Django
 7:00pm | Earth to Emily, Von | Elsewhere | https://www.elsewhere.club/
 7:00pm | Jason Marsalis Presents the Rare Works of Ellis Marsalis | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:30pm | Alisa Weilerstein: FRAGMENTS 6 | Carnegie Hall, Zankel Hall | https://www.carnegiehall.org/events
+7:30pm | Reg Thomas, Jenny Zigrino, Chuck Nice, Jack Finnegan, Jessica Levin | New York Comedy Club Upper West Side | Free | https://newyorkcomedyclub.com/events/reg-thomas-jenny-zigrino-chuck-nice-jack-finnegan-jessica-levin
 7:30pm | Reg Thomas, Jenny Zigrino, Jack Finnegan, Jessica Levin | New York Comedy Club Upper West Side | Free | https://newyorkcomedyclub.com/events/reg-thomas-jenny-zigrino-jack-finnegan-jessica-levin
 7:30pm | Sam Tallent | The Bell House | https://www.ticketmaster.com/sam-tallent-brooklyn-new-york-11-05-2026/event/3000648C41FC8C61
 7:30pm | The Met Orchestra Chamber Ensemble | Carnegie Hall, Weill Recital Hall | https://www.carnegiehall.org/events
 7:30pm | Tosca | Metropolitan Opera | https://www.metopera.org/calendar/
 7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-4/
+8:00pm | Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl | Eastville Comedy Club | $25.00 | https://www.eastvillecomedy.com/events/corinne-fisher-priya-blunts-peter-stewart-rosey-catherine-lauren-cocroft-peter-gurl-kyle-mara
 8:00pm | Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl, kyle mara | Eastville Comedy Club | $25.00 | https://www.eastvillecomedy.com/events/corinne-fisher-priya-blunts-peter-stewart-rosey-catherine-lauren-cocroft-peter-gurl-kyle-mara
 8:00pm | Once More, With Feeling: Live! 25th Anniversary Show | Littlefield | https://littlefieldnyc.com/event/
 8:00pm | Orchestra of St. Luke’s | Carnegie Hall, Stern Auditorium | https://www.carnegiehall.org/events
@@ -86,12 +35,17 @@ all day | “Resonance Studies between Sonic Structure and Olfactory Composition
 Standing options: Chelsea gallery receptions; Dizzy's Club Late Night Session; Flatiron Wines tasting; ICP $5 Thursday; New Museum pay-what-you-wish Thursday; The Django
 
 ## Friday Nov 6
+9:00am | TechWalk | NYC, 11/6 w/ Social Paws | Central Park | Free | https://luma.com/techwalk-rhl5
 12:00pm | First Friday: DIY Matchbook Drop-in Workshop | Poster House | Free | https://posterhouse.org/event/first-friday-diy-matchbook-drop-in-workshop/
 2:00pm | Phone-Free Friday | Museum of the Moving Image | https://movingimage.org/event/phone-free-friday/2026-11-06/
+4:00pm | The Cat in the Hat | Museum of the Moving Image | https://movingimage.org/event/the-cat-in-the-hat/
 5:30pm | Louis Vuitton First Fridays | The Frick Collection | https://www.frick.org/calendar
+6:00pm | Archadia, Opening Night | 65 Allen St | Free | https://luma.com/fyma6djb
 6:00pm | Friday Night Comedy | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/friday-night-comedy-1-31
 6:00pm | How to Use Agents and Not Have Them Kill You | Museum of the Moving Image | https://movingimage.org/event/how-to-use-agents-and-not-have-them-kill-you/2026-11-06/
 6:00pm | Sima Sepehri, Lauren Cocroft, Denham Demac, John Bennett, Colin Cab Washington, Janeane Garofalo | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/sima-sepehri-lauren-cocroft-denham-demac-john-bennett-colin-cab-washington-janeane-garofalo
+6:00pm | Tokyo Kanpai Boys Presented by the New York Comedy Festival | New York Comedy Club on 4th Street | $22.00 | https://newyorkcomedyclub.com/events/tokyo-kanpai-boys-presented-by-the-new-york-comedy-festival
+6:15pm | Chuck Nice, Nore Davis, Jenny Zigrino, Maximilian Spinelli | New York Comedy Club Upper West Side | $20.00 | https://newyorkcomedyclub.com/events/chuck-nice-nore-davis-jenny-zigrino-maximilian-spinelli
 6:30pm | Baltic Animated Shorts | Nybff | Scandinavia House | https://www.scandinaviahouse.org/event/baltic-animated-shorts-nybff/
 7:00pm | Detrick and Detrick: An Evening of Silly Songs (and some not so Silly) | Greenwich House Music School | Free | https://greenwichhouse.org/event/detrick-and-detrick-an-evening-of-silly-songs-and-some-not-so-silly/
 7:00pm | Gabrielle Civil performance | Participant Inc | https://participantinc.org/
@@ -100,9 +54,9 @@ Standing options: Chelsea gallery receptions; Dizzy's Club Late Night Session; F
 7:30pm | MC Hammersmith Live! | The Bell House | https://www.ticketmaster.com/mc-hammersmith-live-brooklyn-new-york-11-06-2026/event/3000653C0AFB4A49
 7:30pm | Scarecrows | Nybff | Scandinavia House | https://www.scandinaviahouse.org/event/scarecrows-nybff/
 7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-5/
+8:00pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
 8:00pm | NY Comedy Festival Presents: Putería con PAPIROSSA: Celebration of Life | Littlefield | https://littlefieldnyc.com/event/
 8:00pm | Subhah Agarwal, James Mattern, Tom Zappia, Michael Agunbiade, Torrey Huggins, Jared Waters | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/subhah-agarwal-james-mattern-tom-zappia-michael-agunbiade-torrey-huggins-jared-waters
-8:00pm | Tosca | Metropolitan Opera | https://www.metopera.org/calendar/
 9:00pm | Chatroom: OSGEMEOS - Free w/ RSVP | Elsewhere | https://www.elsewhere.club/
 10:00pm | Olivia Carter | The Bell House | https://www.ticketmaster.com/olivia-carter-brooklyn-new-york-11-06-2026/event/3000650C04B8B744
 11:00pm | AFROVRSE – NYC’s Biggest Celebration of African Music | Littlefield | https://littlefieldnyc.com/event/
@@ -122,16 +76,17 @@ Standing options: Dizzy's Club Late Night Session; Flatiron Wines tasting; Morga
 1:00pm | Medea | Metropolitan Opera | https://www.metopera.org/calendar/
 2:00pm | Baltic Shorts | Nybff | Scandinavia House | https://www.scandinaviahouse.org/event/baltic-shorts-nybff-2/
 2:00pm | Complete Piano Sonatas of Beethoven with Conversation, Part 8: “A New Vision” | Bargemusic | https://www.bargemusic.org/concert/complete-piano-sonatas-of-beethoven-with-conversation-part-8-a-new-vision/
+3:00pm | "We Should Date" Live Presented by the New York Comedy Festival | New York Comedy Club on 4th Street | $25.00 | https://newyorkcomedyclub.com/events/we-should-date-live-presented-by-the-new-york-comedy-festival
 3:00pm | Jim Henson Exhibition Guided Tours | Museum of the Moving Image | https://movingimage.org/event/30518/2026-11-07/
 3:00pm | Sloan Showcase: After Yang with Kogonada in person + Verse | Museum of the Moving Image | https://movingimage.org/event/embodied-technology/
 4:00pm | Jay Jurden | The Bell House | https://www.ticketmaster.com/jay-jurden-brooklyn-new-york-11-07-2026/event/30006511E19D98F2
+4:00pm | Matinee with Ry Daddy | New York Comedy Club Upper West Side | $20.00 | https://newyorkcomedyclub.com/events/matinee-with-ry-daddy-2026-11-07160000
 6:00pm | James Mattern, Harris Stanton, Dara Jemmott, Nina Kharoufeh, Malachi Fox, Jaclyn Lore-Edwards | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/james-mattern-harris-stanton-dara-jemmott-nina-kharoufeh-malachi-fox-jaclyn-lore-edwards
 7:00pm | Jeremy Pelt – 50th Birthday Celebration | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
 7:00pm | Taka Kigawa: Debussy’s Complete Préludes – Book I & II | Greenwich House Music School | $28.52 | https://greenwichhouse.org/event/taka-kigawa-debussys-complete-preludes-book-i-ii/
 7:30pm | Good Noticings Presents: Clash Talk - A Competitive Talk Show | The Bell House | https://www.ticketmaster.com/good-noticings-presents-clash-talk-a-brooklyn-new-york-11-07-2026/event/3000654107ACBFBF
 7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-7/
 8:00pm | Nore Davis, Sima Sepehri, Greg Melly, Torrey Huggins, Janeane Garofalo, DJ Hairston | Eastville Comedy Club | $30.00 | https://www.eastvillecomedy.com/events/nore-davis-sima-sepehri-greg-melly-torrey-huggins-janeane-garofalo-dj-hairston
-8:00pm | Tosca | Metropolitan Opera | https://www.metopera.org/calendar/
 all day | Collectible New York | Downtown, TBA | Not announced | https://collectible.design/
 all day | Kris Davis, Tyshawn Sorey, Ingrid Laubrock | Miller Theatre | Per ticket | https://www.millertheatre.com/about/press/miller-theatre-announces-the-2026-27-season
 all day | Salon Art + Design | Park Avenue Armory | $10 student, $37.50 GA | https://www.thesalonny.com/hours-and-admission-ny
@@ -165,6 +120,56 @@ all day | The 2026 New York Baltic Film Festival | Scandinavia House | https://w
 all day | Valtinho Anastácio | Zinc Bar | https://www.zincbar.com/event/valtinho-anastacio-78/
 all day | WFMU Record Fair | https://wfmu.org/recordfair/
 Standing options: Guggenheim pay-what-you-wish; Pioneer Works Second Sundays; Studio Museum free Sunday; The Django; Whitney Free Second Sunday
+
+## Monday Nov 9
+6:00pm | Becoming Martian: How Living in Space Will Change Our Bodies and Minds | The Explorers Club | https://www.explorers.org/calendar-of-events/becoming-martian-how-living-in-space-will-change-our-bodies-and-minds/
+7:00pm | Criterion presents The Craft of Acting: Léa Seydoux | Museum of the Moving Image | https://movingimage.org/event/the-craft-of-acting-lea-seydoux/
+7:00pm | Lou Donaldson Centennial Celebration | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
+7:00pm | Young Fellows Talk | The Frick Collection | https://www.frick.org/calendar
+7:30pm | Brooklyn Power Hour NOW ON A NEW NIGHT! | Eastville Comedy Club | $10.00 | https://www.eastvillecomedy.com/events/brooklyn-power-hour-now-on-a-new-night-2026-11-09193000
+7:30pm | Dewayne Perkins: How Being Black & Gay Made Me Better Than You | The Bell House | https://www.ticketmaster.com/dewayne-perkins-how-being-black-gay-brooklyn-new-york-11-09-2026/event/3000650C1E89D44B
+7:30pm | Lincoln in the Bardo (world premiere) | Metropolitan Opera | https://www.metopera.org/calendar/
+8:00pm | Christeene + Geo Wyex | The Poetry Project | https://www.poetryproject.org/events/christeene-geo-wyex
+9:30pm | NY Comedy Festival Presents: Demi Adejuyigbe Sells Out | Littlefield | https://littlefieldnyc.com/event/
+all day | Elew Trio | Zinc Bar | https://www.zincbar.com/event/elew-trio-6/
+all day | RAW Wine New York | Industry City | https://www.rawwine.com/fairs/new-york-2026
+all day | Sotheby's New York Sales exhibition | Sotheby's | Free | https://www.sothebys.com/en/calendar?locations=new-york&types=event
+Standing options: The Django; Vanguard Jazz Orchestra
+
+## Tuesday Nov 10
+5:30pm | Northern Patterns: Learn Traditional Arctic Beading Details | Scandinavia House | https://www.scandinaviahouse.org/event/northern-patterns-learn-traditional-arctic-beading-details-2/2026-11-10/
+7:00pm | Fjord | Nordic & Baltic Oscar Contenders | Scandinavia House | https://www.scandinaviahouse.org/event/fjord-nordic-baltic-oscar-contenders/
+7:00pm | Jon Gordon Nonet | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
+7:30pm | Chris Vs. the People | The Bell House | https://www.ticketmaster.com/chris-vs-the-people-brooklyn-new-york-11-10-2026/event/3000650C21A9D876
+7:30pm | Juilliard at Zankel Hall | Carnegie Hall, Zankel Hall | https://www.carnegiehall.org/events
+7:30pm | Medea | Metropolitan Opera | https://www.metopera.org/calendar/
+7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-10/
+7:30pm | Victor Santiago Asuncion, Piano | Carnegie Hall, Weill Recital Hall | https://www.carnegiehall.org/events
+8:00pm | NY Comedy Festival Presents: Tone and the Homies | Littlefield | https://littlefieldnyc.com/event/
+8:00pm | Tipsy Tuesday Showcase | Eastville Comedy Club | $10.00 | https://www.eastvillecomedy.com/events/tipsy-tuesday-showcase-2026-11-10200000
+all day | Sotheby's New York Sales exhibition | Sotheby's | Free | https://www.sothebys.com/en/calendar?locations=new-york&types=event
+all day | Tsutomu Nakai | Zinc Bar | https://www.zincbar.com/event/tsutomu-nakai-7/
+Standing options: Arturo O'Farrill Afro Latin Jazz Orchestra; Guggenheim pay-what-you-wish; The Django
+
+## Wednesday Nov 11
+6:00pm | Screening – Stolen Children | The Explorers Club | https://www.explorers.org/calendar-of-events/screening-stolen-children/
+6:00pm | The Status of Statuettes | The Frick Collection | https://www.frick.org/calendar
+7:00pm | Django Reinhardt NY Festival | Dizzy's Club - Jazz at Lincoln Center | $24 | https://www.jazz.org/dizzys/
+7:00pm | Growth of the Soil | Nordic & Baltic Oscar Contenders | Scandinavia House | https://www.scandinaviahouse.org/event/growth-of-the-soil-nordic-baltic-oscar-contenders/
+7:00pm | Growth of the Soil | with Hans Petter Moland & Asta Kamma August | Scandinavia House | https://www.scandinaviahouse.org/event/growth-of-the-soil-nordic-baltic-oscar-contenders/
+7:00pm | PAGE BREAK Presents: STAGE BREAK | Littlefield | https://littlefieldnyc.com/event/
+7:30pm | Jonathan Palmer Lakeland, Piano | Carnegie Hall, Zankel Hall | https://www.carnegiehall.org/events
+7:30pm | Josh Gondelman | The Bell House | https://www.ticketmaster.com/josh-gondelman-brooklyn-new-york-11-11-2026/event/3000650C2D05E9AD
+7:30pm | Medea | Metropolitan Opera | https://www.metopera.org/calendar/
+7:30pm | Tristan & Yseult | St. Ann's Warehouse | https://stannswarehouse.org/show/tristan-yseult-12/
+8:00pm | Wednesday Showcase | Eastville Comedy Club | $20.00 | https://www.eastvillecomedy.com/events/wednesday-showcase-eastville-comedy-club-1
+10:00pm | Charlie & Richard: Secret Project | The Bell House | https://www.ticketmaster.com/charlie-richard-secret-project-brooklyn-new-york-11-11-2026/event/3000650C1320FC5B
+all day | DOC NYC | Various theaters | Passes on sale | https://www.docnyc.net/
+all day | Kelly Green Quartet | Zinc Bar | https://www.zincbar.com/event/kelly-green-quartet-3/
+all day | Le Bal Imperial | French Heritage Society | Not published | https://frenchheritagesociety.org/chapters/young-patrons-circle/
+all day | Sotheby's New York Sales exhibition | Sotheby's | Free | https://www.sothebys.com/en/calendar?locations=new-york&types=event
+all day | Yvonne Rogers Quartet | The Jazz Gallery | https://jazzgallery.org/calendar/yvonne-rogers-nov-11-2026
+Standing options: The Django
 
 ## Tickets going on sale (next 30 days)
 Dec 1 | Carnegie Hall Notables $20 tickets on sale | https://www.carnegiehall.org/
